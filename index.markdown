@@ -39,35 +39,37 @@ layout: default
     </div>
 </section>
 
-<div id="socials" class="container p-5" style="top: -56px;">
-  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner text-primary">
-      <div class="carousel-item active">
-        <a href="https://www.instagram.com/roosjepertz" class="col-10 col-md-9 col-lg-8 col-xl-6">
-          <h2>{{ page.socials_instagram_title }}</h2>
-          <!-- SnapWidget -->
-          <script src="https://snapwidget.com/js/snapwidget.js"></script>
-          <iframe src="https://snapwidget.com/embed/855834" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
-        </a>
+<section class="bg-light" id="socials">
+  <div class="container p-5 bg-light" style="top: -56px;">
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner text-primary">
+        <div class="carousel-item active">
+          <a href="https://www.instagram.com/roosjepertz" class="col-10 col-md-9 col-lg-8 col-xl-6">
+            <h2>{{ page.socials_instagram_title }}</h2>
+            <!-- SnapWidget -->
+            <script src="https://snapwidget.com/js/snapwidget.js"></script>
+            <iframe src="https://snapwidget.com/embed/855834" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+          </a>
+        </div>
+        <div class="carousel-item">
+          <h2>{{ page.socials_twitter_title }}</h2>
+          <a class="twitter-timeline" data-width="800" data-height="800" href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
       </div>
-      <div class="carousel-item">
-        <h2>{{ page.socials_twitter_title }}</h2>
-        <a class="twitter-timeline" data-width="800" data-height="800" href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">{{ page.socials_twitter_previous }}</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">{{ page.socials_twitter_next }}</span>
+      </a>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">{{ page.socials_twitter_previous }}</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">{{ page.socials_twitter_next }}</span>
-    </a>
   </div>
-</div>
+</section>
 
-<section class="bg-light " id="podcast">
-  <div class="container banner pt-5" style="padding:unset; max-height: unset; background-image: url({{ '/img/Dertigerspraat.jpg' | relative_url }});">
+<section class="bg-white" id="podcast">
+  <div class="container banner pt-5" style="padding:unset; max-height: unset; background-image: url({{ '/img/dertigerspraat.jpg' | relative_url }});">
     <div class="d-flex justify-content-center">
         <h2 class="text-white text-center bg-light mt-5 p-3">{{ page.podcast_title }}</h2>
     </div>
@@ -93,7 +95,7 @@ layout: default
                 <a class="btn btn-primary btn-xl text-white page-scroll" href="mailt: info@roosjepertz.be">{{ page.copywriting_button }}</a>
             </div>
             <div class="col-12 col-md-5 mt-5 mb-5">
-                <img src="img/bio.jpg" class="img-fluid" alt="roosje-pertz-comedian">
+                <img src="img/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
             </div>
         </div>
     </div>
