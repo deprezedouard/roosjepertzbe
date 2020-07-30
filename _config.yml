@@ -10,6 +10,7 @@ collections:
     output: true
 sass:
   sass_dir: assets/css
+  style: compressed
 plugins:
 - jekyll-autoprefixer
 - jekyll-seo-tag
@@ -18,11 +19,11 @@ email: info@roosjepertz.be
 description: 'Website van stand-up comedienne Roosje Pertz.
 
 '
-baseurl: 
+baseurl:
 url: http://www.roosjepertz.be
-twitter_username: 
+twitter_username:
 tagline: Website van stand-up comedienne Roosje Pertz.
 author: Edouard De Prez
-google_analytics: 
+google_analytics:
 twitter:
   username: roosjepertz
