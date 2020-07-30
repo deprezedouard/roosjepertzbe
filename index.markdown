@@ -69,7 +69,7 @@ layout: default
 </section>
 
 <section class="bg-white" id="podcast">
-  <div class="container banner pt-5" style="padding:unset; max-height: unset; background-image: url({{ '/img/Dertigerspraat.jpg' | relative_url }});">
+  <div class="container banner pt-5" style="padding:unset; max-height: unset; background-image: url({{ '/img/dertigerspraat.jpg' | relative_url }});">
     <div class="d-flex justify-content-center">
         <h2 class="text-white text-center bg-light mt-5 p-3">{{ page.podcast_title }}</h2>
     </div>
@@ -95,7 +95,7 @@ layout: default
                 <a class="btn btn-primary btn-xl text-white page-scroll" href="mailt: info@roosjepertz.be">{{ page.copywriting_button }}</a>
             </div>
             <div class="col-12 col-md-5 mt-5 mb-5">
-                <img src="img/bio.jpg" class="img-fluid" alt="roosje-pertz-comedian">
+                <img src="img/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
             </div>
         </div>
     </div>
