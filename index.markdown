@@ -1,7 +1,6 @@
 ---
 title: Roosje Pertz
-layout: default
-bio_title: Bio van een straffe madam
+bio_title: Bio
 bio_description: In 2018 besliste Roosje Pertz om eens op een podium te zeggen wat
   ze dacht. Dat bleek pure comedy te zijn. Roosje Pertz is een grappige vrouw. Dat
   zeggen haar vrienden al lang.  Haar rake observaties vallen in de smaak bij een
@@ -17,12 +16,9 @@ socials_twitter_previous: Vorige
 socials_twitter_next: Volgende
 podcast_title: Dertigerspraat/Kilocast
 copywriting_title: Copywriting
-copywriting_text: In 2018 besliste Roosje Pertz om eens op een podium te zeggen wat
-  ze dacht. Dat bleek pure comedy te zijn. Roosje Pertz is een grappige vrouw. Dat
-  zeggen haar vrienden al lang.  Haar rake observaties vallen in de smaak bij een
-  breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar
-  aparte blik langs de geijkte paadjes van de middenklasse.
+copywriting_text: "Grappen, pure ernst en alles daartussen. Roosje schrijft het. \nhttps://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer "
 copywriting_button: Contacteer mij!
+layout: default
 ---
 
 {% include banner.html %}

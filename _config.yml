@@ -10,6 +10,7 @@ collections:
     output: true
 sass:
   sass_dir: assets/css
+  style: compressed
 plugins:
 - jekyll-autoprefixer
 - jekyll-seo-tag
