@@ -1,0 +1,15 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: auto;
+  min-width: 100%;
+}
+.header {
+    margin-top: 56px;
+    padding: 200px 0;
+    max-height: 40vh;
+}
+
+.podcast-header {
+
+}
