@@ -1,24 +1,28 @@
-
-
+---
+title: Roosje Pertz
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 sass:
   sass_dir: assets/css
-
 plugins:
-  - jekyll-autoprefixer
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-title: Roosje Pertz
+- jekyll-autoprefixer
+- jekyll-seo-tag
+- jekyll-sitemap
 email: info@roosjepertz.be
-description: > # this means to ignore newlines until "baseurl:"
-  Website van stand-up comedienne Roosje Pertz.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.roosjepertz.be" # the base hostname & protocol for your site
+description: 'Website van stand-up comedienne Roosje Pertz.
 
-twitter_username:
-
-tagline: "Website van stand-up comedienne Roosje Pertz."
+'
+baseurl: ''
+url: http://www.roosjepertz.be
+twitter_username: 
+tagline: Website van stand-up comedienne Roosje Pertz.
 author: Edouard De Prez
-google_analytics:
+google_analytics: 
 twitter:
   username: roosjepertz
