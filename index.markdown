@@ -2,7 +2,7 @@
 title: Roosje Pertz
 bio_title: Bio
 bio_description: "Roosje Pertz kreeg van haar moeder het advies niet langer met haar
-  mond open voor zich uit te staren en haar vrienden vonden dat ze stand-upcomedian
+  mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian
   moest worden. \n\nSinds 2018 combineert Roosje met groot succes beide gouden tips.
   Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en
   flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte
