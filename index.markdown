@@ -2,9 +2,8 @@
 title: Roosje Pertz
 published: false
 bio_title: Bio
-bio_description: "Roosje Pertz is al lang grappig. Twee belangrijke adviezen hadden
-  recentelijk een enorme impact op haar leven. Haar moeder raadde haar aan om niet
-  langer met de mond open voor zich uit te staren en haar vrienden vonden dat ze stand-upcomedian
+bio_description: "Roosje Pertz kreeg van haar moeder het advies niet langer met haar
+  mond open voor zich uit te staren en haar vrienden vonden dat ze stand-upcomedian
   moest worden. \n\nSinds 2018 combineert Roosje met groot succes beide gouden tips.
   Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en
   flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte
