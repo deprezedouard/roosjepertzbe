@@ -1,5 +1,6 @@
 ---
 title: Roosje Pertz
+published: false
 bio_title: Bio
 bio_description: "Roosje Pertz is al lang grappig. Twee belangrijke adviezen hadden
   recentelijk een enorme impact op haar leven. Haar moeder raadde haar aan om niet
