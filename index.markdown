@@ -1,22 +1,30 @@
 ---
 title: Roosje Pertz
 bio_title: Bio
-bio_description: In 2018 besliste Roosje Pertz om eens op een podium te zeggen wat
-  ze dacht. Dat bleek pure comedy te zijn. Roosje Pertz is een grappige vrouw. Dat
-  zeggen haar vrienden al lang.  Haar rake observaties vallen in de smaak bij een
-  breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar
-  aparte blik langs de geijkte paadjes van de middenklasse. <br><br> In 2019 nam Michael
-  Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> Ze is ook te
-  beluisteren op de podcasts Dertigerspraat en KiloCast. Met een Leuvens accent. Ooit
-  wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
-bio_button: Luister naar mijn podcast!
+bio_description: "Roosje Pertz is al lang grappig. Twee belangrijke adviezen hadden
+  recentelijk een enorme impact op haar leven. Haar moeder raadde haar aan om niet
+  langer met de mond open voor zich uit te staren en haar vrienden vonden dat ze stand-upcomedian
+  moest worden. \n\nSinds 2018 combineert Roosje met groot succes beide gouden tips.
+  Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en
+  flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte
+  paadjes van de middenklasse. <br><br> In 2019 nam Michael Van Peel Roosje mee op
+  tournee als een van zijn Young Ones. <br><bar> Ze is ook te beluisteren op de podcasts
+  Dertigerspraat en KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje
+  is heel sociaal op Twitter, Youtube, Facebook en Instagram."
+bio_button: Luister hier naar Roosjes podcasts
 socials_instagram_title: Roosje op Instagram
 socials_twitter_title: Roosje op Twitter
 socials_twitter_previous: Vorige
 socials_twitter_next: Volgende
 podcast_title: Dertigerspraat/Kilocast
 copywriting_title: Copywriting
-copywriting_text: "Grappen, pure ernst en alles daartussen. Roosje schrijft het. \nhttps://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer "
+copywriting_text: "Grappen, pure ernst en alles daartussen. Roosje schrijft op commando.
+  Bewijsmateriaal verzamelde ze hieronder. \n\nRoosje schreef en bracht humoristische
+  passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd. \n\nRoosje
+  schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan
+  dat ook voor die van jou. \n\nLees hier haar column voor Radio 1 over de lockdown
+  van maart 2020. \nhttps://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer
+  \n\nDownload hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.\n\n"
 copywriting_button: Contacteer mij!
 layout: default
 ---
