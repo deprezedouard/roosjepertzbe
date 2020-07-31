@@ -1,6 +1,5 @@
 ---
 title: Roosje Pertz
-published: false
 bio_title: Bio
 bio_description: "Roosje Pertz kreeg van haar moeder het advies niet langer met haar
   mond open voor zich uit te staren en haar vrienden vonden dat ze stand-upcomedian
