@@ -12,19 +12,15 @@ socials_twitter_previous: Vorige
 socials_twitter_next: Volgende
 podcast_title: Dertigerspraat/Kilocast
 copywriting_title: Copywriting
-copywriting_text: |-
-  Grappen, pure ernst en alles daartussen. Roosje schrijft op commando. Bewijsmateriaal verzamelde ze hieronder. <br><br>
-
-  Roosje schreef en bracht humoristische passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd. <br><br>
-  Roosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan dat ook voor die van jou. <br><br>
-
-  Lees hier haar column voor Radio 1 over de lockdown van maart 2020. <br><br>
-
-  <a href="https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer" target="_blank">Schrijf hier titel van link</a>
-
-  Download hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver. <br><br>
-
-  <a href="https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing" target="_blank">Schrijf hier titel van link</a>
+copywriting_text: "Grappen, pure ernst en alles daartussen. Roosje schrijft op commando.
+  Bewijsmateriaal verzamelde ze hieronder.\n<br><br>\nRoosje schreef en bracht humoristische
+  passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd.\n<br><br>\nRoosje
+  schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan
+  dat ook voor die van jou. <br><br>\nLees hier haar column voor Radio 1 over de lockdown
+  van maart 2020. \n<br><br>\n<a href=\"https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer\"
+  target=\"_blank\">Schrijf hier titel van link</a>\n<br><br>\nDownload hier de waanzinnige
+  quizvragen die ze maakte voor de podcast Palaver. \n<br><br>\n<a href=\"https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing\"
+  target=\"_blank\">Schrijf hier titel van link</a>"
 copywriting_button: Contacteer mij!
 layout: default
 ---
