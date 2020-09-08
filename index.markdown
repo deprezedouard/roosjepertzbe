@@ -13,9 +13,9 @@ socials_twitter_next: Volgende
 podcast_title: Dertigerspraat/Kilocast
 copywriting_title: Copywriting
 copywriting_text: "Grappen, pure ernst en alles daartussen. Roosje schrijft op commando.
-  Bewijsmateriaal verzamelde ze hieronder. <br><bar> \n\nRoosje schreef en bracht
-  humoristische passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd.
-  <br><br> \nRoosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven
+  Bewijsmateriaal verzamelde ze hieronder. <br><br> \n\nRoosje schreef en bracht humoristische
+  passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd. <br><br>
+  \nRoosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven
   en kan dat ook voor die van jou. <br><br> \n\nLees hier haar column voor Radio 1
   over de lockdown van maart 2020. <br><br> \n<https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer>
   \n\nDownload hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.
