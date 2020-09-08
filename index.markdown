@@ -56,8 +56,12 @@ layout: default
           </a>
         </div>
         <div class="carousel-item">
-          <h2>{{ page.socials_twitter_title }}</h2>
-          <a class="twitter-timeline" data-width="800" data-height="800" href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <div class="w-100 d-flex justify-content-center">
+            <div class="social-twitter-container">
+              <h2>{{ page.socials_twitter_title }}</h2>
+              <a class="twitter-timeline" data-width="800" data-height="800" href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+          </div>
         </div>
       </div>
       <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
