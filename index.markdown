@@ -18,7 +18,8 @@ copywriting_text: "Grappen, pure ernst en alles daartussen. Roosje schrijft op c
   \nRoosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven
   en kan dat ook voor die van jou. <br><br> \n\nLees hier haar column voor Radio 1
   over de lockdown van maart 2020. <br><br> \n\n[Schrijf hier titel van link](https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer)\n\nDownload
-  hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver. <br><br> \n\n<https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing>\n"
+  hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver. <br><br> \n\n[Schrijf
+  hier titel van link](https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing)\n"
 copywriting_button: Contacteer mij!
 layout: default
 ---
