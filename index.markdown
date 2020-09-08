@@ -1,15 +1,10 @@
 ---
 title: Roosje Pertz
 bio_title: Bio
-bio_description: "Roosje Pertz kreeg van haar moeder het advies niet langer met haar
-  mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian
-  moest worden. \n\nSinds 2018 combineert Roosje met groot succes beide gouden tips.
-  Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en
-  flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte
-  paadjes van de middenklasse. <br><br> In 2019 nam Michael Van Peel Roosje mee op
-  tournee als een van zijn Young Ones. <br><bar> Ze is ook te beluisteren op de podcasts
-  Dertigerspraat en KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje
-  is heel sociaal op Twitter, Youtube, Facebook en Instagram."
+bio_description: |-
+  Roosje Pertz kreeg van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
+
+  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> Ze is ook te beluisteren op de podcasts Dertigerspraat en KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
 bio_button: Luister hier naar Roosjes podcasts
 socials_instagram_title: Roosje op Instagram
 socials_twitter_title: Roosje op Twitter
@@ -18,9 +13,9 @@ socials_twitter_next: Volgende
 podcast_title: Dertigerspraat/Kilocast
 copywriting_title: Copywriting
 copywriting_text: "Grappen, pure ernst en alles daartussen. Roosje schrijft op commando.
-  Bewijsmateriaal verzamelde ze hieronder. <br><bar> \n\nRoosje schreef en bracht
-  humoristische passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd.
-  <br><br> \nRoosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven
+  Bewijsmateriaal verzamelde ze hieronder. <br><br> \n\nRoosje schreef en bracht humoristische
+  passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd. <br><br>
+  \nRoosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven
   en kan dat ook voor die van jou. <br><br> \n\nLees hier haar column voor Radio 1
   over de lockdown van maart 2020. <br><br> \n<https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer>
   \n\nDownload hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.
@@ -39,7 +34,7 @@ layout: default
             <div class="col-12 col-md-7 mb-5 text-left text-white">
                 <h2 class="section-heading">{{ page.bio_title }}</h2>
                 <p class="text">
-                    {{ page.bio_description }}
+                   {{ page.bio_description }}
                 </p>
                 <a class="btn btn-light btn-xl text-white page-scroll" href="#podcast">{{ page.bio_button }}</a>
             </div>
