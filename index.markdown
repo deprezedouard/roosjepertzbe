@@ -65,7 +65,7 @@ layout: default
     </div>
 </section>
 
-<section class="bg-light" id="socials padding-section">
+<section class="bg-light" id="socials" class="padding-section">
   <div class="container p-5 bg-light" style="top: -56px;">
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel"  data-interval="4000">
       <div class="carousel-inner text-primary">
