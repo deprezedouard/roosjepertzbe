@@ -55,7 +55,7 @@ layout: default
             </div>
             <div class="col-12 col-md-7 mb-5 text-left text-white">
                 <h1 class="section-heading mb-3">{{ page.bio_title_h1 }}</h1>
-                <p class="text">
+                <p class="text" style="text-align: justify;">
                    {{ page.bio_description }}
                 </p>
                 <a class="btn btn-light btn-xl text-white page-scroll" href="#podcast">{{ page.bio_button }}</a>
@@ -155,7 +155,7 @@ layout: default
         <div class="row">
             <div class="col-12 col-md-7 text-left mt-5 mb-5">
                 <h2 class="section-heading mb-3">{{ page.copywriting_title }}</h2>
-                <p class="text"> {{ page.copywriting_text }} </p>
+                <p class="text" style="text-align: justify;"> {{ page.copywriting_text }} </p>
                 <br>
                 <a class="btn btn-primary btn-xl text-white page-scroll" href="mailt: info@roosjepertz.be">{{ page.copywriting_button }}</a>
             </div>
