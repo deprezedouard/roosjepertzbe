@@ -47,14 +47,14 @@ layout: default
 ---
 
 {% include banner.html %}
-<section id="bio" class="bg-primary">
+<section id="bio" class="bg-primary padding-section">
     <div class="container">
         <div class="row pt-5">
             <div class="col-12 col-md-5 mb-5">
                 <img src="img/bio.jpg" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
             <div class="col-12 col-md-7 mb-5 text-left text-white">
-                <h1 class="section-heading">{{ page.bio_title_h1 }}</h1>
+                <h1 class="section-heading mb-3">{{ page.bio_title_h1 }}</h1>
                 <p class="text">
                    {{ page.bio_description }}
                 </p>
@@ -65,7 +65,7 @@ layout: default
     </div>
 </section>
 
-<section class="bg-light" id="socials">
+<section class="bg-light" id="socials padding-section">
   <div class="container p-5 bg-light" style="top: -56px;">
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel"  data-interval="4000">
       <div class="carousel-inner text-primary">
@@ -135,12 +135,11 @@ layout: default
   </div>
 </section>
 
-<section id="speellijst" class="bg-primary">
+<section id="speellijst" class="bg-primary padding-section">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
-                <h2 class="section-heading">{{ page.speellijst_titel }}</h2>
-                <br>
+                <h2 class="section-heading mb-3">{{ page.speellijst_titel }}</h2>
                 <p class="text">
                    {{ page.speellijst }}
                 </p>
@@ -151,11 +150,11 @@ layout: default
     </div>
 </section>
 
-<section id="copywriting" class="bg-light text-black" >
+<section id="copywriting" class="bg-light text-black padding-section" >
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-7 text-left mt-5 mb-5">
-                <h2 class="section-heading">{{ page.copywriting_title }}</h2>
+                <h2 class="section-heading mb-3">{{ page.copywriting_title }}</h2>
                 <p class="text"> {{ page.copywriting_text }} </p>
                 <br>
                 <a class="btn btn-primary btn-xl text-white page-scroll" href="mailt: info@roosjepertz.be">{{ page.copywriting_button }}</a>
@@ -170,7 +169,7 @@ layout: default
 <section class="bg-white" id="podcast">
   <div class="container banner pt-5" style="padding:unset; max-height: unset; background-image: url({{ '/img/dertigerspraat.jpg' | relative_url }});">
     <div class="d-flex justify-content-center">
-        <h2 class="text-white text-center bg-light mt-5 p-3">{{ page.podcast_title }}</h2>
+        <h2 class="text-white text-center bg-light p-3">{{ page.podcast_title }}</h2>
     </div>
     <div class="container">
       <div class="row pb-5">
@@ -183,10 +182,10 @@ layout: default
   </div>
 </section>
 
-<section id="getuigenissen" class="bg-light text-black" >
+<section id="getuigenissen" class="bg-light text-black padding-section" >
     <div class="container">
         <div class="row d-flex justify-content-center">
-            <div class="col-12 col-md-7 text-center mt-5 mb-5">
+            <div class="col-12 col-md-7 text-center mt-5 mb-3">
                 <h2 class="section-heading">{{ page.getuigenissen_title }}</h2>
             </div>
             <div class="col-12 col-md-8 mb-5">
@@ -224,8 +223,7 @@ layout: default
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
-                <h2 class="section-heading">{{ page.vrouwelijke_comedian_titel }}</h2>
-                <br>
+                <h2 class="section-heading mb-3">{{ page.vrouwelijke_comedian_titel }}</h2>
                 <p class="text">
                    {{ page.vrouwelijke_comedian }}
                 </p>
