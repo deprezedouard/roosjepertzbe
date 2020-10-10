@@ -167,8 +167,8 @@ layout: default
 </section>
 
 <section class="bg-white" id="podcast">
-  <div class="container banner pt-5" style="padding:unset; max-height: unset; background-image: url({{ '/img/dertigerspraat.jpg' | relative_url }});">
-    <div class="d-flex justify-content-center">
+  <div class="container banner pt-5" style="padding:100px 0; max-height: unset; background-image: url({{ '/img/dertigerspraat.jpg' | relative_url }});">
+    <div class="d-flex justify-content-center pt-5">
         <h2 class="text-white text-center bg-light p-3">{{ page.podcast_title }}</h2>
     </div>
     <div class="container">
