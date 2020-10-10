@@ -1,6 +1,6 @@
 ---
 title: Roosje Pertz
-bio_title: Bio
+bio_title_h1: Roosje Pertz, stand-up comedian
 bio_description: |-
   Roosje Pertz kreeg van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
 
@@ -54,7 +54,7 @@ layout: default
                 <img src="img/bio.jpg" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
             <div class="col-12 col-md-7 mb-5 text-left text-white">
-                <h2 class="section-heading">{{ page.bio_title }}</h2>
+                <h1 class="section-heading">{{ page.bio_title_h1 }}</h1>
                 <p class="text">
                    {{ page.bio_description }}
                 </p>
@@ -70,7 +70,9 @@ layout: default
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel"  data-interval="4000">
       <div class="carousel-inner text-primary">
         <div class="carousel-item active">
-            <h2 class="mb-4 text-center"><a href="https://www.instagram.com/roosjepertz" class="col-10 col-md-9 col-lg-8 col-xl-6">{{ page.socials_instagram_title }}</a></h2>
+            <div class="d-flex justify-content-center">
+                <h2 class="mb-4 text-center col-10"><a href="https://www.instagram.com/roosjepertz" class="col-10 col-md-9 col-lg-8 col-xl-6">{{ page.socials_instagram_title }}</a></h2>
+            </div>
             <!-- SnapWidget -->
             <script src="https://snapwidget.com/js/snapwidget.js"></script>
             <iframe src="https://snapwidget.com/embed/855834" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
@@ -78,7 +80,9 @@ layout: default
         <div class="carousel-item">
           <div class="w-100 d-flex justify-content-center">
             <div class="social-twitter-container">
-              <h2 class="mb-4 text-center">{{ page.socials_twitter_title }}</h2>
+                <div class="d-flex justify-content-center">
+                    <h2 class="mb-4 text-center col-10">{{ page.socials_twitter_title }}</h2>
+                </div>
               <a class="twitter-timeline" data-width="800" data-height="400" href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
           </div>
@@ -86,8 +90,10 @@ layout: default
         <div class="carousel-item">
           <div class="d-flex justify-content-center">
             <div class="social-youtube-container">
-              <h2 class="mb-4 text-center">{{ page.socials_youtube_title }}</h2>
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLiaS8rgLMcrREqEiyMTZak-NbqIlxplWu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="d-flex justify-content-center">
+                    <h2 class="mb-4 text-center col-10">{{ page.socials_youtube_title }}</h2>
+                </div>
+              <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLiaS8rgLMcrREqEiyMTZak-NbqIlxplWu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
         </div>
@@ -104,7 +110,7 @@ layout: default
   </div>
 </section>
 
-<section id="bio" class="bg-primary">
+<section id="speellijst" class="bg-primary">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
@@ -115,6 +121,22 @@ layout: default
                 </p>
                 <br>
                 <a class="btn btn-light btn-xl text-white page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.speellijst_button }}</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="copywriting" class="bg-light text-black" >
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-7 text-left mt-5 mb-5">
+                <h2 class="section-heading">{{ page.copywriting_title }}</h2>
+                <p class="text"> {{ page.copywriting_text }} </p>
+                <br>
+                <a class="btn btn-primary btn-xl text-white page-scroll" href="mailt: info@roosjepertz.be">{{ page.copywriting_button }}</a>
+            </div>
+            <div class="col-12 col-md-5 mt-5 mb-5">
+                <img src="img/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
             </div>
         </div>
     </div>
@@ -136,7 +158,7 @@ layout: default
   </div>
 </section>
 
-<section id="copywriting" class="bg-light text-black" >
+<section id="getuigenissen" class="bg-light text-black" >
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 col-md-7 text-center mt-5 mb-5">
@@ -173,7 +195,7 @@ layout: default
 </section>
 
 
-<section id="bio" class="bg-primary">
+<section id="vrouwelijke-comedian" class="bg-primary">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
@@ -184,22 +206,6 @@ layout: default
                 </p>
                 <br>
                 <a class="btn btn-light btn-xl text-white page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.vrouwelijke_comedian_button }}</a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="copywriting" class="bg-light text-black" >
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-7 text-left mt-5 mb-5">
-                <h2 class="section-heading">{{ page.copywriting_title }}</h2>
-                <p class="text"> {{ page.copywriting_text }} </p>
-                <br>
-                <a class="btn btn-primary btn-xl text-white page-scroll" href="mailt: info@roosjepertz.be">{{ page.copywriting_button }}</a>
-            </div>
-            <div class="col-12 col-md-5 mt-5 mb-5">
-                <img src="img/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
             </div>
         </div>
     </div>
