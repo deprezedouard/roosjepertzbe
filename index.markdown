@@ -14,31 +14,34 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: 13/10/20 Comedy Night, Café 't Hoekske, Gent<br> 25/10/20 Open Mic, Café 't Rechtje, Leuven
+speellijst: 13/10/20 Comedy Night, Café 't Hoekske, Gent<br> 25/10/20 Open Mic, Café
+  't Rechtje, Leuven
 podcast_title: Dertigerspraat/Kilocast
 getuigenissen_title: Getuigenissen van collega's
-getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo West tussen de Gemeentestraat en de Diestsesteenweg (ter hoogte van bakkerij Stevens). En omstreken!' - Michael Van Peel <br> <br>"
+getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
+  West tussen de Gemeentestraat en de Diestsesteenweg (ter hoogte van bakkerij Stevens).
+  En omstreken!' - Michael Van Peel <br> <br>"
 getuigenissen_button: Contacteer mij
-quote_1: "Zonder twijfel de allergrappigste blondine van heel Kessel-Lo West tussen de Gemeentestraat en de Diestsesteenweg (ter hoogte van bakkerij Stevens). En omstreken!"
+quote_1: Zonder twijfel de allergrappigste blondine van heel Kessel-Lo West tussen
+  de Gemeentestraat en de Diestsesteenweg (ter hoogte van bakkerij Stevens). En omstreken!
 quote_1_name: Michael Van Peel
-quote_2: "Roosje Pertz is wel redelijk leuk.  In haar buurt word je sowieso verdraagzamer, dat is een goed effect en volledig haar verdienste.  Ze zou een goede Koningin zijn."
+quote_2: Roosje Pertz is wel redelijk leuk.  In haar buurt word je sowieso verdraagzamer,
+  dat is een goed effect en volledig haar verdienste.  Ze zou een goede Koningin zijn.
 quote_2_extra_name: Uit sympathie,
 quote_2_name: Iwein Segers
-quote_3: "Roosje wie?"
+quote_3: Roosje wie?
 quote_3_name: Amelie Albrecht
 vrouwelijke_comedian_titel: Vrouwelijke comedian
-vrouwelijke_comedian: Roosje Pertz is een grappige vrouw. Dit staat hier ter optimalistatie van de google zoekresultaten.
+vrouwelijke_comedian: Roosje Pertz is een grappige vrouw. Dit staat hier ter optimalistatie
+  van de google zoekresultaten.
 vrouwelijke_comedian_button: Boek een vrouwelijke comedian
 copywriting_title: Copywriting
-copywriting_text: "Grappen, pure ernst en alles daartussen. Roosje schrijft op commando.
-  Bewijsmateriaal verzamelde ze hieronder.\n<br><br>\nRoosje schreef en bracht humoristische
-  passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd.\n<br><br>\nRoosje
-  schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan
-  dat ook voor die van jou. <br><br><a href=\"https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer\"
-  target=\"_blank\">Lees hier haar column voor Radio 1 over de lockdown
-  van maart 2020.</a><br><br><a href=\"https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing\"
-  target=\"_blank\">Download hier de waanzinnige
-  quizvragen die ze maakte voor de podcast Palaver.</a>"
+copywriting_text: |-
+  Grappen, pure ernst en alles daartussen. Roosje schrijft op commando. Bewijsmateriaal verzamelde ze hieronder.
+  <br><br>
+  Roosje schreef en bracht humoristische passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd.
+  <br><br>
+  Roosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan dat ook voor die van jou. <br><br><a href="https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer" target="_blank">Lees hier haar column voor Radio 1 over de lockdown van maart 2020.</a><br><br><a href="https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing" target="_blank">Download hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.</a>
 copywriting_button: Contacteer mij
 layout: default
 ---
