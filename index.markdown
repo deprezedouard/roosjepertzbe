@@ -1,6 +1,6 @@
 ---
 title: Roosje Pertz
-bio_title: Bio
+bio_title_h1: Roosje Pertz, stand-up comedian
 bio_description: |-
   Roosje Pertz kreeg van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
 
@@ -51,7 +51,7 @@ layout: default
                 <img src="img/bio.jpg" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
             <div class="col-12 col-md-7 mb-5 text-left text-white">
-                <h2 class="section-heading">{{ page.bio_title }}</h2>
+                <h1 class="section-heading">{{ page.bio_title_h1 }}</h1>
                 <p class="text">
                    {{ page.bio_description }}
                 </p>
@@ -101,7 +101,7 @@ layout: default
   </div>
 </section>
 
-<section id="bio" class="bg-primary">
+<section id="speellijst" class="bg-primary">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
@@ -112,6 +112,22 @@ layout: default
                 </p>
                 <br>
                 <a class="btn btn-light btn-xl text-white page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.speellijst_button }}</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="copywriting" class="bg-light text-black" >
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-7 text-left mt-5 mb-5">
+                <h2 class="section-heading">{{ page.copywriting_title }}</h2>
+                <p class="text"> {{ page.copywriting_text }} </p>
+                <br>
+                <a class="btn btn-primary btn-xl text-white page-scroll" href="mailt: info@roosjepertz.be">{{ page.copywriting_button }}</a>
+            </div>
+            <div class="col-12 col-md-5 mt-5 mb-5">
+                <img src="img/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
             </div>
         </div>
     </div>
@@ -133,7 +149,7 @@ layout: default
   </div>
 </section>
 
-<section id="copywriting" class="bg-light text-black" >
+<section id="getuigenissen" class="bg-light text-black" >
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 col-md-7 text-center mt-5 mb-5">
@@ -170,7 +186,7 @@ layout: default
 </section>
 
 
-<section id="bio" class="bg-primary">
+<section id="vrouwelijke-comedian" class="bg-primary">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
@@ -181,22 +197,6 @@ layout: default
                 </p>
                 <br>
                 <a class="btn btn-light btn-xl text-white page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.vrouwelijke_comedian_button }}</a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="copywriting" class="bg-light text-black" >
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-7 text-left mt-5 mb-5">
-                <h2 class="section-heading">{{ page.copywriting_title }}</h2>
-                <p class="text"> {{ page.copywriting_text }} </p>
-                <br>
-                <a class="btn btn-primary btn-xl text-white page-scroll" href="mailt: info@roosjepertz.be">{{ page.copywriting_button }}</a>
-            </div>
-            <div class="col-12 col-md-5 mt-5 mb-5">
-                <img src="img/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
             </div>
         </div>
     </div>
