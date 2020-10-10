@@ -8,6 +8,7 @@
   color: white;
 }
 .footer-links {
+    min-width: 100px;
   display: flex;
   align-items: center;
 }
@@ -23,4 +24,14 @@
 }
 .footer .fa-heart {
   color: white;
+}
+@media only screen and (max-width: 700px) {
+  .footer {
+    flex-direction: column;
+    padding-bottom: 30px;
+    height: 100%;
+  }
+  .footer-links {
+    margin-bottom: 10px;
+  }
 }

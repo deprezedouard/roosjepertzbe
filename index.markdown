@@ -71,11 +71,23 @@ layout: default
       <div class="carousel-inner text-primary">
         <div class="carousel-item active">
             <div class="d-flex justify-content-center">
-                <h2 class="mb-4 text-center col-10"><a href="https://www.instagram.com/roosjepertz" class="col-10 col-md-9 col-lg-8 col-xl-6">{{ page.socials_instagram_title }}</a></h2>
+                <h2 class="mb-4 text-center col-10">
+                    <a href="https://www.instagram.com/roosjepertz" class="col-10 col-md-9 col-lg-8 col-xl-6">
+                        {{ page.socials_instagram_title }}
+                    </a>
+                </h2>
             </div>
             <!-- SnapWidget -->
+            <!-- SnapWidget -->
             <script src="https://snapwidget.com/js/snapwidget.js"></script>
-            <iframe src="https://snapwidget.com/embed/855834" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+            <iframe
+                src="https://snapwidget.com/embed/855834"
+                class="snapwidget-widget"
+                allowtransparency="true"
+                frameborder="0"
+                scrolling="no"
+                style="border:none; overflow:hidden;  width:100%; "
+            ></iframe>
         </div>
         <div class="carousel-item">
           <div class="w-100 d-flex justify-content-center">
@@ -83,17 +95,30 @@ layout: default
                 <div class="d-flex justify-content-center">
                     <h2 class="mb-4 text-center col-10">{{ page.socials_twitter_title }}</h2>
                 </div>
-              <a class="twitter-timeline" data-width="800" data-height="400" href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+              <a
+                class="twitter-timeline"
+                data-width="800"
+                data-height="500"
+                href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"
+            ></a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
           </div>
         </div>
         <div class="carousel-item">
           <div class="d-flex justify-content-center">
-            <div class="social-youtube-container">
+            <div class="social-youtube-container w-100">
                 <div class="d-flex justify-content-center">
                     <h2 class="mb-4 text-center col-10">{{ page.socials_youtube_title }}</h2>
                 </div>
-              <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLiaS8rgLMcrREqEiyMTZak-NbqIlxplWu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe
+                    width="100%"
+                    height="500px"
+                    src="https://www.youtube.com/embed/videoseries?list=PLiaS8rgLMcrREqEiyMTZak-NbqIlxplWu"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                ></iframe>
             </div>
           </div>
         </div>
