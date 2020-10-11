@@ -50,7 +50,9 @@ copywriting_text: |-
   Roosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan dat ook voor die van jou. <br><br><a href="https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer" target="_blank">Lees hier haar column voor Radio 1 over de lockdown van maart 2020.</a><br><br><a href="https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing" target="_blank">Download hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.</a>
 copywriting_button: Contacteer mij
 contact_titel: Contacteer mij!
-contact_text: Mail naar <a href="mailto:roosjepertz@hotmail.com">roosjepertz@hotmail.com</a> of bel 0498 62 54 03, voor boekingen contacteer <a href="http://www.123comedyclub.be/comedian/roosje-pertz" target="_blank">123Comedy Club</a>.
+contact_text: Mail naar <a href="mailto:roosjepertz@hotmail.com">roosjepertz@hotmail.com</a>
+  of bel 0498 62 54 03, voor boekingen contacteer <a href="http://www.123comedyclub.be/comedian/roosje-pertz"
+  target="_blank">123Comedy Club</a>.
 layout: default
 ---
 
