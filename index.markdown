@@ -49,6 +49,10 @@ copywriting_text: |-
   <br><br>
   Roosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan dat ook voor die van jou. <br><br><a href="https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer" target="_blank">Lees hier haar column voor Radio 1 over de lockdown van maart 2020.</a><br><br><a href="https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing" target="_blank">Download hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.</a>
 copywriting_button: Contacteer mij
+contact_titel: Contacteer mij!
+contact_text: Mail naar <a href="mailto:roosjepertz@hotmail.com">roosjepertz@hotmail.com</a>
+  of bel 0498 62 54 03, voor boekingen contacteer <a href="http://www.123comedyclub.be/comedian/roosje-pertz"
+  target="_blank">123Comedy Club</a>.
 layout: default
 ---
 
@@ -86,16 +90,28 @@ layout: default
             <!-- SnapWidget -->
             <!-- SnapWidget -->
             <script src="https://snapwidget.com/js/snapwidget.js"></script>
-            <iframe
-                src="https://snapwidget.com/embed/855834"
-                class="snapwidget-widget"
-                allowtransparency="true"
-                frameborder="0"
-                scrolling="no"
-                style="border:none; overflow:hidden;  width:100%; "
-            ></iframe>
+            <div class="display-mobile">
+                <iframe
+                    src="https://snapwidget.com/embed/855834"
+                    class="snapwidget-widget"
+                    allowtransparency="true"
+                    frameborder="0"
+                    scrolling="yes"
+                    style="border:none; overflow:hidden;  width:100%; min-height: 100%; "
+                ></iframe>
+            </div>
+            <div class="display-desktop d-flex justify-content-center">
+                <iframe
+                    src="https://snapwidget.com/embed/880169"
+                    class="snapwidget-widget"
+                    allowtransparency="true"
+                    frameborder="0"
+                    scrolling="no"
+                    style="border:none; overflow:hidden;  width:100%; max-width: 700px; "
+                ></iframe>
+            </div>
         </div>
-        <div class="carousel-item">
+        <div class="carousel-item test">
           <div class="w-100 d-flex justify-content-center">
             <div class="social-twitter-container">
                 <div class="d-flex justify-content-center">
@@ -163,7 +179,7 @@ layout: default
                 <h2 class="section-heading mb-3">{{ page.copywriting_title }}</h2>
                 <p class="text" style="text-align: justify;"> {{ page.copywriting_text }} </p>
                 <br>
-                <a class="btn btn-primary btn-xl text-white page-scroll" href="mailt: info@roosjepertz.be">{{ page.copywriting_button }}</a>
+                <a class="btn btn-primary btn-xl text-white page-scroll" href="#contact">{{ page.copywriting_button }}</a>
             </div>
             <div class="col-12 col-md-5 mt-5 mb-5">
                 <img src="img/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
@@ -225,7 +241,7 @@ layout: default
 </section>
 
 
-<section id="vrouwelijke-comedian" class="bg-primary">
+<section id="vrouwelijke-comedian" class="bg-primary" style="padding:100px 0;">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
@@ -235,6 +251,19 @@ layout: default
                 </p>
                 <br>
                 <a class="btn btn-light btn-xl text-white page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.vrouwelijke_comedian_button }}</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="bg-light" style="padding:100px 0;">
+    <div class="container">
+        <div class="row pt-5 d-flex justify-content-center">
+            <div class="col-12 col-md-7 mb-5 text-center text-white">
+                <h2 class="section-heading mb-3">{{ page.contact_titel }}</h2>
+                <p class="text">
+                   {{ page.contact_text }}
+                </p>
             </div>
         </div>
     </div>
