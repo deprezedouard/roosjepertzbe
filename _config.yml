@@ -15,7 +15,6 @@ plugins:
 - jekyll-autoprefixer
 - jekyll-seo-tag
 - jekyll-sitemap
-
 email: info@roosjepertz.be
 description: Website van stand-up comedienne Roosje Pertz.
 baseurl: 
@@ -25,4 +24,3 @@ author: Edouard De Prez
 google_analytics: 
 twitter:
   username: roosjepertz
-
