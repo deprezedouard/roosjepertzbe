@@ -89,7 +89,6 @@ layout: default
             </div>
             <!-- SnapWidget -->
             <!-- SnapWidget -->
-            <script src="https://snapwidget.com/js/snapwidget.js"></script>
             <div class="display-mobile">
                 <iframe
                     src="https://snapwidget.com/embed/855834"
@@ -123,7 +122,6 @@ layout: default
                 data-height="500"
                 href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"
             ></a>
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
           </div>
         </div>
