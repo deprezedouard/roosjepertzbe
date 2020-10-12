@@ -16,12 +16,10 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 email: info@roosjepertz.be
-description: 'Website van stand-up comedienne Roosje Pertz.
+description: 'Website van stand-up comedienne Roosje Pertz.'
 
-'
 baseurl:
 url: https://www.roosjepertz.be
-twitter_username:
 tagline: Website van stand-up comedienne Roosje Pertz.
 author: Edouard De Prez
 google_analytics:
