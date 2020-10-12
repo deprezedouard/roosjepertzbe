@@ -61,7 +61,7 @@ layout: default
     <div class="container">
         <div class="row pt-5">
             <div class="col-12 col-md-5 mb-5">
-                <img src="img/bio.jpg" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
+                <img src="assets/img/images/bio.jpg" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
             <div class="col-12 col-md-7 mb-5 text-left text-white">
                 <h1 class="section-heading mb-3">{{ page.bio_title_h1 }}</h1>
@@ -182,14 +182,14 @@ layout: default
                 <a class="btn btn-primary btn-xl text-white page-scroll" href="#contact">{{ page.copywriting_button }}</a>
             </div>
             <div class="col-12 col-md-5 mt-5 mb-5">
-                <img src="img/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
+                <img src="assets/img/images/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
             </div>
         </div>
     </div>
 </section>
 
 <section class="bg-white" id="podcast">
-  <div class="container banner pt-5" style="padding:100px 0; max-height: unset; background-image: url({{ '/img/dertigerspraat.jpg' | relative_url }});">
+  <div class="container banner pt-5" style="padding:100px 0; max-height: unset; background-image: url({{ 'assets/img/images/dertigerspraat.jpg' | relative_url }});">
     <div class="d-flex justify-content-center pt-5">
         <h2 class="text-white text-center bg-light p-3">{{ page.podcast_title }}</h2>
     </div>
