@@ -14,14 +14,10 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '14/10/20 MC''en Comedy Night met Amelie Albrecht, Bar Bleu, Leuven <br>
-  20/10/20 Comedy act met MC Peter Hens en Lukas Lelie, Staminee De Living, Heist-op-den-Berg
-  <br> 31/10/20 Comedy act met Johnny Trash, privé-evenement, Leuven <br> 06/11/20
-  Comedy act met Jade Mintjens en Amelie Albrecht, Captain Comedy Club, Dendermonde
-  <br> 30/11/20 Comedy act met Johnny Trash, Geel <br> 26/03/21  MC''en Comedy Night
-  Ladies of Laughter met Jade Mintjens en Kristel Zweers, Parochiezaal, Asper <br>
-  31/07/21 MC''en Comedy Night Ladies of Laughter met Ariane Van Hasselt en Veerle
-  Malschaert, Feesttent Straatjeskermis, Wiekevorst <br> '
+speellijst: 'Dekselse corona!  <br> 26/03/21  MC''en Comedy Night Ladies of Laughter
+  met Jade Mintjens en Kristel Zweers, Parochiezaal, Asper <br> 31/07/21 MC''en Comedy
+  Night Ladies of Laughter met Ariane Van Hasselt en Veerle Malschaert, Feesttent
+  Straatjeskermis, Wiekevorst <br> '
 podcast_title: Dertigerspraat/Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
