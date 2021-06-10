@@ -1,5 +1,6 @@
 ---
 title: Roosje Pertz
+published: false
 bio_title_h1: Roosje Pertz, stand-up comedian
 bio_description: |-
   Roosje Pertz kreeg van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
@@ -14,11 +15,21 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: 'Dekselse corona!  <br> 26/03/21  MC''en Comedy Night Ladies of Laughter
-  met Jade Mintjens en Kristel Zweers, Parochiezaal, Asper <br> 31/07/21 MC''en Comedy
-  Night Ladies of Laughter met Ariane Van Hasselt en Veerle Malschaert, Feesttent
-  Straatjeskermis, Wiekevorst <br> '
-podcast_title: Dertigerspraat/Kilocast
+speellijst: "<br> 16/06/21  Amelie Albrecht en Roosje Pertz in  Bar Bleu Leuven  <br>
+  19/06/21 Comedy Night met Nigel Wiliams, Roosje Pertz en Jeroen Verdick in Brouwateljee
+  Lubbeek <br> 23/06/21  Erhan Demirci en Roosje Pertz in  Bar Bleu Leuven <br>  30/06/21
+  \ Johny Trash en Roosje Pertz in  Bar Bleu Leuven  <br> 08/07/21 Jeron Dewulf en
+  Roosje Pertz in Genk <br> 26/07/21 Vrouwen zijn niet grappig met Amelie Albrecht,
+  Soe Nsuki, Jade Mintjens, Roosje Pertz en Xander Derycke in de Captain Comedy Club
+  <br> 31/07/21 MC'en Comedy Night Ladies of Laughter met Ariane Van Hasselt en Veerle
+  Malschaert, Feesttent Straatjeskermis, Wiekevorst <br> 12/08/21 MC'en voor Jade
+  Mintjens en Vincent Voeten op Beveren Buiten <br> 13/08/21 David Galle en Roosje
+  Pertz op Zomeren in Tienen <br> 19/08/21 Roosje Pertz op Bouckenborgh Zomerpark
+  in Merksem <br> 17/09/21 Alex Agnew en Roosje Pertz op Stixn Comedy Night in Herent
+  <br> 16/10/21 Johny Trash en Roosje Pertz op de Comedy Night van de Mannen van het
+  Jaar in Leuven <br> 12/11/21 MC Roosje Pertz met Jade Mintjens en Soe Nsuki in Halle
+  <br> 13/11/21 MC Roosje Pertz met Jade Mintjens en Soe Nsuki in Mortsel  "
+podcast_title: Bebouwde Kom /Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
   West tussen de Gemeentestraat en de Diestsesteenweg (ter hoogte van bakkerij Stevens).
