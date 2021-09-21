@@ -14,17 +14,23 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: " <br> 11/09/21 Roosje Pertz en Sven Hardies en Gunter Lamoot op de Vlierbeekse
-  Feesten in Kessel-Lo  <br>15/09/21 Roosje Pertz en Ariane Van Hasselt en Peter Kluppels
-  in Bar Bleu in Leuven  <br> 17/09/21 Alex Agnew en Roosje Pertz op Stixn Comedy
-  Night in Herent <br> 22/09/21 Roosje Pertz en Bas Birker in Bar Bleu in Leuven  <br>
+speellijst: " <br> 22/09/21 Roosje Pertz en Bas Birker in Bar Bleu in Leuven  <br>
   22/09/21 Roosje Pertz en Bert Gabriëls in Bar Bleu in Leuven  <br> 08/10/21 Roosje
-  Pertz op Comedy Cafe aan CC De Werft in Geel  <br> 16/10/21 Johny Trash en Roosje
-  Pertz op de Comedy Night van de Mannen van het Jaar in Leuven <br> 23 /10/21 Roosje
-  Pertz in de finale van Comedy Match wedstrijd Pand P in Eindhoven  <br>  12/11/21
-  MC Roosje Pertz met Jade Mintjens en Soe Nsuki in Halle <br> 13/11/21 MC Roosje
-  Pertz met Jade Mintjens en Soe Nsuki in Mortsel  <br>  12/02/22 Roosje Pertz met
-  Nigel Williams in Maaseik <br> 25/03/22 Roosje Pertz in Asper<br>   "
+  Pertz op Comedy Cafe aan CC De Werft in Geel <br> 11/10/21  Roosje Pertz op Stixn
+  Comedy Night in Herent  <br> 16/10/21 Johny Trash en Roosje Pertz op de Comedy Night
+  van de Mannen van het Jaar in Leuven <br> 23 /10/21 Roosje Pertz in de finale van
+  Comedy Match wedstrijd Pand P in Eindhoven   <br>  08/11/21  Roosje Pertz op Stixn
+  Comedy Night in Herent  <br> 11/11/21  Roosje Pertz met Johny Trash en Michael Van
+  Peel op een spiegeltent in Open <br> 25/03/22 Roosje Pertz in Asper 12/11/21 MC
+  Roosje Pertz met Jade Mintjens en Soe Nsuki in Halle <br> 13/11/21 MC Roosje Pertz
+  met Jade Mintjens en Soe Nsuki in Mortsel  <br>  13/12/21  Roosje Pertz op Stixn
+  Comedy Night in Herent <br> 10/01/22  Roosje Pertz op Stixn Comedy Night in Herent
+  <br>12/02/22 Roosje Pertz met Nigel Williams in Maaseik <br> 14/02/22  Roosje Pertz
+  op Stixn Comedy Night in Herent  <br> 11/03/22  Roosje Pertz  in Poesele  <br> 25/03/22
+  Roosje Pertz in Asper <br> 14/03/22  Roosje Pertz op Stixn Comedy Night in Herent
+  <br> 25/03/22 Roosje Pertz in Asper <br> 11/04/22  Roosje Pertz op Stixn Comedy
+  Night in Herent\n<br> 09/05/22  Roosje Pertz op Stixn Comedy Night in Herent <br>
+  \ "
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
