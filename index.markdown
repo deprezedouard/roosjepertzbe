@@ -1,10 +1,10 @@
 ---
 title: Roosje Pertz
-bio_title_h1: Roosje Pertz, stand-up comedian
+bio_title_h1: Roosje Pertz, stand-up comedian en MC
 bio_description: |-
   Roosje Pertz kreeg van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
 
-  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> Ze is ook te beluisteren op de podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
+  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Het meest ijzige publiek ontvlamt met Roosje Pertz als aanstekelijke MC. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> Ze is ook te beluisteren op de podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
 socials_instagram_title: Roosje op Instagram
@@ -14,21 +14,35 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: " <br> 29/09/21 Roosje Pertz en Bert Gabriëls in Bar Bleu in Leuven  <br>
-  08/10/21 Roosje Pertz op Comedy Cafe aan CC De Werft in Geel  <br> 31/10/ Roosje
-  Pertz  in Westerlo <br> 11/10/21  Roosje Pertz op Stixn Comedy Night in Herent  <br>
-  16/10/21 Johny Trash en Roosje Pertz op de Comedy Night van de Mannen van het Jaar
-  in Leuven <br> 23 /10/21 Roosje Pertz in de finale van Comedy Match wedstrijd Pand
-  P in Eindhoven   <br>  08/11/21  Roosje Pertz op Stixn Comedy Night in Herent  <br>
-  11/11/21  Roosje Pertz met Johny Trash en Michael Van Peel in een spiegeltent in
-  Olen  <br> 12/11/21 MC Roosje Pertz met Jade Mintjens en Soe Nsuki in Halle <br>
-  13/11/21 MC Roosje Pertz met Jade Mintjens en Soe Nsuki in Mortsel  <br>  13/12/21
-  \ Roosje Pertz op Stixn Comedy Night in Herent <br> 10/01/22  Roosje Pertz op Stixn
-  Comedy Night in Herent <br>12/02/22 Roosje Pertz met Nigel Williams in Maaseik <br>
-  14/02/22  Roosje Pertz op Stixn Comedy Night in Herent  <br> 11/03/22  Roosje Pertz
-  \ in Poesele  <br> 14/03/22  Roosje Pertz op Stixn Comedy Night in Herent <br> 25/03/22
-  Roosje Pertz in Asper <br> 11/04/22  Roosje Pertz op Stixn Comedy Night in Herent\n<br>
-  09/05/22  Roosje Pertz op Stixn Comedy Night in Herent <br>  "
+speellijst: " 16/10/21 Johny Trash en Roosje Pertz op de Comedy Night van de Mannen
+  van het Jaar in Leuven <br> 23 /10/21 Roosje Pertz in de finale van Comedy Match
+  wedstrijd Pand P in Eindhoven   <br>  27 /10/21 MC Roosje Pertz op de Open Mic in
+  de Kuub in Mechelen   <br>   06/11/21  MC Roosje Pertz met Urbanus en Yannick Joos
+  en Benjamin Roeges in Jeugdhuis Animoro in Sint-Genesius-Rode  <br>08/11/21  MC
+  Roosje Pertz met Kamal Karmach en Ariane Van Hasselt op Stixn Comedy Night in Herent
+  \ <br> 09/11/21  MC Roosje Pertz  męt Karel De Rijcke, Gery La Boule en Jeron Dewulf
+  in de Steenberg in Tervuren  <br> 11/11/21  Roosje Pertz met Johny Trash en Michael
+  Van Peel in een spiegeltent in Olen  <br> 12/11/21 MC Roosje Pertz met Jade Mintjens
+  en Soe Nsuki in Halle <br> 13/11/21 MC Roosje Pertz met Jade Mintjens en Soe Nsuki
+  in Mortsel  <br>  20/11/21  MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven
+  \ <br> 22/11/21  MC Roosje Pertz op de Open Mic in het Rock Café in Leuven  <br>
+  25/11/21  MC Roosje Pertz ergens in een plaats, meer details komen nog  <br>13/12/21
+  \ MC Roosje Pertz met Lukas Lelie, Vincent Voeten en Kevin Pottier op Stixn Comedy
+  Night in Herent <br>18/12/21   MC Roosje Pertz op  Comedy Leuven in café Sport in
+  Leuven <br>  22/12/21  Young One Roosje Pertz met Old One Michael Van Peel in het
+  Jeugdhuis in Beringen  <br>10/01/22  MC Roosje Pertz op Stixn Comedy Night in Herent
+  <br> 12/01/22  Verjaardag Iwein Segers (boodschap van algemeen nut)  <br>15/01/22
+  \ MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven  <br>12/02/22 Roosje
+  Pertz met Nigel Williams in Maaseik <br> 14/02/22  MC Roosje Pertz op Stixn Comedy
+  Night in Herent  <br> 19/02/22  MC Roosje Pertz op  Comedy Leuven in café Sport
+  in Leuven  <br>11/03/22  Roosje Pertz  in Poesele  <br> 14/03/22  MC Roosje Pertz
+  op Stixn Comedy Night in Herent <br> 19/03/22  MC Roosje Pertz op  Comedy Leuven
+  in café Sport in Leuven  <br>21/03/22  MC Roosje Pertz op Open Mic  in Rock Café
+  in Leuven  <br>25/03/22 Roosje Pertz in Asper <br> 11/04/22  MC Roosje Pertz op
+  Stixn Comedy Night in Herent <br> 16/04/22  MC Roosje Pertz op  Comedy Leuven in
+  café Sport in Leuven  <br>09/05/22  MC Roosje Pertz op Stixn Comedy Night in Herent
+  <br>21/05/22  MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven  <br>\n18/06/22
+  \ MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven  <br>  "
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
