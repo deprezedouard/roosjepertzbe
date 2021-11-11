@@ -1,5 +1,6 @@
 ---
 title: Roosje Pertz
+published: false
 bio_title_h1: Roosje Pertz, stand-up comedian en MC
 bio_description: |-
   Roosje Pertz kreeg van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
