@@ -14,8 +14,8 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '11/03/22  Roosje Pertz met  in Poesele  <br> 12/03/22  MC Roosje Pertz
-  met Bert Gabriëls en Bas Birker in Baasrode <br>14/03/22  MC Roosje Pertz met Sergej
+speellijst: '11/03/22  Roosje Pertz  in Poesele  <br> 12/03/22  MC Roosje Pertz met
+  Bert Gabriëls en Bas Birker in Baasrode <br>14/03/22  MC Roosje Pertz met Sergej
   Lopouchanski, Els Verhofstede en Thomas Smith op Stixn Comedy Night in Herent <br>15/03/22  MC
   Roosje Pertz met Sam Kiebooms, Ariane Van Hasselt en Lukas Lelie in De Steenberg
   in Tervuren <br>18/03/22  Roosje Pertz met Soe Nsuki in Werkhuys in Borgerhout  <br>19/03/22  MC
