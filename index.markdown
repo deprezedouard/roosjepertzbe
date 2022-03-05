@@ -14,25 +14,28 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: "22/01/22  Roosje Pertz met Dena Vahdani in de Black Box in de Arenberg
-  in Antwerpen  <br> 14/02/22  MC Roosje Pertz op Stixn Comedy Night in Herent  <br>
-  19/02/22  MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven  <br>23/02/22
-  \ MC Roosje Pertz op de Fresh Meat Open Mic in café de Kuub in Mechelen  <br>25/02/22
-  \ Roosje Pertz  in Kortenberg  <br> 04/03/22  Roosje Pertz met Fuad Hassen, Jeron
-  Dewulf en Rayen Panday op Mad Goat festival in de Antwerpen  <br>03/03/22  Roosje
-  Pertz met Edouard De Prez, Lukas Lelie en Fré Vanwynsberghe op de Palaver Comedy
-  Night in de Roes in Gent <br>11/03/22  Roosje Pertz  in Poesele  <br> 12/03/22  MC
-  Roosje Pertz in Baasrode <br>14/03/22  MC Roosje Pertz op Stixn Comedy Night in
-  Herent <br>18/03/22  Roosje Pertz met Soe Nsuki in Werkhuys in Borgerhout  <br>19/03/22
-  \ MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven  <br>21/03/22  MC Roosje
-  Pertz op Open Mic  in Rock Café in Leuven  <br>25/03/22 Roosje Pertz in Asper <br>
-  11/04/22  MC Roosje Pertz op Stixn Comedy Night in Herent <br> 16/04/22  MC Roosje
-  Pertz op  Comedy Leuven in café Sport in Leuven  <br> 22/04/22  MC Roosje Pertz
-  met Senne Maes, Gunther Lamoot en Bert Gabriëls op  Comedy Corso in Berchem  <br>
+speellijst: '11/03/22  Roosje Pertz met  in Poesele  <br> 12/03/22  MC Roosje Pertz
+  met Bert Gabriëls en Bas Birker in Baasrode <br>14/03/22  MC Roosje Pertz met Sergej
+  Lopouchanski, Els Verhofstede en Thomas Smith op Stixn Comedy Night in Herent <br>15/03/22  MC
+  Roosje Pertz met Sam Kiebooms, Ariane Van Hasselt en Lukas Lelie in De Steenberg
+  in Tervuren <br>18/03/22  Roosje Pertz met Soe Nsuki in Werkhuys in Borgerhout  <br>19/03/22  MC
+  Roosje Pertz  met Jeroen Leenders, Bart Grin, Peter Kluppels en Tae-Yoon Michielsens
+  op  Comedy Leuven in café Sport in Leuven  <br>21/03/22  MC Roosje Pertz op Open
+  Mic  in Rock Café in Leuven <br>22/03/22  EEN WEDSTIJD WAAR IK BANG VOOR BEN, MAAR
+  TOCH DOE <br>24/03/22  Roosje Pertz support act Philippe Geubels in het Gildenhuis
+  in Melle <br>25/03/22 Roosje Pertz met Ariane Van Hasselt en Kristel Zweers in Asper
+  <br> 02/04/22  Roosje Pertz support act Philippe Geubels in Deurne <br> 11/04/22  MC
+  Roosje Pertz op Stixn Comedy Night in Herent <br> 16/04/22  MC Roosje Pertz op  Comedy
+  Leuven in café Sport in Leuven  <br> 21/04/22  Roosje Pertz support act Philippe
+  Geubels in Mimuze Kalmthout <br> 22/04/22  MC Roosje Pertz met Senne Maes, Gunther
+  Lamoot en Bert Gabriëls op  Comedy Corso in Berchem  <br> 28/04/22  Roosje Pertz
+  support act Philippe Geubels  <br> 29/04/22  MC Roosje Pertz met Soe Nsuki en Jade
+  Mintjens in CC Blankenberghe  <br> 30/04/22  MC Roosje Pertz in Bar Bazaar Wilrijk
+  <br> 07/05/22  Roosje Pertz support act Philippe Geubels in Mimuze Kalmthout <br>
   09/05/22  MC Roosje Pertz op Stixn Comedy Night in Herent <br>21/05/22  MC Roosje
-  Pertz op  Comedy Leuven in café Sport in Leuven  <br>\n18/06/22  MC Roosje Pertz
+  Pertz op  Comedy Leuven in café Sport in Leuven  <br> 18/06/22  MC Roosje Pertz
   op  Comedy Leuven in café Sport in Leuven  <br>  13/05/23  MC Roosje Pertz met Jan
-  Linssen, Erhan Demirci en Joost Van Hyfte in Houthalen Helchteren  <br>  "
+  Linssen, Erhan Demirci en Joost Van Hyfte in Houthalen Helchteren  <br>  '
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
