@@ -15,25 +15,23 @@ socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
 speellijst: '11/03/22 MC''en  in Poesele  <br> 12/03/22  MC''en voor Bert Gabriëls
-  en Bas Birker in Baasrode <br>14/03/22 MC''en voor Sergej Lopouchanski, Els Verhofstede
-  en Thomas Smith op Stixn Comedy Night in Herent <br>15/03/22 MC''en voor Sam Kiebooms,
-  Ariane Van Hasselt en Lukas Lelie in De Steenberg in Tervuren <br>18/03/22 Set met
-  Soe Nsuki in Werkhuys in Borgerhout  <br>19/03/22 MC ''en voor Jeroen Leenders,
-  Bart Grin, Peter Kluppels en Tae-Yoon Michielsens op  Comedy Leuven in café Sport
-  in Leuven  <br>21/03/22 MC''en op de Open Mic in Rock Café in Leuven <br>22/03/22
-  WEDSTIJD WAAR IK BANG VOOR BEN, MAAR TOCH DOE, BRAND EEN KAARS OK? <br>24/03/22
-  Support act Philippe Geubels in het Gildenhuis in Melle <br>25/03/22 MC''en voor
-  Ariane Van Hasselt en Kristel Zweers in Asper <br>02/04/22 Support act Philippe
-  Geubels in Deurne <br> 11/04/22 MC''en op Stixn Comedy Night in Herent <br> 16/04/22
-  MC''en op  Comedy Leuven in café Sport in Leuven  <br> 21/04/22 Support act Philippe
-  Geubels in Mimuze Kalmthout <br> 22/04/22 MC ''en voor Senne Maes, Gunther Lamoot
-  en Bert Gabriëls op  Comedy Corso in Berchem  <br>28/04/22  Support act Philippe
-  Geubels  <br> 29/04/22 MC''en voor Soe Nsuki en Jade Mintjens in CC Blankenberghe
-  <br>30/04/22 MC''en in Bar Bazaar Wilrijk<br> 07/05/22 Support act Philippe Geubels
-  in Mimuze Kalmthout <br>09/05/22  MC''en op Stixn Comedy Night in Herent <br>21/05/22
-  MC ''en voor Comedy Leuven in café Sport in Leuven<br>18/06/22 MC''en voor Comedy
-  Leuven in café Sport in Leuven  <br>13/05/23 MC''en voorJan Linssen, Erhan Demirci
-  en Joost Van Hyfte in Houthalen Helchteren <br>  '
+  en Bas Birker in Baasrode <br>14/03/22 MC''en voor Sergej L, Els V en Thomas Smith
+  op Stixn Comedy Night <br>15/03/22 MC''en voor Sam K, Ariane VH en Lukas Lelie in
+  Tervuren <br>18/03/22 Set met Soe Nsuki in Werkhuys in Borgerhout  <br>19/03/22
+  MC ''en voor Jeroen Leenders, Bart G, Peter K en Tae-Yoon M op  Comedy Leuven <br>21/03/22
+  MC''en op de Open Mic in Rock Café in Leuven <br>22/03/22 WEDSTIJD, BRAND EEN KAARS
+  OK? <br>24/03/22 Support act Philippe Geubels in het Gildenhuis in Melle <br>25/03/22
+  MC''en voor Ariane Van Hasselt en Kristel Zweers in Asper <br>02/04/22 Support act
+  Philippe Geubels in Deurne <br> 11/04/22 MC''en op Stixn Comedy Night in Herent
+  <br> 16/04/22 MC''en op  Comedy Leuven in café Sport in Leuven  <br> 21/04/22 Support
+  act Philippe Geubels in Mimuze Kalmthout <br> 22/04/22 MC ''en voor Gunther Lamoot
+  en Bert Gabriëls op Comedy Corso Berchem  <br>28/04/22  Support act Philippe Geubels  <br>
+  29/04/22 MC''en voor Soe Nsuki en Jade Mintjens in CC Blankenberghe <br>30/04/22
+  MC''en in Bar Bazaar Wilrijk<br> 07/05/22 Support act Philippe Geubels in Mimuze
+  Kalmthout <br>09/05/22  MC''en op Stixn Comedy Night in Herent <br>21/05/22 MC ''en
+  voor Comedy Leuven in café Sport in Leuven<br>18/06/22 MC''en voor Comedy Leuven
+  in café Sport in Leuven  <br>13/05/23 MC''en voorJan Linssen, Erhan Demirci en Joost
+  Van Hyfte in Houthalen Helchteren <br>  '
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
