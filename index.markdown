@@ -18,7 +18,7 @@ speellijst: '11/03/22 MC''en  in Poesele  <br> 12/03/22  MC''en voor Bert Gabri√
   en Bas Birker in Baasrode <br>14/03/22 MC''en voor Sergej L, Els V en Thomas Smith
   op Stixn Comedy Night <br>15/03/22 MC''en voor Sam K, Ariane VH en Lukas Lelie in
   Tervuren <br>18/03/22 Set met Soe Nsuki in Werkhuys in Borgerhout  <br>19/03/22
-  MC ''en voor Jeroen Leenders, Bart G, Peter K en Tae-Yoon M op  Comedy Leuven <br>21/03/22
+  MC''en voor Jeroen Leenders, Bart G, Peter K en Tae-Yoon M op Comedy Leuven <br>21/03/22
   MC''en op de Open Mic in Rock Caf√© in Leuven <br>22/03/22 WEDSTIJD, BRAND EEN KAARS
   OK? <br>24/03/22 Support act Philippe Geubels in het Gildenhuis in Melle <br>25/03/22
   MC''en voor Ariane Van Hasselt en Kristel Zweers in Asper <br>02/04/22 Support act
