@@ -32,9 +32,10 @@ speellijst: '11/03/22 MC''en  in Poesele  <br> 12/03/22  MC''en voor Bert Gabri�
   MC ''en voor Comedy Leuven in café Sport in Leuven<br>18/06/22 MC''en voor Steven
   Gabriëls en William Bouva in St-Denijs-Westrem <br>27/09/22 MC''en voor Peter Hens
   en Thomas Smith in Kessel <br>29/09/22 Support act Philippe Geubels in Herent <br>19/11/22
-  MC''en voor Peter Hens, Thomas Smith en David Galle in Houthalen-H <br>09/03/23
-  MC''en voor Jeron Dewulf en gast in Wijnegem <br>13/05/23 MC''en voor Jan Linssen,
-  Erhan Demirci en Joost Van Hyfte in Houthalen-H '
+  MC''en voor Peter Hens, Thomas Smith en David Galle in Houthalen-H <br>03/03/23
+  MC''en voor Soe Nsuki ea in Knokke-Heist <br>09/03/23 MC''en voor Jeron Dewulf en
+  gast in Wijnegem <br>13/05/23 MC''en voor Jan Linssen, Erhan Demirci en Joost Van
+  Hyfte in Houthalen-H '
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
