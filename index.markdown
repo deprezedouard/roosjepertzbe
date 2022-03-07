@@ -188,7 +188,7 @@ layout: default
 <section class="bg-light text-black" id="podcast">
   <div class="container banner pt-5" style="padding:100px 0; max-height: unset;">
     <div class="d-flex justify-content-center pt-5">
-        <h2 class="text-white text-center bg-light p-3">{{ page.podcast_title }}</h2>
+        <h2 class="text-white text-center bg-primary p-3">{{ page.podcast_title }}</h2>
     </div>
     <div class="container">
       <div class="row pb-5">
@@ -245,12 +245,12 @@ layout: default
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
-                <h2 class="section-heading mb-3">{{ page.vrouwelijke_comedian_titel }}</h2>
-                <p class="text">
+                <h2 class="section-heading mb-3 text-black">{{ page.vrouwelijke_comedian_titel }}</h2>
+                <p class="text text-black">
                    {{ page.vrouwelijke_comedian }}
                 </p>
                 <br>
-                <a class="btn btn-light btn-xl text-white page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.vrouwelijke_comedian_button }}</a>
+                <a class="btn btn-light btn-xl text-black page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.vrouwelijke_comedian_button }}</a>
             </div>
         </div>
     </div>
