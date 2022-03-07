@@ -185,23 +185,7 @@ layout: default
     </div>
 </section>
 
-<section id="copywriting" class="bg-light text-black padding-section" >
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-7 text-left mt-5 mb-5">
-                <h2 class="section-heading mb-3">{{ page.copywriting_title }}</h2>
-                <p class="text" style="text-align: justify;"> {{ page.copywriting_text }} </p>
-                <br>
-                <a class="btn btn-primary btn-xl text-white page-scroll" href="#contact">{{ page.copywriting_button }}</a>
-            </div>
-            <div class="col-12 col-md-5 mt-5 mb-5">
-                <img src="assets/img/images/copywriting.jpg" class="img-fluid" alt="roosje-pertz-comedian">
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="bg-primary" id="podcast">
+<section class="bg-light text-black" id="podcast">
   <div class="container banner pt-5" style="padding:100px 0; max-height: unset;">
     <div class="d-flex justify-content-center pt-5">
         <h2 class="text-white text-center bg-light p-3">{{ page.podcast_title }}</h2>
@@ -217,7 +201,7 @@ layout: default
   </div>
 </section>
 
-<section id="getuigenissen" class="bg-light text-black padding-section" >
+<section id="getuigenissen" class="bg-primary padding-section" >
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 col-md-7 text-center mt-5 mb-3">
@@ -257,7 +241,7 @@ layout: default
 </section>
 
 
-<section id="vrouwelijke-comedian" class="bg-primary" style="padding:100px 0;">
+<section id="vrouwelijke-comedian" class="bg-light text-black" style="padding:100px 0;">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
@@ -276,7 +260,7 @@ layout: default
                 <img style="height: 100%; width: 100%;" src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_700,f_auto,fl_progressive,q_auto:best/roosje-pertz/roosje-pertz-stand-up-comedian" class="img-fluid " alt="roosje-pertz-comedian">
 </section>
 
-<section id="contact" class="bg-light" style="padding:100px 0;">
+<section id="contact" class="bg-primary" style="padding:100px 0;">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
