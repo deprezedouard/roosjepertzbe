@@ -201,7 +201,22 @@ layout: default
   </div>
 </section>
 
-<section id="getuigenissen" class="bg-primary padding-section" >
+<section id="vrouwelijke-comedian" class="bg-primary" style="padding:100px 0;">
+    <div class="container">
+        <div class="row pt-5 d-flex justify-content-center">
+            <div class="col-12 col-md-7 mb-5 text-center text-white">
+                <h2 class="section-heading mb-3">{{ page.vrouwelijke_comedian_titel }}</h2>
+                <p class="text">
+                   {{ page.vrouwelijke_comedian }}
+                </p>
+                <br>
+                <a class="btn btn-light btn-xl  page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.vrouwelijke_comedian_button }}</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="getuigenissen" class="bg-light padding-section" >
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 col-md-7 text-center mt-5 mb-3">
@@ -240,21 +255,6 @@ layout: default
     </div>
 </section>
 
-
-<section id="vrouwelijke-comedian" class="bg-light text-black" style="padding:100px 0;">
-    <div class="container">
-        <div class="row pt-5 d-flex justify-content-center">
-            <div class="col-12 col-md-7 mb-5 text-center text-white">
-                <h2 class="section-heading mb-3 text-black">{{ page.vrouwelijke_comedian_titel }}</h2>
-                <p class="text text-black">
-                   {{ page.vrouwelijke_comedian }}
-                </p>
-                <br>
-                <a class="btn btn-light btn-xl text-black page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.vrouwelijke_comedian_button }}</a>
-            </div>
-        </div>
-    </div>
-</section>
 
 <section id="foto" class="bg-primary">
                 <img style="height: 100%; width: 100%;" src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_700,f_auto,fl_progressive,q_auto:best/roosje-pertz/roosje-pertz-stand-up-comedian" class="img-fluid " alt="roosje-pertz-comedian">
