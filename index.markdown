@@ -1,6 +1,5 @@
 ---
 title: Roosje Pertz
-published: false
 bio_title_h1: Roosje Pertz, stand-up comedian en MC
 bio_description: |-
   Roosje Pertz kreeg van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
@@ -15,30 +14,28 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: "12/11/21 MC Roosje Pertz met Jade Mintjens en Soe Nsuki in Halle <br>
-  13/11/21 MC Roosje Pertz met Jade Mintjens en Soe Nsuki in Mortsel  <br>  20/11/21
-  \ MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven  <br> 22/11/21  MC Roosje
-  Pertz op de Open Mic in het Rock Café in Leuven  <br> 25/11/21  MC Roosje Pertz
-  op Comedy Clinic UZA met Vincent Voeten, Seppe Toremans en Jeron Dewulf  <br>13/12/21
-  \ MC Roosje Pertz met Lukas Lelie, Vincent Voeten en Kevin Pottier op Stixn Comedy
-  Night in Herent <br>14/12/21  MC Roosje Pertz met Intgeniep, Yannick Joos en Kevin
-  Pottier op Lachen op dinsdag in Tervuren <br>\n 18/12/21   MC Roosje Pertz op  Comedy
-  Leuven in café Sport in Leuven <br>  22/12/21  Young One Roosje Pertz met Old One
-  Michael Van Peel in het Jeugdhuis in Beringen  <br>10/01/22  MC Roosje Pertz op
-  Stixn Comedy Night in Herent <br> 11/01/22  MC Roosje Pertz met Lucas Lelie, Ariane
-  Van Hasselt en Sam Kiebooms op Lachen op dinsdag in Tervuren <br>12/01/22  Verjaardag
-  Iwein Segers (boodschap van algemeen nut)  <br>15/01/22  MC Roosje Pertz op  Comedy
-  Leuven in café Sport in Leuven  <br>12/02/22 Roosje Pertz met Nigel Williams in
-  Maaseik <br> 14/02/22  MC Roosje Pertz op Stixn Comedy Night in Herent  <br> 19/02/22
-  \ MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven  <br>11/03/22  Roosje
-  Pertz  in Poesele  <br> 14/03/22  MC Roosje Pertz op Stixn Comedy Night in Herent
-  <br> 19/03/22  MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven  <br>21/03/22
-  \ MC Roosje Pertz op Open Mic  in Rock Café in Leuven  <br>25/03/22 Roosje Pertz
-  in Asper <br> 11/04/22  MC Roosje Pertz op Stixn Comedy Night in Herent <br> 16/04/22
-  \ MC Roosje Pertz op  Comedy Leuven in café Sport in Leuven  <br>09/05/22  MC Roosje
-  Pertz op Stixn Comedy Night in Herent <br>21/05/22  MC Roosje Pertz op  Comedy Leuven
-  in café Sport in Leuven  <br>\n18/06/22  MC Roosje Pertz op  Comedy Leuven in café
-  Sport in Leuven  <br>  "
+speellijst: '11/03/22 MC''en  in Poesele  <br> 12/03/22  MC''en voor Bert Gabriëls
+  en Bas Birker in Baasrode <br>14/03/22 MC''en voor Sergej L, Els V en Thomas Smith
+  op Stixn Comedy Night <br>15/03/22 MC''en voor Sam K, Ariane VH en Lukas Lelie in
+  Tervuren <br>18/03/22 Support act voor Soe Nsuki in Werkhuys in Borgerhout  <br>19/03/22
+  MC''en voor Jeroen Leenders ea op Comedy Leuven <br>21/03/22 MC''en op de Open Mic
+  in Rock Café in Leuven <br>22/03/22 WEDSTIJD, BRAND EEN KAARS OK? <br>24/03/22 Support
+  act Philippe Geubels in het Gildenhuis in Melle <br>25/03/22 MC''en voor Ariane
+  Van Hasselt en Kristel Zweers in Asper <br>02/04/22 Support act Philippe Geubels
+  in Deurne <br> 11/04/22 MC''en op Stixn Comedy Night in Herent <br> 16/04/22 MC''en
+  op  Comedy Leuven in café Sport in Leuven  <br> 21/04/22 Support act Philippe Geubels
+  in Mimuze Kalmthout <br> 22/04/22 MC ''en voor Gunther Lamoot en Bert Gabriëls op
+  Comedy Corso Berchem  <br>28/04/22  Support act Philippe Geubels  <br> 29/04/22
+  MC''en voor Soe Nsuki en Jade Mintjens in CC Blankenberghe <br>30/04/22 MC''en voor
+  oa Piv Huvluv in Bar Bazaar Wilrijk<br>07/05/22 Support act Philippe Geubels in
+  Mimuze Kalmthout <br>09/05/22 MC''en op Stixn Comedy Night in Herent<br>21/05/22
+  MC ''en voor Comedy Leuven in café Sport in Leuven<br>18/06/22 MC''en voor Steven
+  Gabriëls en William Bouva in St-Denijs-Westrem <br>27/09/22 MC''en voor Peter Hens
+  en Thomas Smith in Kessel <br>29/09/22 Support act Philippe Geubels in Herent <br>19/11/22
+  MC''en voor Peter Hens, Thomas Smith en David Galle in Houthalen-H <br>03/03/23
+  MC''en voor Soe Nsuki ea in Knokke-Heist <br>09/03/23 MC''en voor Jeron Dewulf en
+  gast in Wijnegem <br>13/05/23 MC''en voor Jan Linssen, Erhan Demirci en Joost Van
+  Hyfte in Houthalen-H '
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
@@ -67,9 +64,8 @@ copywriting_text: |-
   Roosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan dat ook voor die van jou. <br><br><a href="https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer" target="_blank">Lees hier haar column voor Radio 1 over de lockdown van maart 2020.</a><br><br><a href="https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing" target="_blank">Download hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.</a>
 copywriting_button: Contacteer mij
 contact_titel: Contacteer mij!
-contact_text: Mail naar <a href="mailto:roosjepertz@hotmail.com">roosjepertz@hotmail.com</a>
-  of bel 0498 62 54 03, voor boekingen contacteer <a href="http://www.123comedyclub.be/comedian/roosje-pertz"
-  target="_blank">123Comedy Club</a>.
+contact_text: Voor boekingen en al de rest mail naar <a href="mailto:roosjepertz@hotmail.com">roosjepertz@hotmail.com</a>
+  of bel 0498 62 54 03
 layout: default
 ---
 
