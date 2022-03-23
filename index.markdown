@@ -26,14 +26,11 @@ speellijst: 24/03/22 Support act Philippe Geubels in het Gildenhuis in Melle <br
   voor Soe Nsuki in Hoogmis Edegem <br>21/05/22 MC 'en voor Comedy Leuven in café
   Sport in Leuven <br>18/06/22 MC'en voor Steven Gabriëls en William Bouva in St-Denijs-Westrem
   <br>24/06/22 MC'en op de Volksfeesten in Moorsel <br>08/08/22 MC'en in Gelrode <br>27/08/22
-  MC'en voor Peter Hens en Thomas Smith in Kessel <br>29/09/22 Support act Philippe
-  Geubels in Herent <br>08/10/22 Support act Philippe Geubels in Hamont-Achel <br>15/10/22
-  Support act Philippe Geubels in cc Beringen <br>29/10/22 Support act Philippe Geubels
-  in cc Mortsel  <br>19/11/22 MC'en voor Peter Hens, Thomas Smith en David Galle in
-  Houthalen-H  <br>20/01/23 MC'en in Hamont-Achel <br>03/03/23 MC'en voor Soe Nsuki
-  ea in Knokke-Heist <br>09/03/23 MC'en voor Jeron Dewulf en gast in Wijnegem <br>13/05/23
-  MC'en voor Jan Linssen, Erhan Demirci en Joost Van Hyfte in Houthalen-H <br>25/03/23
-  MC'en in Kasteel Hof de Bist in Ekeren
+  MC'en voor Peter Hens en Thomas Smith in Kessel <br>19/11/22 MC'en voor Peter Hens,
+  Thomas Smith en David Galle in Houthalen-H  <br>20/01/23 MC'en in Hamont-Achel <br>03/03/23
+  MC'en voor Soe Nsuki ea in Knokke-Heist <br>09/03/23 MC'en voor Jeron Dewulf en
+  gast in Wijnegem <br>13/05/23 MC'en voor Jan Linssen, Erhan Demirci en Joost Van
+  Hyfte in Houthalen-H <br>25/03/23 MC'en in Kasteel Hof de Bist in Ekeren
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
