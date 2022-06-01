@@ -23,13 +23,14 @@ speellijst: 21/05/22 MC 'en voor Comedy Leuven in café Sport in Leuven <br>02/0
   Joost Van Hyfte, Rik Van Geel en Wim Van Dooren op Stixn Comedy Night <br>18/06/22
   MC'en voor Steven Gabriëls en William Bouva in St-Denijs-Westrem <br>23/06/22 MC'en
   in de Antwerpse Brouw Compagnie <br>24/06/22 MC'en op de Volksfeesten in Moorsel
-  <br>08/08/22 MC'en in Gelrode <br>27/08/22 MC'en voor Peter Hens en Thomas Smith
-  in Kessel <br>06/09/22 set op Comedy Café CC Palethe Pelt <br>19/11/22 MC'en voor
-  Peter Hens, Thomas Smith en David Galle in Houthalen-H  <br>20/01/23 MC'en in Hamont-Achel
-  <br>03/03/23 MC'en voor Soe Nsuki ea in Knokke-Heist <br>09/03/23 MC'en voor Jeron
-  Dewulf en gast in Wijnegem <br>14/04/23 MC'en op KernBomedy  <br>13/05/23 MC'en
-  voor Jan Linssen, Erhan Demirci en Joost Van Hyfte in Houthalen-H <br>25/03/23 MC'en
-  in Kasteel Hof de Bist in Ekeren
+  <br>08/08/22 MC'en in Gelrode <br>18/08/22 MC'en voor Soe Nsuki, Seppe Toremans
+  en Raf Coppens in Kuurne <br>27/08/22 MC'en voor Peter Hens en Thomas Smith in Kessel
+  <br>06/09/22 set op Comedy Café CC Palethe Pelt <br>19/11/22 MC'en voor Peter Hens,
+  Thomas Smith en David Galle in Houthalen-H  <br>02/12/22 MC'en voor Dena Vahdani,
+  Dara Sheikhi en Thomas Smith in Zaventem <br>20/01/23 MC'en in Hamont-Achel <br>03/03/23
+  MC'en voor Soe Nsuki ea in Knokke-Heist <br>08/03/23 Set in De Trukendoos in Harelbeke  <br>14/04/23
+  MC'en op KernBomedy  <br>13/05/23 MC'en voor Jan Linssen, Erhan Demirci en Joost
+  Van Hyfte in Houthalen-H <br>25/03/23 MC'en in Kasteel Hof de Bist in Ekeren
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
