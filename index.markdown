@@ -14,13 +14,12 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: 21/05/22 MC 'en voor Comedy Leuven in café Sport in Leuven <br>02/06/22
-  MC'en voor Warremma en Soe Nsuki in Openluchttheater Boechout <br>03/06/22 Set op
-  Comedy Line-up Show van Willemsfonds met oa Serine Ayari  in Theater Vaudeville
-  in Brussel <br>04/06/22 Set op Science Comedy Night op Nerdland Festival <br>09/06/22
-  MC'en voor Ygor uit Poperinge, Dara Sheikhi en Thomas Smith in Linkeroever <br>11/06/22
-  MC'en voor Ygor uit Poperinge en David Galle in Wakken  <br>13/06/22  MC'en voor
-  Joost Van Hyfte, Rik Van Geel en Wim Van Dooren op Stixn Comedy Night <br>18/06/22
+speellijst: 02/06/22 MC'en voor Warremma en Soe Nsuki in Openluchttheater Boechout
+  <br>03/06/22 Set op Comedy Line-up Show van Willemsfonds met oa Serine Ayari  in
+  Theater Vaudeville in Brussel <br>04/06/22 Set op Science Comedy Night op Nerdland
+  Festival <br>09/06/22 MC'en voor Ygor uit Poperinge, Dara Sheikhi en Thomas Smith
+  in Linkeroever <br>11/06/22 MC'en voor Ygor uit Poperinge en David Galle in Wakken  <br>13/06/22  MC'en
+  voor Joost Van Hyfte, Rik Van Geel en Wim Van Dooren op Stixn Comedy Night <br>18/06/22
   MC'en voor Steven Gabriëls en William Bouva in St-Denijs-Westrem <br>23/06/22 MC'en
   in de Antwerpse Brouw Compagnie <br>24/06/22 MC'en op de Volksfeesten in Moorsel
   <br>08/08/22 MC'en in Gelrode <br>18/08/22 MC'en voor Soe Nsuki, Seppe Toremans
