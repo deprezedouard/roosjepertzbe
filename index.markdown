@@ -14,22 +14,22 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: 02/06/22 MC'en voor Warremma en Soe Nsuki in Openluchttheater Boechout
-  <br>03/06/22 Set op Comedy Line-up Show van Willemsfonds met oa Serine Ayari  in
-  Theater Vaudeville in Brussel <br>04/06/22 Set op Science Comedy Night op Nerdland
-  Festival <br>09/06/22 MC'en voor Ygor uit Poperinge, Dara Sheikhi en Thomas Smith
-  in Linkeroever <br>11/06/22 MC'en voor Ygor uit Poperinge en David Galle in Wakken  <br>13/06/22  MC'en
-  voor Joost Van Hyfte, Rik Van Geel en Wim Van Dooren op Stixn Comedy Night <br>18/06/22
-  MC'en voor Steven Gabriëls en William Bouva in St-Denijs-Westrem <br>23/06/22 MC'en
-  in de Antwerpse Brouw Compagnie <br>24/06/22 MC'en op de Volksfeesten in Moorsel
-  <br>08/08/22 MC'en in Gelrode <br>18/08/22 MC'en voor Soe Nsuki, Seppe Toremans
-  en Raf Coppens in Kuurne <br>27/08/22 MC'en voor Peter Hens en Thomas Smith in Kessel
-  <br>06/09/22 set op Comedy Café CC Palethe Pelt <br>19/11/22 MC'en voor Peter Hens,
-  Thomas Smith en David Galle in Houthalen-H  <br>02/12/22 MC'en voor Dena Vahdani,
-  Dara Sheikhi en Thomas Smith in Zaventem <br>20/01/23 MC'en in Hamont-Achel <br>03/03/23
-  MC'en voor Soe Nsuki ea in Knokke-Heist <br>08/03/23 Set in De Trukendoos in Harelbeke  <br>14/04/23
-  MC'en op KernBomedy  <br>13/05/23 MC'en voor Jan Linssen, Erhan Demirci en Joost
-  Van Hyfte in Houthalen-H <br>25/03/23 MC'en in Kasteel Hof de Bist in Ekeren
+speellijst: '18/06/22 MC''en voor Steven Gabriëls en William Bouva in St-Denijs-Westrem
+  <br>23/06/22 MC''en voor Ariane Van Hasselt en Johny Trash en Gunter Lamoot in de
+  Antwerpse Brouw Compagnie <br>24/06/22 MC''en voor Erhan Demirci en Raf Coppens
+  op de Volksfeesten in Moorsel  <br>08/08/22 MC''en in Gelrode <br>18/08/22 MC''en
+  voor Soe Nsuki, Seppe Toremans en Raf Coppens in Kuurne <br>27/08/22 MC''en voor
+  Peter Hens en Thomas Smith in Kessel <br>06/09/22 set op Comedy Café CC Palethe
+  Pelt <br>10/11/22 MC''en voor Gunter Lamoot, David Galle en Jeron Dewulf in Kasterlee  <br>18/11/22
+  MC''en voor Ygor uit Poperinge, Kristel Zweers en David Galle op Comedy Corso in
+  Berchem<br>19/11/22 MC''en voor Peter Hens, Thomas Smith en David Galle in Houthalen-H  <br>02/12/22
+  MC''en voor Dena Vahdani, Dara Sheikhi en Thomas Smith in Zaventem <br>20/01/23
+  MC''en in Hamont-Achel <br>03/03/23 MC''en voor Soe Nsuki ea in Knokke-Heist <br>08/03/23
+  Set in De Trukendoos in Harelbeke  <br>25/03/23 MC''en in Kasteel Hof de Bist in
+  Ekeren<br>14/04/23 MC''en op KernBomedy  <br>22/04/23 Set op Comedy Night met MC
+  Joost Van Hyfte, Ygor uit Poperinge, Thomas Smith en David Galle De Djoelen in Oud
+  Turnhout  <br>13/05/23 MC''en voor Jan Linssen, Erhan Demirci en Joost Van Hyfte
+  in Houthalen-H '
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
