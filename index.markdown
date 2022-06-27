@@ -14,15 +14,15 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '18/06/22 MC''en voor Steven Gabriëls en William Bouva in St-Denijs-Westrem
-  <br>23/06/22 MC''en voor Ariane Van Hasselt en Johny Trash en Gunter Lamoot in de
-  Antwerpse Brouw Compagnie <br>24/06/22 MC''en voor Erhan Demirci en Raf Coppens
-  op de Volksfeesten in Moorsel  <br>08/08/22 MC''en in Gelrode <br>18/08/22 MC''en
-  voor Soe Nsuki, Seppe Toremans en Raf Coppens in Kuurne <br>27/08/22 MC''en voor
-  Peter Hens en Thomas Smith in Kessel <br>06/09/22 set op Comedy Café CC Palethe
-  Pelt <br>10/11/22 MC''en voor Gunter Lamoot, David Galle en Jeron Dewulf in Kasterlee  <br>18/11/22
-  MC''en voor Ygor uit Poperinge, Kristel Zweers en David Galle op Comedy Corso in
-  Berchem<br>19/11/22 MC''en voor Peter Hens, Thomas Smith en David Galle in Houthalen-H  <br>02/12/22
+speellijst: '04/07/22 MC''en voor Luc Caals, Rabia Bouziane en Christian Celini op
+  ATV Vertellingen in Merksem <br>08/08/22 MC''en in Gelrode <br>15/08/22 MC''en op
+  ATV Vertellingen in Mortsel <br>18/08/22 MC''en voor Soe Nsuki, Seppe Toremans en
+  Raf Coppens in Kuurne <br>22/08/22 MC''en op ATV Vertellingen in Oostmalle <br>27/08/22
+  MC''en voor Peter Hens en Thomas Smith in Kessel <br>29/08/22 MC''en op ATV Vertellingen
+  in Wommelgem <br>06/09/22 set op Comedy Café CC Palethe Pelt <br>10/11/22 MC''en
+  voor Gunter Lamoot, David Galle en Jeron Dewulf in Kasterlee  <br>18/11/22 MC''en
+  voor Ygor uit Poperinge, Kristel Zweers en David Galle op Comedy Corso in Berchem<br>19/11/22
+  MC''en voor Peter Hens, Thomas Smith en David Galle in Houthalen-H  <br>02/12/22
   MC''en voor Dena Vahdani, Dara Sheikhi en Thomas Smith in Zaventem <br>20/01/23
   MC''en in Hamont-Achel <br>03/03/23 MC''en voor Soe Nsuki ea in Knokke-Heist <br>08/03/23
   Set in De Trukendoos in Harelbeke  <br>25/03/23 MC''en in Kasteel Hof de Bist in
