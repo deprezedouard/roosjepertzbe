@@ -60,7 +60,7 @@ copywriting_text: |-
   Roosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan dat ook voor die van jou. <br><br><a href="https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer" target="_blank">Lees hier haar column voor Radio 1 over de lockdown van maart 2020.</a><br><br><a href="https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing" target="_blank">Download hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.</a>
 copywriting_button: Contacteer mij
 contact_titel: Contacteer mij!
-contact_text: Voor boekingen en al de rest mail naar <a href="mailto:roosjepertz@hotmail.com">roosjepertz@hotmail.com</a>
+contact_text: Voor boekingen en al de rest mail naar <a href="mailto:booking@tram4.be">booking@tram4.be</a>
   of bel 0498 62 54 03
 layout: default
 ---
@@ -78,7 +78,7 @@ layout: default
                    {{ page.bio_description }}
                 </p>
                 <a class="btn btn-light btn-xl text-white page-scroll" href="#podcast">{{ page.bio_button }}</a>
-                <a class="btn btn-light btn-xl text-white page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.bio_button_2 }}</a>
+                <a class="btn btn-light btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.bio_button_2 }}</a>
             </div>
         </div>
     </div>
@@ -175,7 +175,7 @@ layout: default
                 <p class="text" style="text-align: justify;">
                    {{ page.speellijst }}
                 </p>
-                <a class="btn btn-light btn-xl text-white page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.speellijst_button }}</a>
+                <a class="btn btn-light btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
             </div>
         </div>
     </div>
@@ -206,7 +206,7 @@ layout: default
                    {{ page.vrouwelijke_comedian }}
                 </p>
                 <br>
-                <a class="btn btn-light btn-xl  page-scroll" href="http://www.123comedyclub.be/comedian/roosje-pertz#.X29Nei1Y7BI ">{{ page.vrouwelijke_comedian_button }}</a>
+                <a class="btn btn-light btn-xl  page-scroll" href="https://tram4.be/">{{ page.vrouwelijke_comedian_button }}</a>
             </div>
         </div>
     </div>
@@ -261,7 +261,7 @@ layout: default
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
                 <h2 class="section-heading mb-3">{{ page.contact_titel }}</h2>
-                <p class="text">
+                <p class="text text-white">
                    {{ page.contact_text }}
                 </p>
             </div>
