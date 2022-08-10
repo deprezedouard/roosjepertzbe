@@ -14,9 +14,8 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '15/08/22 MC''en op ATV Vertellingen in Mortsel <br>15/08/22 MC''en op
-  de ATV Vertellingen met Jeroen Verdick in Kapellen <br>18/08/22 MC''en voor Soe
-  Nsuki, Seppe Toremans en Raf Coppens in Kuurne <br>22/08/22 MC''en op ATV Vertellingen
+speellijst: '15/08/22 MC''en op ATV Vertellingen in Mortsel <br>18/08/22 MC''en voor
+  Soe Nsuki, Seppe Toremans en Raf Coppens in Kuurne <br>22/08/22 MC''en op ATV Vertellingen
   met Jade Mintjens in Oostmalle <br>24/08/22 Set op comedy night met Erhan Demirci
   in Rotselaar <br>27/08/22 MC''en voor Peter Hens en Thomas Smith in Kessel <br>29/08/22
   MC''en op ATV Vertellingen met Bas Birker in Wommelgem <br>06/09/22 set op Comedy
