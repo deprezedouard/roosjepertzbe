@@ -4,7 +4,7 @@ bio_title_h1: Roosje Pertz, stand-up comedian en MC
 bio_description: |-
   Roosje Pertz kreeg van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
 
-  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Het meest ijzige publiek ontvlamt met Roosje Pertz als aanstekelijke MC. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won ze Comedy Match in Eindhoven. <br><br> Ze is ook te beluisteren op de podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
+  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Het meest ijzige publiek ontvlamt met Roosje als aanstekelijke MC. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won ze Comedy Match in Eindhoven. <br><br> Ze is ook te beluisteren op de podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
 socials_instagram_title: Roosje op Instagram
@@ -14,20 +14,22 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '22/07/22 Set in Club Haug in Rotterdam <br>08/08/22 MC''en in Gelrode
-  <br>15/08/22 MC''en op ATV Vertellingen in Mortsel <br>15/08/22 MC''en op de ATV
-  Vertellingen met Jeroen Verdick in Kapellen <br>18/08/22 MC''en voor Soe Nsuki,
-  Seppe Toremans en Raf Coppens in Kuurne <br>22/08/22 MC''en op ATV Vertellingen
+speellijst: '15/08/22 MC''en op ATV Vertellingen in Mortsel <br>15/08/22 MC''en op
+  de ATV Vertellingen met Jeroen Verdick in Kapellen <br>18/08/22 MC''en voor Soe
+  Nsuki, Seppe Toremans en Raf Coppens in Kuurne <br>22/08/22 MC''en op ATV Vertellingen
   met Jade Mintjens in Oostmalle <br>24/08/22 Set op comedy night met Erhan Demirci
   in Rotselaar <br>27/08/22 MC''en voor Peter Hens en Thomas Smith in Kessel <br>29/08/22
   MC''en op ATV Vertellingen met Bas Birker in Wommelgem <br>06/09/22 set op Comedy
-  Café CC Palethe Pelt <br>10/11/22 MC''en voor Gunter Lamoot, David Galle en Jeron
-  Dewulf in Kasterlee  <br>18/11/22 MC''en voor Ygor uit Poperinge, Kristel Zweers
-  en David Galle op Comedy Corso in Berchem<br>19/11/22 MC''en voor Peter Hens, Thomas
-  Smith en David Galle in Houthalen-H  <br>02/12/22 MC''en voor Dena Vahdani, Dara
-  Sheikhi en Thomas Smith in Zaventem <br>20/01/23 MC''en in Hamont-Achel <br>03/02/22
-  MC''en voor Ygor uit Poperinge, Jasper Posson en Steven Mahieu in de stadsschouwburg
-  in Mechelen <br>03/03/23 MC''en voor Soe Nsuki ea in Knokke-Heist <br>08/03/23 Set
+  Café CC Palethe Pelt <br>29/09/22 support Philippe Geubels in cc De Wildeman in
+  Herent <br>09/10/22 support Philippe Geubels in Hamont-Achel<br>10/11/22 MC''en
+  voor Gunter Lamoot, David Galle en Jeron Dewulf in Kasterlee  <br>15/10/22 support
+  Philippe Geubels in Beringen <br>28/10/22 support Philippe Geubels in De Ekerse
+  Theaterzaal <br>18/11/22 MC''en voor Ygor uit Poperinge, Kristel Zweers en David
+  Galle op Comedy Corso in Berchem<br>19/11/22 MC''en voor Peter Hens, Thomas Smith
+  en David Galle in Houthalen-H  <br>02/12/22 MC''en voor Dena Vahdani, Dara Sheikhi
+  en Thomas Smith in Zaventem <br>20/01/23 MC''en in Hamont-Achel <br>03/02/22 MC''en
+  voor Ygor uit Poperinge, Jasper Posson en Steven Mahieu in de stadsschouwburg in
+  Mechelen <br>03/03/23 MC''en voor Soe Nsuki ea in Knokke-Heist <br>08/03/23 Set
   in De Trukendoos in Harelbeke  <br>25/03/23 MC''en in Kasteel Hof de Bist in Ekeren<br>14/04/23
   MC''en op KernBomedy  <br>22/04/23 Set op Comedy Night met MC Joost Van Hyfte, Ygor
   uit Poperinge, Thomas Smith en David Galle De Djoelen in Oud Turnhout  <br>13/05/23
