@@ -27,13 +27,14 @@ speellijst: '15/08/22 MC''en op ATV Vertellingen in Mortsel <br>15/08/22 MC''en 
   Theaterzaal <br>18/11/22 MC''en voor Ygor uit Poperinge, Kristel Zweers en David
   Galle op Comedy Corso in Berchem<br>19/11/22 MC''en voor Peter Hens, Thomas Smith
   en David Galle in Houthalen-H  <br>02/12/22 MC''en voor Dena Vahdani, Dara Sheikhi
-  en Thomas Smith in Zaventem <br>20/01/23 MC''en in Hamont-Achel <br>03/02/22 MC''en
-  voor Ygor uit Poperinge, Jasper Posson en Steven Mahieu in de stadsschouwburg in
-  Mechelen <br>03/03/23 MC''en voor Soe Nsuki ea in Knokke-Heist <br>08/03/23 Set
-  in De Trukendoos in Harelbeke  <br>25/03/23 MC''en in Kasteel Hof de Bist in Ekeren<br>14/04/23
-  MC''en op KernBomedy  <br>22/04/23 Set op Comedy Night met MC Joost Van Hyfte, Ygor
-  uit Poperinge, Thomas Smith en David Galle De Djoelen in Oud Turnhout  <br>13/05/23
-  MC''en voor Jan Linssen, Erhan Demirci en Joost Van Hyfte in Houthalen-H '
+  en Thomas Smith in Zaventem <br>20/01/23 support Philippe Geubels in Knokke-Heist
+  <br>03/02/22 MC''en voor Ygor uit Poperinge, Jasper Posson en Steven Mahieu in de
+  stadsschouwburg in Mechelen <br>03/03/23 MC''en voor Soe Nsuki ea in Knokke-Heist
+  <br>08/03/23 Set in De Trukendoos in Harelbeke  <br>25/03/23 MC''en in Kasteel Hof
+  de Bist in Ekeren<br>14/04/23 MC''en op KernBomedy  <br>22/04/23 Set op Comedy Night
+  met MC Joost Van Hyfte, Ygor uit Poperinge, Thomas Smith en David Galle De Djoelen
+  in Oud Turnhout  <br>13/05/23 MC''en voor Jan Linssen, Erhan Demirci en Joost Van
+  Hyfte in Houthalen-H '
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
