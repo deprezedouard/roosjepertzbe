@@ -14,22 +14,22 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '26/08/22 MC''en op comedy night Chiro Londerzeel <br>27/08/22 MC''en
-  voor Peter Hens en Thomas Smith in Kessel <br>06/09/22 set op Comedy Café CC Palethe
+speellijst: 26/08/22 MC'en op comedy night Chiro Londerzeel <br>27/08/22 MC'en voor
+  Peter Hens en Thomas Smith in Kessel <br>06/09/22 set op Comedy Café CC Palethe
   Pelt <br>29/09/22 support Philippe Geubels in cc De Wildeman in Herent <br>09/10/22
-  support Philippe Geubels in Hamont-Achel<br>10/11/22 MC''en voor Gunter Lamoot,
-  David Galle en Jeron Dewulf in Kasterlee  <br>15/10/22 support Philippe Geubels
-  in Beringen <br>28/10/22 support Philippe Geubels in De Ekerse Theaterzaal <br>18/11/22
-  MC''en voor Ygor uit Poperinge, Kristel Zweers en David Galle op Comedy Corso in
-  Berchem<br>19/11/22 MC''en voor Peter Hens, Thomas Smith en David Galle in Houthalen-H  <br>02/12/22
-  MC''en voor Dena Vahdani, Dara Sheikhi en Thomas Smith in Zaventem <br>20/01/23
-  support Philippe Geubels in Knokke-Heist <br>03/02/22 MC''en voor Ygor uit Poperinge,
-  Jasper Posson en Steven Mahieu in de stadsschouwburg in Mechelen <br>03/03/23 MC''en
-  voor Soe Nsuki ea in Knokke-Heist <br>08/03/23 Set in De Trukendoos in Harelbeke  <br>25/03/23
-  MC''en in Kasteel Hof de Bist in Ekeren<br>14/04/23 MC''en op KernBomedy  <br>22/04/23
+  support Philippe Geubels in Hamont-Achel<br>10/11/22 MC'en voor Gunter Lamoot, David
+  Galle en Jeron Dewulf in Kasterlee  <br>15/10/22 support Philippe Geubels in Beringen
+  <br>28/10/22 support Philippe Geubels in De Ekerse Theaterzaal <br>18/11/22 MC'en
+  voor Ygor uit Poperinge, Kristel Zweers en David Galle op Comedy Corso in Berchem<br>19/11/22
+  MC'en voor Peter Hens, Thomas Smith en David Galle in Houthalen-H  <br>02/12/22
+  MC'en voor Dena Vahdani, Dara Sheikhi en Thomas Smith in Zaventem <br>20/01/23 support
+  Philippe Geubels in Knokke-Heist <br>03/02/22 MC'en voor Ygor uit Poperinge, Jasper
+  Posson en Steven Mahieu in de stadsschouwburg in Mechelen <br>03/03/23 MC'en voor
+  Soe Nsuki ea in Knokke-Heist <br>08/03/23 Set in De Trukendoos in Harelbeke  <br>25/03/23
+  MC'en in Kasteel Hof de Bist in Ekeren<br>14/04/23 MC'en op KernBomedy  <br>22/04/23
   Set op Comedy Night met MC Joost Van Hyfte, Ygor uit Poperinge, Thomas Smith en
-  David Galle De Djoelen in Oud Turnhout  <br>13/05/23 MC''en voor Jan Linssen, Erhan
-  Demirci en Joost Van Hyfte in Houthalen-H '
+  David Galle De Djoelen in Oud Turnhout  <br>13/05/23 MC'en voor Jan Linssen, Erhan
+  Demirci en Joost Van Hyfte in Houthalen-H
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
