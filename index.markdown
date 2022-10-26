@@ -2,9 +2,9 @@
 title: Roosje Pertz
 bio_title_h1: Roosje Pertz, stand-up comedian/MC
 bio_description: |-
-  Roosje Pertz kreeg van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
+  Roosje Pertz kreeg in 1999 van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
 
-  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Het meest ijzige publiek ontvlamt met Roosje als aanstekelijke MC. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won ze Comedy Match in Eindhoven. <br><br> Ze is ook te beluisteren op de podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
+  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke MC doet Roosje zelfs het meest ijzige publiek ontvlammen. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won ze Comedy Match in Eindhoven. <br>De komende 10 jaar werkt ze aan haar eigen special, daarin sterk belemmerd door het comfort van het stabiel inkomen van haar échte job. <br><br> Ze is ook te beluisteren op de podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
 socials_instagram_title: Roosje op Instagram
