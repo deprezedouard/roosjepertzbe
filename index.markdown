@@ -14,29 +14,24 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: 10/11/22 MC'en voor Gunter Lamoot, David Galle en Jeron Dewulf in Kasterlee
-  <br>12/11/22 support William Boeva in Brecht <br>14/11/22 MC'en bij Stixn in Herent
-  <br>18/11/22 MC'en voor Ygor uit Poperinge, Kristel Zweers en David Galle op Comedy
-  Corso in Berchem<br>19/11/22 MC'en voor Peter Hens, Thomas Smith en David Galle
-  in Houthalen-H <br>21/11/22 MC'en Open Mic Rock Café Leuven<br>23/11/22 set in Roes
-  Comedy Club Gent <br>30/11/22 MC'en Open Mic Kuub Mechelen <br>02/12/22 MC'en voor
-  Dena Vahdani, Dara Sheikhi en Thomas Smith in Zaventem <br>08/12/22 support Soe
-  Nsuki in Minnepoort Leuven  <br>12/12/22 MC bij Stixn in Herent  <br>16/12/22 set
-  op privé-event  <br>17/12/22 MC op Comedy Leuven <br>19/12/22 MC op Open Mic Rock
-  Café Leuven <br>28/12/22 MC op Open Mic Kuub Mechelen <br>09/01/23 MC'en bij Stixn
-  in Herent  <br>21/01/23 MC op Comedy Leuven<br>03/02/22 MC'en voor Ygor uit Poperinge,
-  Jasper Posson en Steven Mahieu in de stadsschouwburg in Mechelen <br>13/02/23 MC
-  bij Stixn in Herent <br>18/02/23 MC'en voor Laureen Vereecken, Katleen Peters en
-  Kristel Zweers in Diepenbeek <br>03/03/23 MC'en voor Soe Nsuki ea in Knokke-Heist
-  <br>08/03/23 Set in De Trukendoos in Harelbeke  <br>13/03/23 MC bij Stixn in Herent
-  <br>18/03/23 MC op Comedy Leuven <br>25/03/23 MC'en in Kasteel Hof de Bist in Ekeren<br>14/04/23
+speellijst: 12/12/22 MC bij Stixn in Herent  <br>16/12/22 set op privé-event <br>19/12/22
+  MC op Open Mic Rock Café Leuven  <br>20/01/23 MC voor Joost Van Hyfte, Thomas Smith
+  en Martijn Oosterhuis in Cinema Walburg Hamont-Achel<br>21/01/23 MC op Comedy Leuven
+  <br>25/01/23 MC op Open Mic Kuub Mechelen<br>01/02/23 Comedy op maat voor UCLL Leuven
+  <br>03/02/22 MC'en voor Ygor uit Poperinge, Jasper Posson en Steven Mahieu in de
+  stadsschouwburg in Mechelen <br>13/02/23 MC bij Stixn in Herent <br>18/02/23 MC'en
+  voor Laureen Vereecken, Katleen Peters en Kristel Zweers in Diepenbeek <br>03/03/23
+  MC'en in Knokke-Heist <br>08/03/23 Set in De Trukendoos in Harelbeke  <br>13/03/23
+  MC bij Stixn in Herent <br>17/03/23 MC voor Mohsin Abbas, Peter Hens en Joost Van
+  Hyfte op Comedy Corso in cc Berchem <br>18/03/23 MC op Comedy Leuven <br>25/03/23
+  MC'en voor Joost Van Hyfte en Erhan Demirci in Kasteel Hof de Bist in Ekeren<br>14/04/23
   MC'en op KernBomedy  <br>15/04/23 MC op Comedy Leuven <br>17/04/23 MC op Open Mic
   Rock Café Leuven<br>22/04/23 Set op Comedy Night met MC Joost Van Hyfte, Ygor uit
   Poperinge, Thomas Smith en David Galle De Djoelen in Oud Turnhout   <br>26/04/22
   MC op Open Mic Kuub Mechelen <br>08/05/23 MC bij Stixn in Herent  <br>13/05/23 MC'en
   voor Jan Linssen, Erhan Demirci en Joost Van Hyfte in Houthalen-H <br>20/05/23 MC
-  op Comedy Leuven <br>12/06/23 MC bij Stixn in Herent  <br>17/06/23 MC bij Comedy
-  Leuven
+  op Comedy Leuven <br>12/06/23 MC bij Stixn in Herent <br>15/06/23 MC bij CC De Steiger
+  in Boom <br>17/06/23 MC bij Comedy Leuven
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
