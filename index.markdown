@@ -14,15 +14,15 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: 20/01/23 MC voor Joost Van Hyfte, Thomas Smith en Martijn Oosterhuis in
-  Cinema Walburg Hamont-Achel<br>21/01/23 MC op Comedy Leuven <br>25/01/23 MC op Open
-  Mic Kuub Mechelen<br>01/02/23 Comedy op maat voor UCLL Leuven <br>03/02/22 MC'en
-  voor Ygor uit Poperinge, Jasper Posson en Steven Mahieu in de stadsschouwburg in
-  Mechelen <br>13/02/23 MC bij Stixn in Herent <br>15/02/23 Line-up met Vincent Voeten,
-  Sam Kiebooms en MC Jan Linssen bij Villa Basta in Hasselt <br>18/02/23 MC'en voor
-  Laureen Vereecken, Katleen Peters en Kristel Zweers in Diepenbeek <br>03/03/23 MC'en
-  in Knokke-Heist <br>08/03/23 Set in De Trukendoos in Harelbeke  <br>17/03/23 MC
-  voor Mohsin Abbas, Peter Hens en Joost Van Hyfte op Comedy Corso in cc Berchem <br>18/03/23
+speellijst: 25/01/23 MC op Open Mic Kuub Mechelen<br>01/02/23 Comedy op maat voor
+  UCLL Leuven <br>02/02/23 Comedy set met Seppe toremans in De Pomp in Hove <br>03/02/22
+  MC'en voor Ygor uit Poperinge, Jasper Posson en Steven Mahieu in de stadsschouwburg
+  in Mechelen <br>13/02/23 MC bij Stixn in Herent <br>15/02/23 Line-up met Vincent
+  Voeten, Sam Kiebooms en MC Jan Linssen bij Villa Basta in Hasselt <br>18/02/23 MC'en
+  voor Laureen Vereecken, Katleen Peters en Kristel Zweers in Diepenbeek <br>03/03/23
+  MC'en in Knokke-Heist <br>04/03/23 Set op Big Binge of Comedy tijdens Utrecht International
+  Comedy Festival<br>08/03/23 Set in De Trukendoos in Harelbeke  <br>17/03/23 MC voor
+  Mohsin Abbas, Peter Hens en Joost Van Hyfte op Comedy Corso in cc Berchem <br>18/03/23
   MC op Comedy Leuven <br>20/03/23 MC bij Stixn in Herent<br>25/03/23 MC'en voor Joost
   Van Hyfte en Erhan Demirci in Kasteel Hof de Bist in Ekeren<br>14/04/23 MC'en op
   KernBomedy  <br>15/04/23 MC op Comedy Leuven <br>17/04/23 MC op Open Mic Rock Café
