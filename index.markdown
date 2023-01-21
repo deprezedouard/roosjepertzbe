@@ -19,8 +19,9 @@ speellijst: 25/01/23 MC op Open Mic Kuub Mechelen<br>01/02/23 Comedy op maat voo
   MC'en voor Ygor uit Poperinge, Jasper Posson en Steven Mahieu in de stadsschouwburg
   in Mechelen <br>13/02/23 MC bij Stixn in Herent <br>15/02/23 Line-up met Vincent
   Voeten, Sam Kiebooms en MC Jan Linssen bij Villa Basta in Hasselt <br>18/02/23 MC'en
-  voor Laureen Vereecken, Katleen Peters en Kristel Zweers in Diepenbeek <br>03/03/23
-  MC'en in Knokke-Heist <br>04/03/23 Set op Big Binge of Comedy tijdens Utrecht International
+  voor Laureen Vereecken, Katleen Peters en Kristel Zweers in Diepenbeek <br>25/02/23
+  Comedy set op 25 jaar Piv Huvluv in cc De Schakel in Waregem <br>03/03/23 MC'en
+  in Knokke-Heist <br>04/03/23 Set op Big Binge of Comedy tijdens Utrecht International
   Comedy Festival<br>08/03/23 Set in De Trukendoos in Harelbeke  <br>17/03/23 MC voor
   Mohsin Abbas, Peter Hens en Joost Van Hyfte op Comedy Corso in cc Berchem <br>18/03/23
   MC op Comedy Leuven <br>20/03/23 MC bij Stixn in Herent<br>25/03/23 MC'en voor Joost
