@@ -13,7 +13,10 @@ socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 aanbod_voor_scholen_titel: Aanbod voor scholen
-aanbod_voor_scholen_tekst: (Voor leerkrachten) Roosje Pertz is het gouden randje van je pedagogische studiedag. Boek een comedyset vol spitsvondige anekdotes overonze taal, de leraarskamer en werken op een school. Als ervaren NT2 leerkracht put Roosje uit een arsenaal van interculturele observaties, lach gegarandeerd.
+aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randje
+  van je pedagogische studiedag. Boek een comedyset vol spitsvondige anekdotes overonze
+  taal, de leraarskamer en werken op een school. Als ervaren NT2 leerkracht put Roosje
+  uit een arsenaal van interculturele observaties, lach gegarandeerd."
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
 speellijst: 25/01/23 MC op Open Mic Kuub Mechelen<br>01/02/23 Comedy op maat voor
