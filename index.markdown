@@ -19,25 +19,24 @@ aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randj
   uit een arsenaal van interculturele observaties, lach gegarandeerd."
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: 25/01/23 MC op Open Mic Kuub Mechelen<br>01/02/23 Comedy op maat voor
-  UCLL Leuven <br>02/02/23 Comedy set met Seppe toremans in De Pomp in Hove <br>03/02/22
-  MC'en voor Ygor uit Poperinge, Jasper Posson en Steven Mahieu in de stadsschouwburg
-  in Mechelen <br>13/02/23 MC bij Stixn in Herent <br>15/02/23 Line-up met Vincent
-  Voeten, Sam Kiebooms en MC Jan Linssen bij Villa Basta in Hasselt <br>18/02/23 MC'en
-  voor Laureen Vereecken, Katleen Peters en Kristel Zweers in Diepenbeek <br>25/02/23
-  Comedy set op 25 jaar Piv Huvluv in cc De Schakel in Waregem <br>03/03/23 MC'en
-  in Knokke-Heist <br>04/03/23 Set op Big Binge of Comedy tijdens Utrecht International
-  Comedy Festival<br>08/03/23 Set in De Trukendoos in Harelbeke  <br>17/03/23 MC voor
-  Mohsin Abbas, Peter Hens en Joost Van Hyfte op Comedy Corso in cc Berchem <br>18/03/23
+speellijst: 25/02/23 Comedy set op 25 jaar Piv Huvluv in cc De Schakel in Waregem
+  <br>03/03/23 MC'en in Knokke-Heist <br>04/03/23 Set op Big Binge of Comedy tijdens
+  Utrecht International Comedy Festival<br>08/03/23 Set in De Trukendoos in Harelbeke  br>09/03/23
+  MC voor Warre Verlinden, Senne Maes en Jeron Dewulf in Wijnegem <br>17/03/23 MC
+  voor Mohsin Abbas, Peter Hens en Joost Van Hyfte op Comedy Corso in cc Berchem <br>18/03/23
   MC op Comedy Leuven <br>20/03/23 MC bij Stixn in Herent<br>25/03/23 MC'en voor Joost
-  Van Hyfte en Erhan Demirci in Kasteel Hof de Bist in Ekeren<br>14/04/23 MC'en op
-  KernBomedy  <br>15/04/23 MC op Comedy Leuven <br>17/04/23 MC op Open Mic Rock Café
-  Leuven<br>22/04/23 Set op Comedy Night met MC Joost Van Hyfte, Ygor uit Poperinge,
-  Thomas Smith en David Galle De Djoelen in Oud Turnhout   <br>26/04/22 MC op Open
-  Mic Kuub Mechelen <br>08/05/23 MC bij Stixn in Herent  <br>13/05/23 MC'en voor Jan
-  Linssen, Erhan Demirci en Joost Van Hyfte in Houthalen-H <br>20/05/23 MC op Comedy
-  Leuven <br>12/06/23 MC bij Stixn in Herent <br>15/06/23 MC bij CC De Steiger in
-  Boom <br>17/06/23 MC bij Comedy Leuven
+  Van Hyfte en Erhan Demirci in Kasteel Hof de Bist in Ekeren<br>30/03/23 MC op privé-event
+  in Fakkeltheater  <br>14/04/23 MC'en op KernBomedy  <br>15/04/23 MC op Comedy Leuven
+  <br>17/04/23 MC op Open Mic Rock Café Leuven<br>22/04/23 Set op Comedy Night met
+  MC Joost Van Hyfte, Ygor uit Poperinge, Thomas Smith en David Galle De Djoelen in
+  Oud Turnhout   <br>26/04/22 MC op Open Mic Kuub Mechelen <br>04/05/23 MC voor Warre,
+  Seppe, Willimam en Joost in Herent  <br>08/05/23 MC bij Stixn in Herent  <br>13/05/23
+  MC'en voor Jan Linssen, Erhan Demirci en Joost Van Hyfte in Houthalen-H <br>19/05/23
+  set in line-up met Warre Verlinden, Amelie Albrecht en MC Koen Dewulf in Berchem<br>20/05/23
+  MC op Comedy Leuven <br>28/05/23 set bij De Vieze Gasten in Gent  <br>01/06/23 MC
+  voor Warre Verlinden, Tom Cools en Jeron Dewulf in Begijnendijk <br>09/06/23 set
+  in Club Haug in Rotterdam <br>12/06/23 MC bij Stixn in Herent <br>15/06/23 MC bij
+  CC De Steiger in Boom <br>17/06/23 MC bij Comedy Leuven
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
