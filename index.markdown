@@ -19,21 +19,22 @@ aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randj
   uit een arsenaal van interculturele observaties, lach gegarandeerd."
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: 25/03/23 MC voor Joost Van Hyfte en Erhan Demirci in Kasteel Hof de Bist
-  in Ekeren<br>30/03/23 MC op privé-event in Fakkeltheater  <br>14/04/23 MC voor Laurien
-  Vereecken, Senne Maes, Warre Verlinden en David Galle in Wilrijk  <br>15/04/23 MC
-  op Comedy Leuven <br>17/04/23 MC op Open Mic Rock Café Leuven <br>22/04/23 Set op
-  Comedy Night met MC Joost Van Hyfte, Ygor uit Poperinge, Thomas Smith en David Galle
-  De Djoelen in Oud Turnhout  <br>26/04/22 MC op Open Mic Kuub Mechelen <br>04/05/23
-  MC voor Warre, Seppe, William en Joost in Herent  <br>08/05/23 MC bij Stixn in Herent  <br>13/05/23
-  MC voor Jan Linssen, Erhan Demirci en Joost Van Hyfte in Houthalen-H <br>19/05/23
-  set in line-up met Warre Verlinden, Amelie Albrecht en MC Koen Dewulf in Berchem<br>20/05/23
-  MC op Comedy Leuven <br>28/05/23 set bij De Vieze Gasten in Gent  <br>01/06/23 MC
-  voor Warre Verlinden, Tom Cools en Jeron Dewulf in Begijnendijk <br>09/06/23 set
-  in Club Haug in Rotterdam <br>12/06/23 MC bij Stixn in Herent <br>15/06/23 MC bij
-  CC De Steiger in Boom <br>17/06/23 MC bij Comedy Leuven<br>23/06/23 MC op de Volksfeesten
-  in Moorsel <br>24/09/23 MC in Wetteren <br>28/09/23 MC in Wevelgem<br>30/09/23 MC
-  voor Mohsin Abbas, Yannick Noben en Michael Van Peel in Keerbergen
+speellijst: '14/04/23 MC voor Laurien Vereecken, Senne Maes, Warre Verlinden en David
+  Galle in Wilrijk  <br>15/04/23 MC op Comedy Leuven <br>17/04/23 MC op Open Mic Rock
+  Café Leuven <br>22/04/23 Set op Comedy Night met MC Joost Van Hyfte, Ygor uit Poperinge,
+  Thomas Smith en David Galle De Djoelen in Oud Turnhout  <br>26/04/22 MC op Open
+  Mic Kuub Mechelen <br>04/05/23 MC voor Warre, Seppe, William en Joost in Herent  <br>08/05/23
+  MC bij Stixn in Herent  <br>13/05/23 MC voor Jan Linssen, Erhan Demirci en Joost
+  Van Hyfte in Houthalen-H <br>19/05/23 set in line-up met Warre Verlinden, Amelie
+  Albrecht en MC Koen Dewulf in Berchem<br>20/05/23 MC op Comedy Leuven <br>27/05/23
+  MC voor Ygor en Jeron Dewulf in Tienen <br>28/05/23 set bij De Vieze Gasten in Gent  <br>01/06/23
+  MC voor Warre Verlinden, Tom Cools en Jeron Dewulf in Begijnendijk <br>09/06/23
+  set in Club Haug in Rotterdam <br>12/06/23 MC bij Stixn in Herent <br>15/06/23 MC
+  bij CC De Steiger in Boom <br>17/06/23 MC bij Comedy Leuven<br>23/06/23 MC op de
+  Volksfeesten in Moorsel <br>26/06/23 set in Gontrode <br>24/09/23 MC in Wetteren
+  <br>28/09/23 MC voor Warre, Mohsin en Igor in Wevelgem<br>30/09/23 MC voor Mohsin
+  Abbas, Yannick Noben en Michael Van Peel in Keerbergen <br>26/04/24 MC voor Nigel
+  Williams en David Galle in Zottegem '
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
