@@ -4,7 +4,7 @@ bio_title_h1: Roosje Pertz, stand-up comedian/MC
 bio_description: |-
   Roosje Pertz kreeg in 1999 van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
 
-  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke MC doet Roosje zelfs het meest ijzige publiek ontvlammen. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won ze Comedy Match in Eindhoven. <br><br>De komende 10 jaar werkt ze aan haar eigen special, daarin sterk belemmerd door het comfort van het stabiel inkomen van haar échte job. <br><br> Ze is ook te beluisteren op de podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
+  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke MC doet Roosje zelfs het meest ijzige publiek ontvlammen. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won ze Comedy Match in Eindhoven. <br><br>De komende 10 jaar werkt ze aan haar eigen special, daarin sterk belemmerd door het comfort van het stabiel inkomen van haar échte job. <br><br> Roosje is bezeten door eten en dat hoor je in haar podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
 socials_instagram_title: Roosje op Instagram
@@ -19,11 +19,7 @@ aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randj
   uit een arsenaal van interculturele observaties, lach gegarandeerd."
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '14/04/23 MC voor Laurien Vereecken, Senne Maes, Warre Verlinden en David
-  Galle in Wilrijk  <br>15/04/23 MC op Comedy Leuven <br>17/04/23 MC op Open Mic Rock
-  Café Leuven <br>22/04/23 Set op Comedy Night met MC Joost Van Hyfte, Ygor uit Poperinge,
-  Thomas Smith en David Galle De Djoelen in Oud Turnhout  <br>26/04/22 MC op Open
-  Mic Kuub Mechelen <br>04/05/23 MC voor Warre, Seppe, William en Joost in Herent  <br>08/05/23
+speellijst: '04/05/23 MC voor Warre, Seppe, William en Joost in Herent  <br>08/05/23
   MC bij Stixn in Herent  <br>13/05/23 MC voor Jan Linssen, Erhan Demirci en Joost
   Van Hyfte in Houthalen-H <br>19/05/23 set in line-up met Warre Verlinden, Amelie
   Albrecht en MC Koen Dewulf in Berchem<br>20/05/23 MC op Comedy Leuven <br>27/05/23
