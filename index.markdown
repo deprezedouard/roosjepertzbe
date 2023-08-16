@@ -7,16 +7,16 @@ bio_description: |-
   Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke MC doet Roosje zelfs het meest ijzige publiek ontvlammen. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won ze Comedy Match in Eindhoven. <br><br>De komende 10 jaar werkt ze aan haar eigen special, daarin sterk belemmerd door het comfort van het stabiel inkomen van haar échte job. <br><br> Roosje is bezeten door eten en dat hoor je in haar podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
+aanbod_voor_scholen_titel: Aanbod voor scholen
+aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randje
+  van je pedagogische studiedag. Boek een comedyset vol spitsvondige anekdotes over
+  onze taal, de leraarskamer en werken op een school. Als ervaren NT2 leerkracht put
+  Roosje uit een arsenaal van interculturele observaties, lach gegarandeerd."
 socials_instagram_title: Roosje op Instagram
 socials_twitter_title: Roosje op Twitter
 socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
-aanbod_voor_scholen_titel: Aanbod voor scholen
-aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randje
-  van je pedagogische studiedag. Boek een comedyset vol spitsvondige anekdotes overonze
-  taal, de leraarskamer en werken op een school. Als ervaren NT2 leerkracht put Roosje
-  uit een arsenaal van interculturele observaties, lach gegarandeerd."
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
 speellijst: '27/08/23 Set in The Joker in Antwerpen <br> 07/09/23 Set 30'' in Jeugdhuis
