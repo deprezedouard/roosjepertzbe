@@ -19,19 +19,19 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '27/08/23 Set in The Joker in Antwerpen <br> 07/09/23 Set 30'' in Jeugdhuis
-  Asgaard in Gentbrugge <br>11/09/23 MC voor Han Solo, Lev Vanorbeek, Bas Dillen bij
-  Stixn in Herent <br>15/09/23 MC voor Seppe Toremans en Erhan Demirci in Opvelp <br>
-  24/09/23 Set 25'' daarna William Bouva bij Lemon bar in Wetteren <br>28/09/23 MC
-  voor Warre, Mohsin en Igor in Wevelgem<br>30/09/23 MC voor Mohsin Abbas, Yannick
-  Noben en Michael Van Peel in Keerbergen <br> 03/10/23 Comedy op maat set 20'' bij
-  Pasar Leuven <br> 09/10/23 MC voor Kamal Kharmach, Jan Linssen bij Stixn in Herent
-  <br>28/10/23 MC voor Han Solo en een voorprogramma bij Mannen van het Jaar in de
-  Waaiberrg in Leuven<br> 13/11/23 MC voor William Boeva, Stijn Vandermeeren, Jeremy
-  Baltii bij Stixn in Herent <br> 11/12/23 MC voor Nigel Williams, Milan Borms, Rosalie
-  Van Wambeke bij Stixn in Herent <br>21/03/24 MC bij Seefbier in Antwerpen <br>18/04/24
-  MC bij Seefbier in Antwerpen<br> 26/04/24 MC voor Nigel Williams en David Galle
-  in Zottegem '
+speellijst: '27/08/23 Set in The Joker in Antwerpen <br> 07/09/23 Set 30'' in line-up
+  met Seppe Toremans, Bert Paulussen een MC Lev Van Oorbeeek in Jeugdhuis Asgaard
+  in Gentbrugge <br>11/09/23 MC voor Han Solo, Lev Vanorbeek, Bas Dillen bij Stixn
+  in Herent <br>15/09/23 MC voor Seppe Toremans en Erhan Demirci in Opvelp <br> 24/09/23
+  Set 25'' daarna William Bouva bij Lemon bar in Wetteren <br>28/09/23 MC voor Warre,
+  Mohsin en Igor in Wevelgem<br>30/09/23 MC voor Mohsin Abbas, Yannick Noben en Michael
+  Van Peel in Keerbergen <br> 03/10/23 Comedy op maat set 20'' bij Pasar Leuven <br>
+  09/10/23 MC voor Kamal Kharmach, Jan Linssen bij Stixn in Herent <br>28/10/23 MC
+  voor Han Solo en een voorprogramma bij Mannen van het Jaar in de Waaiberrg in Leuven<br>
+  13/11/23 MC voor William Boeva, Stijn Vandermeeren, Jeremy Baltii bij Stixn in Herent
+  <br> 11/12/23 MC voor Nigel Williams, Milan Borms, Rosalie Van Wambeke bij Stixn
+  in Herent <br>21/03/24 MC bij Seefbier in Antwerpen <br>18/04/24 MC bij Seefbier
+  in Antwerpen<br> 26/04/24 MC voor Nigel Williams en David Galle in Zottegem '
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
