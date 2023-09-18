@@ -84,13 +84,28 @@ layout: default
     </div>
 </section>
 
-<section id="speellijst" class="bg-light padding-section">
+<section id="vrouwelijke-comedian" class="bg-light" style="padding:100px 0;">
+    <div class="container">
+        <div class="row pt-5 d-flex justify-content-center">
+            <div class="col-12 col-md-7 mb-5 text-center text-white">
+                <h2 class="section-heading mb-3">{{ page.vrouwelijke_comedian_titel }}</h2>
+                <p class="text">
+                   {{ page.vrouwelijke_comedian }}
+                </p>
+                <br>
+                <a class="btn btn-primary btn-xl  page-scroll text-white" href="https://tram4.be/">{{ page.vrouwelijke_comedian_button }}</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="speellijst" class="bg-primary padding-section">
     <div class="container">
         <div class="row pt-5">
             <div class="col-12 col-md-5 mb-5">
                 <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:best/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
-            <div class="col-12 col-md-7 mb-5 text-left text-primary">
+            <div class="col-12 col-md-7 mb-5 text-left text-white">
                 <h1 class="section-heading mb-3">{{ page.speellijst_titel }}</h1>
                 <p class="text" style="text-align: justify;">
                    {{ page.speellijst }}
@@ -101,25 +116,7 @@ layout: default
     </div>
 </section>
 
-<section id="aanbod-voor-scholen" class="bg-primary padding-section">
-    <div class="container">
-        <div class="row pt-5">
-            <!-- <div class="col-12 col-md-5 mb-5">
-                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:best/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
-            </div> -->
-            <div class="col-12 col-md-3 mb-4"></div>
-            <div class="col-12 col-md-6 mb-4 text-center text-white">
-                <h1 class="section-heading mb-3">{{ page.aanbod_voor_scholen_titel }}</h1>
-                <p class="text" style="text-align: justify;">
-                   {{ page.aanbod_voor_scholen_tekst }}
-                </p>
-                <a class="btn btn-light btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="bg-light" id="socials" class="bg-light padding-section">
+<section id="socials" class="bg-light" class="bg-light padding-section">
   <div class="container p-5" style="top: -56px;">
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel"  data-interval="4000">
       <div class="carousel-inner text-primary">
@@ -199,10 +196,28 @@ layout: default
   </div>
 </section>
 
-<section class="bg-primary text-white" id="podcast">
+<section id="aanbod-voor-scholen" class="bg-primary padding-section">
+    <div class="container">
+        <div class="row pt-5">
+            <!-- <div class="col-12 col-md-5 mb-5">
+                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:best/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
+            </div> -->
+            <div class="col-12 col-md-3 mb-4"></div>
+            <div class="col-12 col-md-6 mb-4 text-center text-white">
+                <h1 class="section-heading mb-3">{{ page.aanbod_voor_scholen_titel }}</h1>
+                <p class="text" style="text-align: justify;">
+                   {{ page.aanbod_voor_scholen_tekst }}
+                </p>
+                <a class="btn btn-primary btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="bg-light text-white" id="podcast">
   <div class="container banner pt-5" style="padding:100px 0; max-height: unset;">
     <div class="d-flex justify-content-center pt-5">
-        <h2 class="text-white text-center bg-light p-3">{{ page.podcast_title }}</h2>
+        <h2 class="text-white text-center bg-primary p-3">{{ page.podcast_title }}</h2>
     </div>
     <div class="container">
       <div class="row pb-5">
@@ -213,21 +228,6 @@ layout: default
       </div>
     </div>
   </div>
-</section>
-
-<section id="vrouwelijke-comedian" class="bg-light" style="padding:100px 0;">
-    <div class="container">
-        <div class="row pt-5 d-flex justify-content-center">
-            <div class="col-12 col-md-7 mb-5 text-center text-white">
-                <h2 class="section-heading mb-3">{{ page.vrouwelijke_comedian_titel }}</h2>
-                <p class="text">
-                   {{ page.vrouwelijke_comedian }}
-                </p>
-                <br>
-                <a class="btn btn-primary btn-xl  page-scroll text-white" href="https://tram4.be/">{{ page.vrouwelijke_comedian_button }}</a>
-            </div>
-        </div>
-    </div>
 </section>
 
 <section id="getuigenissen" class="bg-primary padding-section" >
@@ -269,12 +269,7 @@ layout: default
     </div>
 </section>
 
-
-<section id="foto" class="bg-light">
-                <img style="height: 100%; width: 100%;" src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_700,f_auto,fl_progressive,q_auto:best/roosje-pertz/roosje-pertz-stand-up-comedian" class="img-fluid " alt="roosje-pertz-comedian">
-</section>
-
-<section id="contact" class="bg-primary" style="padding:100px 0;">
+<section id="contact" class="bg-light" style="padding:100px 0;">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
             <div class="col-12 col-md-7 mb-5 text-center text-white">
