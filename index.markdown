@@ -42,7 +42,7 @@ speellijst: 18/12/23 MC  bij Open Mic in  Rock Café in Leuven <br>07/01/23 Set 
   Sport Leuven <br> 26/04/24 MC voor Nigel Williams en David Galle in Zottegem<br>
   02/05/24 MC in Vlimmeren voor Jeron Dewulf en Thomas <br> 18/05/23 MC bij Comedy
   Leuven in Café Sport <br> 15/06/23 MC bij Comedy Leuven in Café Sport Leuven
-podcast_title: Kilocast
+podcast_title: Dertigerspraat
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
   West tussen de Gemeentestraat en de Diestsesteenweg (ter hoogte van bakkerij Stevens).
