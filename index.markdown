@@ -1,10 +1,21 @@
 ---
 title: Roosje Pertz
 bio_title_h1: Roosje Pertz, stand-up comedian/MC
-bio_description: |-
-  Roosje Pertz kreeg in 1999 van haar moeder het advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
-
-  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke MC doet Roosje zelfs het meest ijzige publiek ontvlammen. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won ze Comedy Match in Eindhoven. <br><br>De komende 10 jaar werkt ze aan haar eigen special, daarin sterk belemmerd door het comfort van het stabiel inkomen van haar échte job. <br><br> Roosje is bezeten door eten en dat hoor je in haar podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram.
+bio_description: "Roosje Pertz kreeg in 1999 van haar moeder het slecht ontvangen
+  advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden
+  dat ze stand-upcomedian moest worden.<br><br>\n\nSinds 2018 combineert Roosje met
+  groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij
+  een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met
+  haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke
+  MC doet Roosje zelfs het meest ijzige publiek ontvlammen. <br><br> In 2019 nam Michael
+  Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won
+  ze Comedy Match in Eindhoven. <br><br>De komende 10 jaar werkt ze aan haar eigen
+  special, daarin sterk belemmerd door het comfort van het stabiel inkomen van haar
+  échte job. <br><br> Roosje is bezeten door eten en dat hoor je in haar podcast KiloCast.
+  Samen met Martje Ceulemans host ze de legendarische podcast Dertigerspraat. Met
+  een Leuvens accent. Ooit wordt dat weer hip. Ook al is ze veertig. Mondje dicht,
+  ok?  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram. TikTok zou
+  ook echt goed zijn voor haar carrière als ze dat had. "
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
 aanbod_voor_scholen_titel: Aanbod voor scholen
