@@ -19,19 +19,19 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '27/08/23 Set in The Joker in Antwerpen <br> 07/09/23 Set 30'' in line-up
-  met Seppe Toremans, Bert Paulussen een MC Lev Van Oorbeeek in Jeugdhuis Asgaard
-  in Gentbrugge <br>11/09/23 MC voor Han Solo, Lev Vanorbeek, Bas Dillen bij Stixn
-  in Herent <br>15/09/23 MC voor Seppe Toremans en Erhan Demirci in Opvelp <br> 24/09/23
-  Set 25'' daarna William Bouva bij Lemon bar in Wetteren <br>28/09/23 MC voor Warre,
-  Mohsin en Igor in Wevelgem<br>30/09/23 MC voor Mohsin Abbas, Yannick Noben en Michael
-  Van Peel in Keerbergen <br> 03/10/23 Comedy op maat set 20'' bij Pasar Leuven <br>
-  09/10/23 MC voor Kamal Kharmach, Jan Linssen bij Stixn in Herent <br>28/10/23 MC
-  voor Han Solo en een voorprogramma bij Mannen van het Jaar in de Waaiberrg in Leuven<br>
-  13/11/23 MC voor William Boeva, Stijn Vandermeeren, Jeremy Baltii bij Stixn in Herent
-  <br> 11/12/23 MC voor Nigel Williams, Milan Borms, Rosalie Van Wambeke bij Stixn
-  in Herent <br>21/03/24 MC bij Seefbier in Antwerpen <br>18/04/24 MC bij Seefbier
-  in Antwerpen<br> 26/04/24 MC voor Nigel Williams en David Galle in Zottegem '
+speellijst: 18/12/23 MC  bij Open Mic in  Rock Café in Leuven <br>07/01/23 Set bij
+  De Vieze Gasten in Gent <br> 20/01/23 MC bij Comedy Leuven in Café Sport Leuven
+  <br>01/02/23 Set bij Comedy Night JH Asgaard in Gentbrugge  <br> 17/02/23 MC bij
+  Comedy Leuven in Café Sport Leuven <br> <br> 19/02/23 MC bij Open Mic Rock Café
+  in Leuven <br> 28/02/23 MC bij Open Mic in Café Kuub in Mechelen  <br> 16/03/23
+  MC bij Comedy Leuven in Café Sport Leuven <br>21/03/24 MC bij Seefbier in Antwerpen
+  <br>12/04/24 MC Comedy avond Chiro Holsbeek met Mohsin Abbas, Jeron Dewulf en Joost
+  Van Hyfte <br> 17/04/24 MC voor Yannick Noben, Jeron Dewulf en Sergej Lopouchanski
+  in Mechelen <br> 18/04/24 MC bij Seefbier in Antwerpen<br>20/04/23 MC bij Comedy
+  Leuven in Café Sport Leuven <br> 26/04/24 MC voor Nigel Williams en David Galle
+  in Zottegem<br> 02/05/24 MC in Vlimmeren voor Jeron Dewulf en Thomas <br> 18/05/23
+  MC bij Comedy Leuven in Café Sport <br> 15/06/23 MC bij Comedy Leuven in Café Sport
+  Leuven
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
@@ -55,7 +55,7 @@ copywriting_title: Copywriting
 copywriting_text: |-
   Grappen, pure ernst en alles daartussen. Roosje schrijft op commando. Bewijsmateriaal verzamelde ze hieronder.
   <br><br>
-  Roosje schreef en bracht humoristische passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd.
+  Roosje schreef en bracht humoristische passages in de rubrieken de Piñata en de Klaagmuur in Iedereen Beroemd. Ook is ze af en toe te horen als Rechtvaardige Rechter op Radio2.
   <br><br>
   Roosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan dat ook voor die van jou. <br><br><a href="https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer" target="_blank">Lees hier haar column voor Radio 1 over de lockdown van maart 2020.</a><br><br><a href="https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing" target="_blank">Download hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.</a>
 copywriting_button: Contacteer mij
