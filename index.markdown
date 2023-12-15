@@ -33,16 +33,15 @@ speellijst_button: Boek Roosje
 speellijst: 18/12/23 MC  bij Open Mic in  Rock Café in Leuven <br>07/01/23 Set bij
   De Vieze Gasten in Gent <br> 20/01/23 MC bij Comedy Leuven in Café Sport Leuven
   <br>01/02/23 Set bij Comedy Night JH Asgaard in Gentbrugge  <br> 17/02/23 MC bij
-  Comedy Leuven in Café Sport Leuven <br> <br> 19/02/23 MC bij Open Mic Rock Café
-  in Leuven <br> 28/02/23 MC bij Open Mic in Café Kuub in Mechelen  <br> 16/03/23
-  MC bij Comedy Leuven in Café Sport Leuven <br>21/03/24 MC bij Seefbier in Antwerpen
-  <br>12/04/24 MC Comedy avond Chiro Holsbeek met Mohsin Abbas, Jeron Dewulf en Joost
-  Van Hyfte <br> 17/04/24 MC voor Yannick Noben, Jeron Dewulf en Sergej Lopouchanski
-  in Mechelen <br> 18/04/24 MC bij Seefbier in Antwerpen<br>20/04/23 MC bij Comedy
-  Leuven in Café Sport Leuven <br> 26/04/24 MC voor Nigel Williams en David Galle
-  in Zottegem<br> 02/05/24 MC in Vlimmeren voor Jeron Dewulf en Thomas <br> 18/05/23
-  MC bij Comedy Leuven in Café Sport <br> 15/06/23 MC bij Comedy Leuven in Café Sport
-  Leuven
+  Comedy Leuven in Café Sport Leuven<br> 19/02/23 MC bij Open Mic Rock Café in Leuven
+  <br> 28/02/23 MC bij Open Mic in Café Kuub in Mechelen  <br> 16/03/23 MC bij Comedy
+  Leuven in Café Sport Leuven <br>21/03/24 MC bij Seefbier in Antwerpen <br>12/04/24
+  MC Comedy avond Chiro Holsbeek met Mohsin Abbas, Jeron Dewulf en Joost Van Hyfte
+  <br> 17/04/24 MC voor Yannick Noben, Jeron Dewulf en Sergej Lopouchanski in Mechelen
+  <br>18/04/24 MC bij Seefbier in Antwerpen<br>20/04/23 MC bij Comedy Leuven in Café
+  Sport Leuven <br> 26/04/24 MC voor Nigel Williams en David Galle in Zottegem<br>
+  02/05/24 MC in Vlimmeren voor Jeron Dewulf en Thomas <br> 18/05/23 MC bij Comedy
+  Leuven in Café Sport <br> 15/06/23 MC bij Comedy Leuven in Café Sport Leuven
 podcast_title: Kilocast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
