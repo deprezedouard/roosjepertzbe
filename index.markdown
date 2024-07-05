@@ -30,22 +30,23 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: '02/03/24 Set op The Best In Stand Up - Mad Goat Festival - Grote Zaal
-  De Studio in Antwerpen<br> 07/03/24 Set bij Comedy Night JH Asgaard in Gentbrugge   <br>16/03/24
-  Host op FTI and& in Leuven <br>16/03/24 MC bij Comedy Leuven in Café Sport Leuven
-  <br>19/03/24 Nog een keer host op FTI and& in Leuven  <br>21/03/24 MC bij Seef Antwerpse
-  Brouw Compagnie in Antwerpen <br>12/04/24 MC Comedy avond Chiro Holsbeek met Mohsin
-  Abbas, Jeron Dewulf en Joost Van Hyfte <br> 17/04/24 MC voor Yannick Noben, Jeron
-  Dewulf en Sergej Lopouchanski in Mechelen <br>18/04/24 MC bij Seef Antwerpse Brouw
-  Compagnie in Antwerpen<br>20/04/24 MC bij Comedy Leuven in Café Sport Leuven <br>22/04/24
-  MC bij Open Mic Rock Café in Leuven <br> 26/04/24 MC voor Nigel Williams en David
-  Galle in Zottegem<br> 29/04/24 set in Wervik <br> 02/05/24 MC in Vlimmeren voor
-  Jeron Dewulf en Thomas <br>18/05/24 MC bij Comedy Leuven in Café Sport  <br>24/05/24
-  MC bij Comedy Corso in cc Corso in Berchem <br>14/06/24 MC in Zandvliet <br>15/06/24
-  MC bij Comedy Leuven in Café Sport Leuven<br>30/06/24 Set  bij De Vieze Gasten in
-  Gent<br> 24/10/24 MC voor Koen Dewulf, Sergej Lopouchanski en Jeron Dewulf in Kontich<br>01/03/24
-  MC bij Comedy Night OLV Vlaanderen Kortrijk <br>09/11/24 MC voor Jan Linssen, Thomas
-  Smith, Jeron Dewulf in Bilzen '
+speellijst: 21/07/24 Open Mic Marathon bij The Joker in Antwerpen<br>06/08/24 MC op
+  comedy in Tervuren<23/08/24> MC op comedy podium Maanrock in Mechelen <br>18,19,20/09/24
+  MC op privé-evenement CERA in Leuven <br>21/09/24 MC voor Jan Linssen, Thomas Smith,
+  Jeron Dewulf in Bilzen<br>22/09/24 set op het terras van de Arenberg in Antwerpen<br>06/10/24
+  opening set voor Peter Kluppels in de Arenberg in Antwerpen<br>24/10/24 MC voor
+  Koen Dewulf, Sergej Lopouchanski en Jeron Dewulf in Kontich<br>09/11/24 MC voor
+  Karim Shatla, Warre Verlinden en Sergej Lopouchanski in Diepenbeek <br>14/11/24
+  set op Femme Funny Frenzy met Els Verhofstede, Ariane Van Hasselt en Koen Dewulf
+  in Schouwburg Noord in Merksem <br>07/12/24 MC voor Sergej Lopouchanski, Jan Linssen
+  en Erhan Demirci in Nieuwerkerke<br>19/12/24 headlinen in De Hophemel in Hasselt
+  <br>21/01/25 20'set in de Comedy Kelder in Deinze <br>23/01/25 MC op 5 jaar Palaver
+  in de Minard in Gent <br>12/03/25 MC bij Comedy@Humphrey  voor Warre Verlinden,
+  Sergej Lopouchanski en Karim Shatla in Sint-Truiden<br> 13/03/25 MC voor Warre Verlinden,
+  Yannick Noben en Joost Van Hyfte in CC Mechelen <br>28/03/25 25'set in Cultuurcentrum
+  De Fabriek in Sint-Lievens-Houtem met MC Koen Dewulf, Els Verhofstede en Kristel
+  Zweers <br>25/04/25 MC voor Karim Shatla, Warre Verlinden en Sergej Lopouchansi
+  in Hove <br>
 podcast_title: Dertigerspraat
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
