@@ -39,9 +39,14 @@ speellijst: 21/07/24 Open Mic Marathon bij The Joker in Antwerpen<br>06/08/24 MC
   Karim Shatla, Warre Verlinden en Sergej Lopouchanski in Diepenbeek <br>14/11/24
   set op Femme Funny Frenzy met Els Verhofstede, Ariane Van Hasselt en Koen Dewulf
   in Schouwburg Noord in Merksem <br>07/12/24 MC voor Sergej Lopouchanski, Jan Linssen
-  en Erhan Demirci in Nieuwerkerke<br>19/12/23 headlinen in De Hophemel in Hasselt
-  <br>21/01/25 set in de Comedy Kelder in Deinze <br>23/01/25 MC op 5 jaar Palaver
-  in de Minard in Gent <br>
+  en Erhan Demirci in Nieuwerkerke<br>19/12/24 headlinen in De Hophemel in Hasselt
+  <br>21/01/25 20'set in de Comedy Kelder in Deinze <br>23/01/25 MC op 5 jaar Palaver
+  in de Minard in Gent <br>12/03/25 MC bij Comedy@Humphrey  voor Warre Verlinden,
+  Sergej Lopouchanski en Karim Shatla in Sint-Truiden<br> 13/03/25 MC voor Warre Verlinden,
+  Yannick Noben en Joost Van Hyfte in CC Mechelen <br>28/03/25 25'set in Cultuurcentrum
+  De Fabriek in Sint-Lievens-Houtem met MC Koen Dewulf, Els Verhofstede en Kristel
+  Zweers <br>25/04/25 MC voor Karim Shatla, Warre Verlinden en Sergej Lopouchansi
+  in Hove <br>
 podcast_title: Dertigerspraat
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
