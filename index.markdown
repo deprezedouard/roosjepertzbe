@@ -31,7 +31,7 @@ socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
 speellijst: 21/07/24 Open Mic Marathon bij The Joker in Antwerpen<br>06/08/24 MC op
-  comedy in Tervuren<23/08/24> MC op comedy podium Maanrock in Mechelen <br>18,19,20/09/24
+  comedy in Tervuren<br>23/08/24 MC op comedy podium Maanrock in Mechelen <br>18,19,20/09/24
   MC op privé-evenement CERA in Leuven <br>21/09/24 MC voor Jan Linssen, Thomas Smith,
   Jeron Dewulf in Bilzen<br>22/09/24 set op het terras van de Arenberg in Antwerpen<br>06/10/24
   opening set voor Peter Kluppels in de Arenberg in Antwerpen<br>24/10/24 MC voor
