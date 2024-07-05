@@ -30,12 +30,18 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: 21/07/24 Open Mic Marathon bij The Joker in Antwerpen<br> 18,19,20/09/24
+speellijst: 21/07/24 Open Mic Marathon bij The Joker in Antwerpen<br>06/08/24 MC op
+  comedy in Tervuren<23/08/24> MC op comedy podium Maanrock in Mechelen <br>18,19,20/09/24
   MC op privé-evenement CERA in Leuven <br>21/09/24 MC voor Jan Linssen, Thomas Smith,
   Jeron Dewulf in Bilzen<br>22/09/24 set op het terras van de Arenberg in Antwerpen<br>06/10/24
   opening set voor Peter Kluppels in de Arenberg in Antwerpen<br>24/10/24 MC voor
-  Koen Dewulf, Sergej Lopouchanski en Jeron Dewulf in Kontich<br>01/03/24 MC bij Comedy
-  Night OLV Vlaanderen Kortrijk
+  Koen Dewulf, Sergej Lopouchanski en Jeron Dewulf in Kontich<br>09/11/24 MC voor
+  Karim Shatla, Warre Verlinden en Sergej Lopouchanski in Diepenbeek <br>14/11/24
+  set op Femme Funny Frenzy met Els Verhofstede, Ariane Van Hasselt en Koen Dewulf
+  in Schouwburg Noord in Merksem <br>07/12/24 MC voor Sergej Lopouchanski, Jan Linssen
+  en Erhan Demirci in Nieuwerkerke<br>19/12/23 headlinen in De Hophemel in Hasselt
+  <br>21/01/25 set in de Comedy Kelder in Deinze <br>23/01/25 MC op 5 jaar Palaver
+  in de Minard in Gent <br>
 podcast_title: Dertigerspraat
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
