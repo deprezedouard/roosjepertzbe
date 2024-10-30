@@ -80,7 +80,7 @@ copywriting_text: |-
 copywriting_button: Contacteer mij
 contact_titel: Contacteer mij!
 contact_text: 'Voor boekingen en al de rest mail naar <a href="mailto:booking@tram4.be"
-  style=''color: white''>booking@tram4.be</a> of bel 0498 62 54 03'
+  style=''color: white''>booking@tram4.be</a>'
 layout: default
 ---
 
