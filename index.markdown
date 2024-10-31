@@ -89,7 +89,7 @@ layout: default
     <div class="container">
         <div class="row pt-5">
             <div class="col-12 col-md-5 mb-5">
-                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:best/roosje-pertz/roosje-pertz-is-een-vrouwelijke-stand-up-comedian" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
+                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/roosje-pertz-is-een-vrouwelijke-stand-up-comedian" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
             <div class="col-12 col-md-7 mb-5 text-left text-white">
                 <h1 class="section-heading mb-3">{{ page.bio_title_h1 }}</h1>
@@ -122,7 +122,7 @@ layout: default
     <div class="container">
         <div class="row pt-5">
             <div class="col-12 col-md-5 mb-5">
-                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:best/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
+                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
             <div class="col-12 col-md-7 mb-5 text-left text-white">
                 <h1 class="section-heading mb-3">{{ page.speellijst_titel }}</h1>
@@ -219,7 +219,7 @@ layout: default
     <div class="container">
         <div class="row pt-5">
             <!-- <div class="col-12 col-md-5 mb-5">
-                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:best/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
+                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div> -->
             <div class="col-12 col-md-3 mb-4"></div>
             <div class="col-12 col-md-6 mb-4 text-center text-white">
@@ -282,7 +282,7 @@ layout: default
                 </div>
             </div>
                 <div class="col-12 col-md-7 text-center mt-5 mb-3">
-                    <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:best/roosje-pertz/getuigenissen-van-andere-comedians" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
+                    <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/getuigenissen-van-andere-comedians" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
                 </div>
         </div>
     </div>
