@@ -21,8 +21,10 @@ bio_button_2: Boek Roosje
 aanbod_voor_scholen_titel: Aanbod voor scholen
 aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randje
   van je pedagogische studiedag. Boek een comedyset vol spitsvondige anekdotes over
-  onze taal, de leraarskamer en werken op een school. Als ervaren NT2 leerkracht put
-  Roosje uit een arsenaal van interculturele observaties, lach gegarandeerd."
+  onze taal, de leraarskamer en werken op een school. Als ervaren leerkracht Nederlands
+  voor anderstaligen in het volwassenenonderwijs en leerkracht Nederlands in het secundair
+  onderwijs put Roosje uit een rijk arsenaal van interculturele en intergenerationele
+  observaties, lach gegarandeerd."
 socials_instagram_title: Roosje op Instagram
 socials_twitter_title: Roosje op Twitter
 socials_previous: Vorige
