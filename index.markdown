@@ -3,7 +3,7 @@ title: Roosje Pertz
 bio_title_h1: Roosje Pertz, stand-up comedian/MC
 bio_description: "Roosje Pertz kreeg in 1999 van haar moeder het slecht ontvangen
   advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden
-  dat ze stand-upcomedian moest worden.<br><br>\n\nSinds 2018 combineert Roosje met
+  dat ze stand-upcomedian moest worden.<br><br>\nSinds 2018 combineert Roosje met
   groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij
   een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met
   haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke
@@ -12,17 +12,18 @@ bio_description: "Roosje Pertz kreeg in 1999 van haar moeder het slecht ontvange
   ze Comedy Match in Eindhoven. <br><br>De komende tijd werkt ze aan haar eigen voorstelling
   Goedgezind & Flink, daarin sterk belemmerd door het comfort van het stabiel inkomen
   van haar échte job. <br><br> Roosje is bezeten door eten en dat hoor je in haar
-  podcast KiloCast. Samen met Martje Ceulemans host ze de legendarische podcast Dertigerspraat.
-  Met een Leuvens accent. Ooit wordt dat weer hip. Ook al is ze veertiger. Mondje
-  dicht, ok?  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram. TikTok
-  zou ook echt goed zijn voor haar carrière als ze dat had. "
+  podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip. Roosje is heel
+  sociaal op Twitter, Youtube, Facebook en Instagram. TikTok zou ook echt goed zijn
+  voor haar carrière als ze dat had. "
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
 aanbod_voor_scholen_titel: Aanbod voor scholen
 aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randje
   van je pedagogische studiedag. Boek een comedyset vol spitsvondige anekdotes over
-  onze taal, de leraarskamer en werken op een school. Als ervaren NT2 leerkracht put
-  Roosje uit een arsenaal van interculturele observaties, lach gegarandeerd."
+  onze taal, de leraarskamer en werken op een school. Als ervaren leerkracht Nederlands
+  voor anderstaligen in het volwassenenonderwijs en leerkracht Nederlands in het secundair
+  onderwijs put Roosje uit een rijk arsenaal van interculturele en intergenerationele
+  observaties, lach gegarandeerd."
 socials_instagram_title: Roosje op Instagram
 socials_twitter_title: Roosje op Twitter
 socials_previous: Vorige
@@ -31,9 +32,8 @@ socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
 speellijst: |-
-  18/01/25 MC bij Comedy Leuven in Leuven <br>21/01/25 20'set in de Comedy Kelder in Deinze <br>23/01/25 MC op 5 jaar Palaver in de Minard in Gent <br>29/01/25 MC op Kuub Open Mic in Mechelen <br>05/02/25 set op Cultuurcafé Barzoen in Turnhout<br>15/02/25 MC bij Comedy Leuven in Leuven <br>17/02/25 MC op Rock Café Open Mic in Leuven <br>08/03/25 set in Kontich <br>12/03/25 MC bij Comedy@Humphrey  voor Warre Verlinden, Sergej Lopouchanski en Karim Shatla in Sint-Truiden <br> 13/03/25 MC voor Warre Verlinden, Yannick Noben en Joost Van Hyfte in CC Mechelen <br>22/03/25 MC bij Comedy Leuven in Leuven <br>26/03/25 MC op Kuub Open Mic in Mechelen <br>28/03/25 25'set in Cultuurcentrum De Fabriek in Sint-Lievens-Houtem met MC Koen Dewulf, Els Verhofstede en Kristel Zweers <br>21/04/25 MC op Rock Café Open Mic in Leuven <br>25/04/25 MC voor Karim Shatla, Warre Verlinden en Sergej Lopouchansi in Hove <br>26/04/25 MC bij Comedy Leuven in Leuven <br>09/05/25 25'set in CC ’t Schaliken in Herentals<br>14/05/25 25'set in Schelle organisatie IVEBICA //  <a href="https://www.ivebica.be/activiteiten/detail/3748/comedy-parade-met-yannick-noben-warre-verlinden-roosje-pertz-en-mc-koen-dewulf" style="color: white;"> Tickets</a>
-   <br>17/05/25 MC bij Comedy Leuven in Leuven <br>19/05/25 MC op Rock Café Open Mic in Leuven <br>24/05/25 MC in Kontich<br>21/06/25 MC bij Comedy Leuven in Leuven <br>
-  <br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere //  <a href="https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ" style="color: white;"> Tickets</a><br>
+  11/01/25 Comedy set bij T.C. De Mol in Leuven <br>18/01/25 MC bij Comedy Leuven in Leuven <br>23/01/25 MC op 5 jaar Palaver in de Minard in Gent <br>24/01/25 Comedy set bij Theatergarage Borgerhout //  <a href=" https://theatergarage.be/jaarprogramma/" style="color: white;"> Tickets</a><br>29/01/25 MC op Kuub Open Mic in Mechelen <br>30/01/25 Set bij Hophemel in Hasselt<br>05/02/25 set op Cultuurcafé Barzoen in Turnhout<br>15/02/25 MC bij Comedy Leuven in Leuven <br>17/02/25 MC op Rock Café Open Mic in Leuven <br>08/03/25 set in Kontich <br>12/03/25 MC bij Comedy@Humphrey  voor Warre Verlinden, Sergej Lopouchanski en Karim Shatla in Sint-Truiden <br> 13/03/25 MC voor Warre Verlinden, Yannick Noben en Joost Van Hyfte in CC Mechelen <br>22/03/25 MC bij Comedy Leuven in Leuven <br>26/03/25 MC op Kuub Open Mic in Mechelen <br>28/03/25 25'set in Cultuurcentrum De Fabriek in Sint-Lievens-Houtem met MC Koen Dewulf, Els Verhofstede en Kristel Zweers <br>21/04/25 MC op Rock Café Open Mic in Leuven <br>25/04/25 MC voor Karim Shatla, Warre Verlinden en Sergej Lopouchansi in Hove <br>26/04/25 MC bij Comedy Leuven in Leuven <br>09/05/25 25'set in CC ’t Schaliken in Herentals<br>14/05/25 25'set in Schelle organisatie IVEBICA //  <a href="https://www.ivebica.be/activiteiten/detail/3748/comedy-parade-met-yannick-noben-warre-verlinden-roosje-pertz-en-mc-koen-dewulf" style="color: white;"> Tickets</a>
+   <br>17/05/25 MC bij Comedy Leuven in Leuven <br>19/05/25 MC op Rock Café Open Mic in Leuven <br>24/05/25 MC in Kontich<br>21/06/25 MC bij Comedy Leuven in Leuven <br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere //  <a href="https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ" style="color: white;"> Tickets</a><br>
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
