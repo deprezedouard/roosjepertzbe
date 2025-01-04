@@ -42,10 +42,9 @@ speellijst: "11/01/25 Comedy set bij T.C. De Mol in Leuven <br>18/01/25 MC bij C
   \ <a href=\" https://www.uitinvlaanderen.be/agenda/e/nawoord/19b97da0-4d13-4915-ae83-67775672d230\"
   style=\"color: white;\"> Tickets</a><br>15/02/25 MC bij Comedy Leuven in Leuven
   //  <a href=\"https://comedyleuven.eventgoose.com\" style=\"color: white;\"> Tickets</a><br>17/02/25
-  MC op Rock Café Open Mic in Leuven <br> 22/02/25 MC voor Jeron Dewulf, Jan Linsen
-  en Thomas Smith in Bilzen //  <a href=\"https://www.dekimpel.be/met-roosje-pertz-mc-jan-linssen-thomas-smith-en-jeron-dewulf\"
-  style=\"color: white;\"> Tickets</a><br>26/02/25 Line-up met  MC Lev Van Orbeek
-  en Erhan Demirci bij cc De Muze in Heusden-Zolder //  <a href=\"https://narrenhandel.be/shows/comedy-club-met-erhan-demirci-roosje-pertz/\"
+  MC op Rock Café Open Mic in Leuven <br> 22/02/25 Set ten voordele van Kom Op Tegen
+  Kanker in Bilzen <br>26/02/25 Line-up met  MC Lev Van Orbeek en Erhan Demirci bij
+  cc De Muze in Heusden-Zolder //  <a href=\"https://narrenhandel.be/shows/comedy-club-met-erhan-demirci-roosje-pertz/\"
   style=\"color: white;\"> Tickets</a><br>27/02/25 Line-up met  MC Yannick Noben,
   Sergej Lopouchanski en Bas Birker bij Raad van 11 in Sint-Truiden //  <a href=\"https://www.raadvanelf.be/comedy\"
   style=\"color: white;\"> Tickets</a><br>28/02/25 Line-up bij Lions Leuven met  MC
