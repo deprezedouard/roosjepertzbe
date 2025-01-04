@@ -74,9 +74,8 @@ speellijst: "11/01/25 Comedy set bij T.C. De Mol in Leuven <br>18/01/25 MC bij C
   25'set in CC ’t Schaliken in Herentals //  <a href=\"https://www.schaliken.be/programma/comedy-line\"
   style=\"color: white;\"> Tickets</a><br>14/05/25 25'set in Schelle organisatie IVEBICA
   //  <a href=\"https://www.ivebica.be/activiteiten/detail/3748/comedy-parade-met-yannick-noben-warre-verlinden-roosje-pertz-en-mc-koen-dewulf\"
-  style=\"color: white;\"> Tickets</a>\n <br>17/05/25 MC bij Comedy Leuven in Leuven
-  //  <a href=\"https://comedyleuven.eventgoose.com\" style=\"color: white;\"> Tickets</a><br>17/05/25
-  Line-up in Cinema Walburg in Hamont-Achel //  <a href=\"https://www.hamont-achel.be/activiteitendetail/5131/klimrooskuren-2025-comedy-avond\"
+  style=\"color: white;\"> Tickets</a>\n<br>17/05/25 Line-up in Cinema Walburg in
+  Hamont-Achel //  <a href=\"https://www.hamont-achel.be/activiteitendetail/5131/klimrooskuren-2025-comedy-avond\"
   style=\"color: white;\"> Tickets</a><br>19/05/25 MC op Rock Café Open Mic in Leuven
   <br>02 en 03/06/25 12’ sets op seizoensvoorstelling Sint Truiden <br>06/06/25 Line-up
   met MC Koen Dewulf en Jeron Dewulf en Joost Van Hyfte in Lochristi <br>21/06/25
