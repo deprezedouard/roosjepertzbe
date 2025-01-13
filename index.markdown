@@ -25,7 +25,7 @@ aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randj
   onderwijs put Roosje uit een rijk arsenaal van interculturele en intergenerationele
   observaties, lach gegarandeerd."
 socials_instagram_title: Roosje op Instagram
-socials_twitter_title: Roosje op Twitter
+socials_twitter_title: Roosje op X
 socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
