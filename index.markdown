@@ -184,8 +184,6 @@ layout: default
                     </a>
                 </h2>
             </div>
-            <!-- SnapWidget -->
-            <!-- SnapWidget -->
             <div class="display-mobile">
                 <iframe
                     src="https://snapwidget.com/embed/855834"
@@ -198,7 +196,7 @@ layout: default
             </div>
             <div class="display-desktop d-flex justify-content-center">
                 <iframe
-                    src="https://snapwidget.com/embed/880169"
+                    src="https://snapwidget.com/embed/855834"
                     class="snapwidget-widget"
                     allowtransparency="true"
                     frameborder="0"
@@ -209,16 +207,11 @@ layout: default
         </div>
         <div class="carousel-item test">
           <div class="w-100 d-flex justify-content-center">
-            <div class="social-twitter-container">
+            <div class="social-twitter-container w-100">
                 <div class="d-flex justify-content-center">
                     <h2 class="mb-4 text-center col-10">{{ page.socials_twitter_title }}</h2>
                 </div>
-              <a
-                class="twitter-timeline"
-                data-width="800"
-                data-height="500"
-                href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"
-            ></a>
+            <a class="twitter-timeline" href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw">Tweets by roosjepertz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
           </div>
         </div>
