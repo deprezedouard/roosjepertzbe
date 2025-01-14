@@ -184,8 +184,6 @@ layout: default
                     </a>
                 </h2>
             </div>
-            <!-- SnapWidget -->
-            <!-- SnapWidget -->
             <div class="display-mobile">
                 <iframe
                     src="https://snapwidget.com/embed/855834"
@@ -198,7 +196,7 @@ layout: default
             </div>
             <div class="display-desktop d-flex justify-content-center">
                 <iframe
-                    src="https://snapwidget.com/embed/880169"
+                    src="https://snapwidget.com/embed/855834"
                     class="snapwidget-widget"
                     allowtransparency="true"
                     frameborder="0"
