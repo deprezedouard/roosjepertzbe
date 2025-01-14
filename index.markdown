@@ -207,16 +207,11 @@ layout: default
         </div>
         <div class="carousel-item test">
           <div class="w-100 d-flex justify-content-center">
-            <div class="social-twitter-container">
+            <div class="social-twitter-container w-100">
                 <div class="d-flex justify-content-center">
                     <h2 class="mb-4 text-center col-10">{{ page.socials_twitter_title }}</h2>
                 </div>
-              <a
-                class="twitter-timeline"
-                data-width="800"
-                data-height="500"
-                href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw"
-            ></a>
+            <a class="twitter-timeline" href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw">Tweets by roosjepertz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
           </div>
         </div>
