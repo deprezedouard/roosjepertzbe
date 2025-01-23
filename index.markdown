@@ -80,13 +80,8 @@ speellijst: "11/01/25 Comedy set bij T.C. De Mol in Leuven <br>18/01/25 MC bij C
   <br>02 en 03/06/25 12’ sets op seizoensvoorstelling Sint Truiden <br>06/06/25 Line-up
   met MC Koen Dewulf en Jeron Dewulf en Joost Van Hyfte in Lochristi <br>21/06/25
   MC bij Comedy Leuven in Leuven //  <a href=\"https://comedyleuven.eventgoose.com\"
-  style=\"color: white;\"> Tickets</a><br>16/10/25 Goedgezind & Flink in Blankenberge
-  <br>17/10/25 Goedgezind & Flink in Houthalen<br>07/11/25 PREMIERE Goedgezind & Flink
-  in cc De Wildeman in Herent  <br>14/11/25 Goedgezind & Flink in Cinema Plaza in
-  Duffel  <br>05/12/25 Goedgezind & Flink in Leopoldsburg <br>29/01/26 Goedgezind
-  & Flink in Asse<br>30/01/26 Goedgezind & Flink in Lokeren <br>06/02/26 Goedgezind
-  & Flink in Beersel <br>12/02/26 Goedgezind & Flink in Roeselare<br>28/02/26 Goedgezind
-  & Flink in EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
+  style=\"color: white;\"> Tickets</a><br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
+  //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a><br>27/03/26 Goedgezind & Flink in Waasmunster "
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
