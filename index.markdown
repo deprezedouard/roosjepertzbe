@@ -14,7 +14,7 @@ bio_description: "Roosje Pertz kreeg in 1999 van haar moeder het slecht ontvange
   stabiel inkomen van haar échte job. <br><br> Roosje is bezeten door eten en dat
   hoor je in haar podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.
   Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram. TikTok zou ook
-  echt goed zijn voor haar carrière, maar het is nogal veel. "
+  echt goed zijn voor haar carrière, maar geef toe, daar kruipt veel tijd in. "
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
 socials_instagram_title: Roosje op Instagram
