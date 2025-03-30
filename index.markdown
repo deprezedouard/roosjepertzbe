@@ -32,7 +32,7 @@ socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
 speellijst: "04/04/25 Set op Comedy night met Yanick Noben bij Brasserie De Wissen
-  in Dilsen Stokkem //  <a href=https://www.facebook.com/dewissen/?locale=pt_BR&_rdr>
+  in Dilsen Stokkem //  <a href=\"https://www.facebook.com/dewissen/?locale=pt_BR&_rdr\">
   Tickets</a> <br>23/04/25 Line-up in Roes Comedy Club in Gent //  <a href=\"https://levelscomedyclub.be/tickets\"
   style=\"color: white;\"> Tickets</a><br>\n21/04/25 MC op Rock Café Open Mic in Leuven
   <br>23/04/25 Line-up in Roes Comedy Club in Gent //  <a href=\"https://levelscomedyclub.be/tickets\"
