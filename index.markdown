@@ -23,33 +23,10 @@ socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
-speellijst: "04/04/25 Set op Comedy night met Yanick Noben bij Brasserie De Wissen
-  in Dilsen Stokkem //  <a href=\"https://www.facebook.com/dewissen/?locale=pt_BR&_rdr\"
-  style=\"color: white;\"> Tickets</a> <br>23/04/25 Line-up in Roes Comedy Club in
-  Gent //  <a href=\"https://levelscomedyclub.be/tickets\" style=\"color: white;\">
-  Tickets</a><br>\n21/04/25 MC op Rock Café Open Mic in Leuven <br>23/04/25 Line-up
-  in Roes Comedy Club in Gent //  <a href=\"https://levelscomedyclub.be/tickets\"
-  style=\"color: white;\"> Tickets</a><br>25/04/25 MC voor Karim Shatla, Warre Verlinden
-  en Sergej Lopouchansi in Hove //  <a href=\"https://www.uitinvlaanderen.be/agenda/e/comedy-line-up/00fcc50a-0fce-4d37-977a-953e51a3dc22\"
-  style=\"color: white;\"> Tickets</a><br>26/04/25 MC bij Comedy Leuven in Leuven
-  //  <a href=\"https://comedyleuven.eventgoose.com\" style=\"color: white;\"> Tickets</a><br>09/05/25
-  25'set in CC ’t Schaliken in Herentals //  <a href=\"https://www.schaliken.be/programma/comedy-line\"
-  style=\"color: white;\"> Tickets</a><br>14/05/25 25'set in Schelle organisatie IVEBICA
-  //  <a href=\"https://www.ivebica.be/activiteiten/detail/3748/comedy-parade-met-yannick-noben-warre-verlinden-roosje-pertz-en-mc-koen-dewulf\"
-  style=\"color: white;\"> Tickets</a>\n<br>17/05/25 Line-up in Cinema Walburg in
-  Hamont-Achel //  <a href=\"https://www.hamont-achel.be/activiteitendetail/5131/klimrooskuren-2025-comedy-avond\"
-  style=\"color: white;\"> Tickets</a><br>22/05/25 Set op Verano Bar Waregem Expo<br>19/05/25
-  MC op Rock Café Open Mic in Leuven <br>04/06/25 Set in Leopoldsburg<br>05/06/25
-  12’ set op seizoensvoorstelling Sint Truiden <br>06/06/25 Line-up met MC Koen Dewulf
-  en Jeron Dewulf en Joost Van Hyfte in Lochristi <br>07 en 08/06/25 Set op Nerdland
-  Festival <br>10/06/25 Set in Wevelgem<br>21/06/25 MC bij Comedy Leuven in Leuven
-  //  <a href=\"https://comedyleuven.eventgoose.com\" style=\"color: white;\"> Tickets</a><br>18/09/25
-  Set in Minigolf Linkeroever in Antwerpen<br>24, 26, 27, 28, 29, 30/09/25 MC op Cera
-  comedy nights in Leuven <br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen //
-  \ <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
-  style=\"color: white;\"> Tickets</a> <br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
-  //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
-  style=\"color: white;\"> Tickets</a><br>27/03/26 Goedgezind & Flink in Waasmunster "
+speellijst: |-
+  04/04/25 Set op Comedy night met Yanick Noben bij Brasserie De Wissen in Dilsen Stokkem //  <a href="https://www.facebook.com/dewissen/?locale=pt_BR&_rdr" style="color: white;"> Tickets</a> <br>23/04/25 Line-up in Roes Comedy Club in Gent //  <a href="https://levelscomedyclub.be/tickets" style="color: white;"> Tickets</a><br>
+  21/04/25 MC op Rock Café Open Mic in Leuven <br>23/04/25 Line-up in Roes Comedy Club in Gent //  <a href="https://levelscomedyclub.be/tickets" style="color: white;"> Tickets</a><br>25/04/25 MC voor Karim Shatla, Warre Verlinden en Sergej Lopouchansi in Hove //  <a href="https://www.uitinvlaanderen.be/agenda/e/comedy-line-up/00fcc50a-0fce-4d37-977a-953e51a3dc22" style="color: white;"> Tickets</a><br>26/04/25 MC bij Comedy Leuven in Leuven //  <a href="https://comedyleuven.eventgoose.com" style="color: white;"> Tickets</a><br>09/05/25 25'set in CC ’t Schaliken in Herentals //  <a href="https://www.schaliken.be/programma/comedy-line" style="color: white;"> Tickets</a><br>14/05/25 25'set in Schelle organisatie IVEBICA //  <a href="https://www.ivebica.be/activiteiten/detail/3748/comedy-parade-met-yannick-noben-warre-verlinden-roosje-pertz-en-mc-koen-dewulf" style="color: white;"> Tickets</a>
+  <br>17/05/25 Line-up in Cinema Walburg in Hamont-Achel //  <a href="https://www.hamont-achel.be/activiteitendetail/5131/klimrooskuren-2025-comedy-avond" style="color: white;"> Tickets</a><br>22/05/25 Set op Verano Bar Waregem Expo<br>19/05/25 MC op Rock Café Open Mic in Leuven <br>04/06/25 Set in Leopoldsburg<br>05/06/25 12’ set op seizoensvoorstelling Sint Truiden <br>06/06/25 Line-up met MC Koen Dewulf en Jeron Dewulf en Joost Van Hyfte in Lochristi <br>07 en 08/06/25 Set op Nerdland Festival <br>10/06/25 Set in Wevelgem<br>21/06/25 MC bij Comedy Leuven in Leuven //  <a href="https://comedyleuven.eventgoose.com" style="color: white;"> Tickets</a><br>18/09/25 Set in Minigolf Linkeroever in Antwerpen<br>24, 26, 27, 28, 29, 30/09/25 MC op Cera comedy nights in Leuven <br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen //  <a href="https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2" style="color: white;"> Tickets</a> <br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere //  <a href="https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ" style="color: white;"> Tickets</a>
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
