@@ -39,16 +39,17 @@ speellijst: "04/04/25 Set op Comedy night met Yanick Noben bij Brasserie De Wiss
   style=\"color: white;\"> Tickets</a>\n<br>17/05/25 Line-up in Cinema Walburg in
   Hamont-Achel //  <a href=\"https://www.hamont-achel.be/activiteitendetail/5131/klimrooskuren-2025-comedy-avond\"
   style=\"color: white;\"> Tickets</a><br>22/05/25 Set op Verano Bar Waregem Expo<br>19/05/25
-  MC op Rock Café Open Mic in Leuven <br>04/06/25 Sets in Leopoldsburg<br>05/06/25
+  MC op Rock Café Open Mic in Leuven <br>04/06/25 Set in Leopoldsburg<br>05/06/25
   12’ set op seizoensvoorstelling Sint Truiden <br>06/06/25 Line-up met MC Koen Dewulf
-  en Jeron Dewulf en Joost Van Hyfte in Lochristi \n<br>21/06/25 MC bij Comedy Leuven
-  in Leuven //  <a href=\"https://comedyleuven.eventgoose.com\" style=\"color: white;\">
-  Tickets</a>\n<br>16/10/25 Goedgezind & Flink in Blankenberge <br>17/10/25 Goedgezind
-  & Flink in Houthalen <br>07/11/25 PREMIERE Goedgezind & Flink in cc De Wildeman
-  in Herent  <br>14/11/25 Goedgezind & Flink in Cinema Plaza in Duffel  <br>05/12/25
-  Goedgezind & Flink in Leopoldsburg <br>29/01/26 Goedgezind & Flink in Asse<br>30/01/26
-  Goedgezind & Flink in Lokeren <br>06/02/26 Goedgezind & Flink in Beersel <br>28/02/26
-  Goedgezind & Flink in EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
+  en Jeron Dewulf en Joost Van Hyfte in Lochristi <br>07 en 08/06/25 Set op Nerdland
+  Festival <br>10/06/25 Set in Wevelgem<br>21/06/25 MC bij Comedy Leuven in Leuven
+  //  <a href=\"https://comedyleuven.eventgoose.com\" style=\"color: white;\"> Tickets</a>\n<br>16/10/25
+  Goedgezind & Flink in Blankenberge <br>17/10/25 Goedgezind & Flink in Houthalen
+  <br>07/11/25 PREMIERE Goedgezind & Flink in cc De Wildeman in Herent  <br>14/11/25
+  Goedgezind & Flink in Cinema Plaza in Duffel  <br>05/12/25 Goedgezind & Flink in
+  Leopoldsburg <br>29/01/26 Goedgezind & Flink in Asse<br>30/01/26 Goedgezind & Flink
+  in Lokeren <br>06/02/26 Goedgezind & Flink in Beersel <br>28/02/26 Goedgezind &
+  Flink in EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a><br>27/03/26 Goedgezind & Flink in Waasmunster "
 speellijst_button: Boek Roosje
 podcast_title: KiloCast
