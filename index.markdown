@@ -31,8 +31,10 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
-speellijst: "30/03/25 Line-up in Lubbeek op Comedy for a better Lubbeek //  <a href=\"https://www.groenlubbeek.be/evenementen\"
-  style=\"color: white;\"> Tickets</a><br>21/04/25 MC op Rock Café Open Mic in Leuven
+speellijst: "04/04/25 Set op Comedy night met Yanick Noben bij Brasserie De Wissen
+  in Dilsen Stokkem //  <a href=https://www.facebook.com/dewissen/?locale=pt_BR&_rdr>
+  Tickets</a> <br>23/04/25 Line-up in Roes Comedy Club in Gent //  <a href=\"https://levelscomedyclub.be/tickets\"
+  style=\"color: white;\"> Tickets</a><br>\n21/04/25 MC op Rock Café Open Mic in Leuven
   <br>23/04/25 Line-up in Roes Comedy Club in Gent //  <a href=\"https://levelscomedyclub.be/tickets\"
   style=\"color: white;\"> Tickets</a><br>25/04/25 MC voor Karim Shatla, Warre Verlinden
   en Sergej Lopouchansi in Hove //  <a href=\"https://www.uitinvlaanderen.be/agenda/e/comedy-line-up/00fcc50a-0fce-4d37-977a-953e51a3dc22\"
@@ -47,13 +49,12 @@ speellijst: "30/03/25 Line-up in Lubbeek op Comedy for a better Lubbeek //  <a h
   <br>02 en 03/06/25 12’ sets op seizoensvoorstelling Sint Truiden <br>06/06/25 Line-up
   met MC Koen Dewulf en Jeron Dewulf en Joost Van Hyfte in Lochristi <br>21/06/25
   MC bij Comedy Leuven in Leuven //  <a href=\"https://comedyleuven.eventgoose.com\"
-  style=\"color: white;\"> Tickets</a>\n\nGoedgezind en Flink\n16/10/25 TRY-OUT Goedgezind
-  & Flink in Blankenberge <br>17/10/25 TRY-OUT Goedgezind & Flink in Houthalen<br>07/11/25
-  PREMIERE Goedgezind & Flink in cc De Wildeman in Herent  <br>14/11/25 Goedgezind
-  & Flink in Cinema Plaza in Duffel  <br>05/12/25 Goedgezind & Flink in Leopoldsburg
-  <br>29/01/26 Goedgezind & Flink in Asse<br>30/01/26 Goedgezind & Flink in Lokeren
-  <br>06/02/26 Goedgezind & Flink in Beersel <br>12/02/26 Goedgezind & Flink in Roeselare<br>28/02/26
-  Goedgezind & Flink in EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
+  style=\"color: white;\"> Tickets</a>\n<br>16/10/25 Goedgezind & Flink in Blankenberge
+  <br>17/10/25 Goedgezind & Flink in Houthalen <br>07/11/25 PREMIERE Goedgezind &
+  Flink in cc De Wildeman in Herent  <br>14/11/25 Goedgezind & Flink in Cinema Plaza
+  in Duffel  <br>05/12/25 Goedgezind & Flink in Leopoldsburg <br>29/01/26 Goedgezind
+  & Flink in Asse<br>30/01/26 Goedgezind & Flink in Lokeren <br>06/02/26 Goedgezind
+  & Flink in Beersel <br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a><br>27/03/26 Goedgezind & Flink in Waasmunster "
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
