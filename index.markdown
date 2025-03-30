@@ -25,10 +25,11 @@ socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
 speellijst_button: Boek Roosje
 speellijst: "04/04/25 Set op Comedy night met Yanick Noben bij Brasserie De Wissen
-  in Dilsen Stokkem //  <a href=\"https://www.facebook.com/dewissen/?locale=pt_BR&_rdr\">
-  Tickets</a> <br>23/04/25 Line-up in Roes Comedy Club in Gent //  <a href=\"https://levelscomedyclub.be/tickets\"
-  style=\"color: white;\"> Tickets</a><br>\n21/04/25 MC op Rock Café Open Mic in Leuven
-  <br>23/04/25 Line-up in Roes Comedy Club in Gent //  <a href=\"https://levelscomedyclub.be/tickets\"
+  in Dilsen Stokkem //  <a href=\"https://www.facebook.com/dewissen/?locale=pt_BR&_rdr\"
+  style=\"color: white;\"> Tickets</a> <br>23/04/25 Line-up in Roes Comedy Club in
+  Gent //  <a href=\"https://levelscomedyclub.be/tickets\" style=\"color: white;\">
+  Tickets</a><br>\n21/04/25 MC op Rock Café Open Mic in Leuven <br>23/04/25 Line-up
+  in Roes Comedy Club in Gent //  <a href=\"https://levelscomedyclub.be/tickets\"
   style=\"color: white;\"> Tickets</a><br>25/04/25 MC voor Karim Shatla, Warre Verlinden
   en Sergej Lopouchansi in Hove //  <a href=\"https://www.uitinvlaanderen.be/agenda/e/comedy-line-up/00fcc50a-0fce-4d37-977a-953e51a3dc22\"
   style=\"color: white;\"> Tickets</a><br>26/04/25 MC bij Comedy Leuven in Leuven
