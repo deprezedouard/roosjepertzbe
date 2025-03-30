@@ -17,13 +17,6 @@ bio_description: "Roosje Pertz kreeg in 1999 van haar moeder het slecht ontvange
   voor haar carrière als ze dat had. "
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
-aanbod_voor_scholen_titel: Aanbod voor scholen
-aanbod_voor_scholen_tekst: "(Voor leerkrachten) Roosje Pertz is het gouden randje
-  van je pedagogische studiedag. Boek een comedyset vol spitsvondige anekdotes over
-  onze taal, de leraarskamer en werken op een school. Als ervaren leerkracht Nederlands
-  voor anderstaligen in het volwassenenonderwijs en leerkracht Nederlands in het secundair
-  onderwijs put Roosje uit een rijk arsenaal van interculturele en intergenerationele
-  observaties, lach gegarandeerd."
 socials_instagram_title: Roosje op Instagram
 socials_twitter_title: Roosje op X
 socials_previous: Vorige
