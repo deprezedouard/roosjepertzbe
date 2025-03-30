@@ -23,7 +23,6 @@ socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 speellijst_titel: Speellijst
-speellijst_button: Boek Roosje
 speellijst: "04/04/25 Set op Comedy night met Yanick Noben bij Brasserie De Wissen
   in Dilsen Stokkem //  <a href=\"https://www.facebook.com/dewissen/?locale=pt_BR&_rdr\"
   style=\"color: white;\"> Tickets</a> <br>23/04/25 Line-up in Roes Comedy Club in
@@ -50,6 +49,7 @@ speellijst: "04/04/25 Set op Comedy night met Yanick Noben bij Brasserie De Wiss
   & Flink in Asse<br>30/01/26 Goedgezind & Flink in Lokeren <br>06/02/26 Goedgezind
   & Flink in Beersel <br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a><br>27/03/26 Goedgezind & Flink in Waasmunster "
+speellijst_button: Boek Roosje
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
