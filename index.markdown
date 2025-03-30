@@ -9,12 +9,12 @@ bio_description: "Roosje Pertz kreeg in 1999 van haar moeder het slecht ontvange
   haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke
   MC doet Roosje zelfs het meest ijzige publiek ontvlammen. <br><br> In 2019 nam Michael
   Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won
-  ze Comedy Match in Eindhoven. <br><br>De komende tijd werkt ze aan haar eigen voorstelling
-  Goedgezind & Flink, daarin sterk belemmerd door het comfort van het stabiel inkomen
-  van haar échte job. <br><br> Roosje is bezeten door eten en dat hoor je in haar
-  podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip. Roosje is heel
-  sociaal op Twitter, Youtube, Facebook en Instagram. TikTok zou ook echt goed zijn
-  voor haar carrière als ze dat had. "
+  ze Comedy Match in Eindhoven. <br><br>Op dit eigenste moment werkt ze aan haar avondvullende
+  voorstelling Goedgezind & Flink, daarin sterk belemmerd door het comfort van het
+  stabiel inkomen van haar échte job. <br><br> Roosje is bezeten door eten en dat
+  hoor je in haar podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.
+  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram. TikTok zou ook
+  echt goed zijn voor haar carrière, maar het is nogal veel. "
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
 socials_instagram_title: Roosje op Instagram
