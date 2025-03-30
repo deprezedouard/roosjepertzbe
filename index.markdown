@@ -51,7 +51,6 @@ speellijst: "04/04/25 Set op Comedy night met Yanick Noben bij Brasserie De Wiss
   in Lokeren <br>06/02/26 Goedgezind & Flink in Beersel <br>28/02/26 Goedgezind &
   Flink in EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a><br>27/03/26 Goedgezind & Flink in Waasmunster "
-speellijst_button: Boek Roosje
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
