@@ -119,7 +119,7 @@ layout: default
             <div class="col-12 col-md-7 mb-5 text-left text-white">
                 <h1 class="section-heading mb-3">{{ page.Goedgezind_&_flink_speellijst }}</h1>
                 <p class="text" style="text-align: justify;">
-                   {{ page.speellijst }}
+                   {{ page.Goedgezind_&_flink_speellijst }}
                 </p>
                 <a class="btn btn-primary btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
             </div>
