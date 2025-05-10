@@ -119,7 +119,7 @@ layout: default
             <div class="col-12 col-md-7 mb-5 text-left text-white">
                 <h1 class="section-heading mb-3">{{ page.Goedgezind_&_flink_speellijst }}</h1>
                 <p class="text" style="text-align: justify;">
-                   {{ page.speellijst }}
+                   {{ page.Goedgezind_&_flink_speellijst }}
                 </p>
                 <a class="btn btn-primary btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
             </div>
@@ -143,22 +143,7 @@ layout: default
     </div>
 </section>
 
-<section id="speellijst" class="bg-primary padding-section">
-    <div class="container">
-        <div class="row pt-5">
-            <div class="col-12 col-md-5 mb-5">
-                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
-            </div>
-            <div class="col-12 col-md-7 mb-5 text-left text-white">
-                <h1 class="section-heading mb-3">{{ page.speellijst_titel }}</h1>
-                <p class="text" style="text-align: justify;">
-                   {{ page.speellijst }}
-                </p>
-                <a class="btn btn-primary btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <section id="socials" class="bg-light" class="bg-light padding-section">
   <div class="container p-5" style="top: -56px;">
