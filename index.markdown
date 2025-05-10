@@ -111,23 +111,6 @@ layout: default
 </section>
 
 
-<section id="Goedgezind_&_flink_speellijst" class="bg-primary padding-section">
-    <div class="container">
-        <div class="row pt-5">
-            <div class="col-12 col-md-5 mb-5">
-                <img src="/uploads/goedgezindtoerdata.jpg" class="img-fluid pr-4 pl-4" alt="roosje-pertz-toerdata>
-            </div>
-            <div class="col-12 col-md-7 mb-5 text-left text-white">
-                <h1 class="section-heading mb-3">{{ page.Goedgezind_&_flink_titel }}</h1>
-                <p class="text" style="text-align: justify;">
-                   {{ page.Goedgezind_&_flink_speellijst }}
-                </p>
-                <a class="btn btn-primary btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
-            </div>
-        </div>
-    </div>
-</section>
-
 <section id="vrouwelijke-comedian" class="bg-light" style="padding:100px 0;">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
