@@ -22,7 +22,7 @@ socials_twitter_title: Roosje op X
 socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
-Goedgezind_&_flink: Zaalshow Goedgezind en flink
+Goedgezind_&_flink_titel: Zaalshow Goedgezind en flink
 Goedgezind_&_flink_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De
   Wildeman in Herent  \n<br>14/11/25 Goedgezind & Flink in Cinema Plaza in Duffel
   \ \n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog in Tienen \n<br>28/11/25
@@ -110,6 +110,23 @@ layout: default
     </div>
 </section>
 
+
+<section id="Goedgezind_&_flink_speellijst" class="bg-primary padding-section">
+    <div class="container">
+        <div class="row pt-5">
+            <div class="col-12 col-md-5 mb-5">
+                <img src="/uploads/goedgezindtoerdata.jpg" class="img-fluid pr-4 pl-4" alt="roosje-pertz-toerdata>
+            </div>
+            <div class="col-12 col-md-7 mb-5 text-left text-white">
+                <h1 class="section-heading mb-3">{{ page.Goedgezind_&_flink_titel }}</h1>
+                <p class="text" style="text-align: justify;">
+                   {{ page.Goedgezind_&_flink_speellijst }}
+                </p>
+                <a class="btn btn-primary btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section id="vrouwelijke-comedian" class="bg-light" style="padding:100px 0;">
     <div class="container">
