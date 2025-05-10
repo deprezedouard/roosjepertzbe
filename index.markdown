@@ -22,14 +22,27 @@ socials_twitter_title: Roosje op X
 socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
-Goedgezind_en_flink: Zaalshow Goedgezind en flink
-Goedgezind_en_flink_speellijst: "<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen
-  //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
-  style=\"color: white;\"> Tickets</a> \n<br>05/02/26 Goedgezind & Flink in Geel //
-  \ <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
-  style=\"color: white;\"> Tickets</a>\n<br>28/02/26 Goedgezind & Flink in EMotia
-  Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
-  style=\"color: white;\"> Tickets</a>"
+Goedgezind_&_flink: Zaalshow Goedgezind en flink
+Goedgezind_&_flink_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De
+  Wildeman in Herent  \n<br>14/11/25 Goedgezind & Flink in Cinema Plaza in Duffel
+  \ \n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog in Tienen \n<br>28/11/25
+  Goedgezind & Flink in cc Dilbeek \n<br>04/12/25 Goedgezind & Flink in cc Lanaken
+  \n<br>05/12/25 Goedgezind & Flink in Leopoldsburg \n<br>11/12/25 Goedgezind & Flink
+  in Arenberg Antwerpen //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
+  style=\"color: white;\"> Tickets</a>\n<br>12/12/25 Goedgezind & Flink in Rumst \n<br>19/12/25
+  Goedgezind & Flink in Zwevegem\n<br>23/01/26 Goedgezind & Flink in cc De Steiger
+  Menen\n<br>29/01/26 Goedgezind & Flink in cc Gasthuis Asse\n<br>30/01/26 Goedgezind
+  & Flink in cc Lokeren \n<br>05/02/26 Goedgezind & Flink in Geel //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n<br>06/02/26 Goedgezind & Flink in cc De Meent
+  in Alsemberg \n<br>12/02/26 Goedgezind & Flink in De Spil Roeselare\n<br>25/02/26
+  Goedgezind & Flink in De Minnepoort in Leuven \n<br>27/02/26 Goedgezind & Flink
+  in gc Tentakel in Zonhoven\n<br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
+  //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
+  style=\"color: white;\"> Tickets</a>\n<br>13/03/26 Goedgezind & Flink in Schouwburg
+  Noord in Merksem\n<br>18/03/26 Goedgezind & Flink in cc HA in Hasselt\n<br>20/03/26
+  Goedgezind & Flink in cc Gasthuis in Aarschot\n<br>21/03/26 Goedgezind & Flink in
+  gc De Bunder in Moorsele    \n<br>27/03/26 Goedgezind & Flink in gc De Meermin in
+  Waasmunster \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze \n"
 speellijst_titel: Speellijst
 speellijst: "09/05/25 25'set in CC ’t Schaliken in Herentals //  <a href=\"https://www.schaliken.be/programma/comedy-line\"
   style=\"color: white;\"> Tickets</a><br>14/05/25 25'set in Schelle organisatie IVEBICA
@@ -42,10 +55,9 @@ speellijst: "09/05/25 25'set in CC ’t Schaliken in Herentals //  <a href=\"htt
   Leuven <br>04/06/25 Set in Leopoldsburg<br>05/06/25 12’ set op seizoensvoorstelling
   Sint Truiden <br>06/06/25 Line-up met MC Koen Dewulf en Jeron Dewulf en Joost Van
   Hyfte in Lochristi <br>07 en 08/06/25 Set op Nerdland Festival //  <a href=\"https://www.nerdlandfestival.be/nl/\"
-  style=\"color: white;\"> Tickets</a>\n<br>10/06/25 Set in Wevelgem<br>21/06/25 MC
-  bij Comedy Leuven in Leuven //  <a href=\"https://comedyleuven.eventgoose.com\"
-  style=\"color: white;\"> Tickets</a><br>18/09/25 Set in Minigolf Linkeroever in
-  Antwerpen<br>24, 26, 27, 28, 29, 30/09/25 MC op Cera comedy nights in Leuven "
+  style=\"color: white;\"> Tickets</a>\n<br>10/06/25 Set in Wevelgem<br>18/09/25 Set
+  in Minigolf Linkeroever in Antwerpen<br>24, 26, 27, 28, 29, 30/09/25 MC op Cera
+  comedy nights in Leuven "
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
