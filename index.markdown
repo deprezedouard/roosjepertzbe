@@ -117,7 +117,7 @@ layout: default
                 <img src="Files/uploads/goedgezindtoerdata.jpg" class="img-fluid pr-4 pl-4" alt=“Goedgezind & Flink toerdata>
             </div>
             <div class="col-12 col-md-7 mb-5 text-left text-white">
-                <h1 class="section-heading mb-3">{{ page.speellijst_titel }}</h1>
+                <h1 class="section-heading mb-3">{{ page.Goedgezind_&_flink_speellijst }}</h1>
                 <p class="text" style="text-align: justify;">
                    {{ page.speellijst }}
                 </p>
