@@ -57,7 +57,13 @@ speellijst: "09/05/25 25'set in CC ’t Schaliken in Herentals //  <a href=\"htt
   Hyfte in Lochristi <br>07 en 08/06/25 Set op Nerdland Festival //  <a href=\"https://www.nerdlandfestival.be/nl/\"
   style=\"color: white;\"> Tickets</a>\n<br>10/06/25 Set in Wevelgem<br>18/09/25 Set
   in Minigolf Linkeroever in Antwerpen<br>24, 26, 27, 28, 29, 30/09/25 MC op Cera
-  comedy nights in Leuven "
+  comedy nights in Leuven \n<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen
+  //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
+  style=\"color: white;\"> Tickets</a>\n<br>05/02/26 Goedgezind & Flink in Geel //
+  \ <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n<br>28/02/26 Goedgezind & Flink in EMotia
+  Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
+  style=\"color: white;\"> Tickets</a>"
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
