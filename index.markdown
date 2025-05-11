@@ -64,6 +64,7 @@ speellijst: "09/05/25 25'set in CC ’t Schaliken in Herentals //  <a href=\"htt
   style=\"color: white;\"> Tickets</a>\n<br>28/02/26 Goedgezind & Flink in EMotia
   Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a>"
+speellijst_button: Boek Roosje
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
@@ -104,29 +105,30 @@ layout: default
             <div class="col-12 col-md-5 mb-5">
                 <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/roosje-pertz-is-een-vrouwelijke-stand-up-comedian" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
-            <div class="col-12 col-md-7 mb-5 text-left text-white">
+            <div class="col-12 col-md-7 mb-5 text-left text-black">
                 <h1 class="section-heading mb-3">{{ page.bio_title_h1 }}</h1>
                 <p class="text" style="text-align: justify;">
                    {{ page.bio_description }}
                 </p>
-                <a class="btn btn-light btn-xl text-primary page-scroll" href="#podcast">{{ page.bio_button }}</a>
-                <a class="btn btn-light btn-xl text-primary page-scroll" href="https://tram4.be/">{{ page.bio_button_2 }}</a>
+                <a class="btn btn-light btn-xl text-black page-scroll" href="#podcast">{{ page.bio_button }}</a>
+                <a class="btn btn-light btn-xl text-black page-scroll" href="https://tram4.be/">{{ page.bio_button_2 }}</a>
             </div>
         </div>
     </div>
 </section>
 
-
-<section id="vrouwelijke-comedian" class="bg-light" style="padding:100px 0;">
+<section id="goedgezind" class="bg-light" style="padding:100px 0;">
     <div class="container">
-        <div class="row pt-5 d-flex justify-content-center">
-            <div class="col-12 col-md-7 mb-5 text-center text-white">
-                <h2 class="section-heading mb-3">{{ page.vrouwelijke_comedian_titel }}</h2>
-                <p class="text">
-                   {{ page.vrouwelijke_comedian }}
+        <div class="row pt-5">
+            <div class="col-12 col-md-4 mb-5 d-flex justify-content-center" style="height: fit-content;">
+                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/goedgezind-en-flink-roosje-pertz-comedy" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
+            </div>
+            <div class="col-12 col-md-8 mb-5 text-left text-black">
+                <h1 class="section-heading mb-3">{{ page.goedgezind_title }}</h1>
+                <p class="text" style="text-align: justify;">
+                   {{ page.goedgezind_speellijst }}
                 </p>
-                <br>
-                <a class="btn btn-primary btn-xl  page-scroll text-white" href="https://tram4.be/">{{ page.vrouwelijke_comedian_button }}</a>
+                <a class="btn btn-primary btn-xl text-black page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
             </div>
         </div>
     </div>
@@ -135,28 +137,44 @@ layout: default
 <section id="speellijst" class="bg-primary padding-section">
     <div class="container">
         <div class="row pt-5">
-            <div class="col-12 col-md-5 mb-5">
+            <div class="col-12 col-md-4 mb-5 d-flex justify-content-center" style="height: fit-content;">
                 <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
-            <div class="col-12 col-md-7 mb-5 text-left text-white">
+            <div class="col-12 col-md-8 mb-5 text-left text-black">
                 <h1 class="section-heading mb-3">{{ page.speellijst_titel }}</h1>
                 <p class="text" style="text-align: justify;">
                    {{ page.speellijst }}
                 </p>
-                <a class="btn btn-primary btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
+                <a class="btn btn-light btn-xl text-black page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
             </div>
         </div>
     </div>
 </section>
 
-<section id="socials" class="bg-light" class="bg-light padding-section">
+<section id="vrouwelijke-comedian" class="bg-light" style="padding:100px 0;">
+    <div class="container">
+        <div class="row pt-5 d-flex justify-content-center">
+            <div class="col-12 col-md-7 mb-5 text-center text-black">
+                <h2 class="section-heading mb-3">{{ page.vrouwelijke_comedian_titel }}</h2>
+                <p class="text">
+                   {{ page.vrouwelijke_comedian }}
+                </p>
+                <br>
+                <a class="btn btn-primary btn-xl  page-scroll text-black" href="https://tram4.be/">{{ page.vrouwelijke_comedian_button }}</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="socials" class="bg-primary padding-section">
   <div class="container p-5" style="top: -56px;">
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel"  data-interval="4000">
-      <div class="carousel-inner text-primary">
+      <div class="carousel-inner text-white">
         <div class="carousel-item active">
             <div class="d-flex justify-content-center">
                 <h2 class="mb-4 text-center col-10">
-                    <a href="https://www.instagram.com/roosjepertz" class="col-10 col-md-9 col-lg-8 col-xl-6">
+                    <a href="https://www.instagram.com/roosjepertz" class="col-10 col-md-9 col-lg-8 col-xl-6 text-white">
                         {{ page.socials_instagram_title }}
                     </a>
                 </h2>
@@ -182,7 +200,7 @@ layout: default
                 ></iframe>
             </div>
         </div>
-        <div class="carousel-item test">
+        <!-- <div class="carousel-item test">
           <div class="w-100 d-flex justify-content-center">
             <div class="social-twitter-container w-100">
                 <div class="d-flex justify-content-center">
@@ -191,12 +209,12 @@ layout: default
             <a class="twitter-timeline" href="https://twitter.com/roosjepertz?ref_src=twsrc%5Etfw">Tweets by roosjepertz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="carousel-item">
           <div class="d-flex justify-content-center">
             <div class="social-youtube-container w-100">
                 <div class="d-flex justify-content-center">
-                    <h2 class="mb-4 text-center col-10">{{ page.socials_youtube_title }}</h2>
+                    <h2 class="mb-4 text-center col-10 text-white">{{ page.socials_youtube_title }}</h2>
                 </div>
                 <iframe
                     width="100%"
@@ -222,28 +240,10 @@ layout: default
   </div>
 </section>
 
-<section id="aanbod-voor-scholen" class="bg-primary padding-section">
-    <div class="container">
-        <div class="row pt-5">
-            <!-- <div class="col-12 col-md-5 mb-5">
-                <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/roosje-pertz-op-het-podium" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
-            </div> -->
-            <div class="col-12 col-md-3 mb-4"></div>
-            <div class="col-12 col-md-6 mb-4 text-center text-white">
-                <h1 class="section-heading mb-3">{{ page.aanbod_voor_scholen_titel }}</h1>
-                <p class="text" style="text-align: justify;">
-                   {{ page.aanbod_voor_scholen_tekst }}
-                </p>
-                <a class="btn btn-primary btn-xl text-white page-scroll" href="https://tram4.be/">{{ page.speellijst_button }}</a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="bg-light text-white" id="podcast">
+<section class="bg-light text-black" id="podcast">
   <div class="container banner pt-5" style="padding:100px 0; max-height: unset;">
     <div class="d-flex justify-content-center pt-5">
-        <h2 class="text-white text-center bg-primary p-3">{{ page.podcast_title }}</h2>
+        <h2 class="text-black text-center bg-primary p-3">{{ page.podcast_title }}</h2>
     </div>
     <div class="container">
       <div class="row pb-5">
@@ -298,9 +298,9 @@ layout: default
 <section id="contact" class="bg-light" style="padding:100px 0;">
     <div class="container">
         <div class="row pt-5 d-flex justify-content-center">
-            <div class="col-12 col-md-7 mb-5 text-center text-white">
+            <div class="col-12 col-md-7 mb-5 text-center text-black">
                 <h2 class="section-heading mb-3">{{ page.contact_titel }}</h2>
-                <p class="text text-white">
+                <p class="text text-black">
                    {{ page.contact_text }}
                 </p>
             </div>
