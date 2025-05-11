@@ -43,7 +43,7 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   Goedgezind & Flink in cc Gasthuis in Aarschot\n<br>21/03/26 Goedgezind & Flink in
   gc De Bunder in Moorsele    \n<br>27/03/26 Goedgezind & Flink in gc De Meermin in
   Waasmunster \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze \n"
-speellijst_titel: Speellijst
+speellijst_titel: Line-ups en MC
 speellijst: "09/05/25 25'set in CC ’t Schaliken in Herentals //  <a href=\"https://www.schaliken.be/programma/comedy-line\"
   style=\"color: white;\"> Tickets</a><br>14/05/25 25'set in Schelle organisatie IVEBICA
   //  <a href=\"https://www.ivebica.be/activiteiten/detail/3748/comedy-parade-met-yannick-noben-warre-verlinden-roosje-pertz-en-mc-koen-dewulf\"
