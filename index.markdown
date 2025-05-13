@@ -54,16 +54,20 @@ speellijst: "09/05/25 25'set in CC ’t Schaliken in Herentals //  <a href=\"htt
   style=\"color: white;\"> Meer info </a>\n<br>19/05/25 MC op Rock Café Open Mic in
   Leuven <br>04/06/25 Set in Leopoldsburg<br>05/06/25 12’ set op seizoensvoorstelling
   Sint Truiden <br>06/06/25 Line-up met MC Koen Dewulf en Jeron Dewulf en Joost Van
-  Hyfte in Lochristi <br>07 en 08/06/25 Set op Nerdland Festival //  <a href=\"https://www.nerdlandfestival.be/nl/\"
-  style=\"color: white;\"> Tickets</a>\n<br>10/06/25 Set in Wevelgem<br>18/09/25 Set
-  in Minigolf Linkeroever in Antwerpen<br>24, 26, 27, 28, 29, 30/09/25 MC op Cera
-  comedy nights in Leuven \n<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen
-  //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
-  style=\"color: white;\"> Tickets</a>\n<br>05/02/26 Goedgezind & Flink in Geel //
-  \ <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
-  style=\"color: white;\"> Tickets</a>\n<br>28/02/26 Goedgezind & Flink in EMotia
-  Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
-  style=\"color: white;\"> Tickets</a>"
+  Hyfte in Lochristi //  <a href=\"https://loactueel.be/schoolfeest-gbs-lochristi-opent-op-6-juni-met-comedy-night-met-joost-van-hyfte/\"
+  style=\"color: white;\"> Tickets</a><br>07 en 08/06/25 Set op Nerdland Festival
+  //  <a href=\"https://www.nerdlandfestival.be/nl/\" style=\"color: white;\"> Tickets</a>\n<br>22/08/25
+  Set in Wevelgem<br>22/08/25 MC voor Jens Deferm, Lev Van Orbeek en Jan Linssen in
+  Halen <br>04/09/25 Line-up met MC Koen Dewulf en Jan Linssen en Thomas Smith in
+  Sint Katelijne Waver<br>18/09/25 Set in Minigolf Linkeroever in Antwerpen<br>24,
+  26, 27, 28, 29, 30/09/25 MC op Cera comedy nights in Leuven <br>03/10/25 TRY-OUT
+  Goedgezind & Flink in Middelkerke <br>16/10/25 TRY-OUT Goedgezind & Flink in Blankenberge
+  \ <br>17/10/25 TRY-OUT Goedgezind & Flink in Houthalen  <br>21/01/26 Support Iwein
+  Segers in Centrum Hasselt <br>18 en 19/02/26 Support Iwein Segers in Wagehuys Leuven
+  <br>06/03/26 MC voor Ariane Van Hasselt, Lev Van Orbeek en Ygor uit Poperinge in
+  Peer <br>26/03/26 MC voor Els Verhofstede, Ariane Van Hasselt en Christel Zweers
+  in Lebbeke<br>25/04/26 Set in line-up met MC Maarten D'haene, Els Verhofstede en
+  Yannick Noben in Tielt-Winge "
 speellijst_button: Boek Roosje
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
