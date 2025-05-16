@@ -41,8 +41,8 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   style=\"color: white;\"> Tickets</a>\n<br>13/03/26 Goedgezind & Flink in Schouwburg
   Noord in Merksem\n<br>18/03/26 Goedgezind & Flink in cc HA in Hasselt\n<br>20/03/26
   Goedgezind & Flink in cc Gasthuis in Aarschot\n<br>21/03/26 Goedgezind & Flink in
-  gc De Bunder in Moorsele    \n<br>27/03/26 Goedgezind & Flink in gc De Meermin in
-  Waasmunster \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze \n"
+  gc De Bunder in Moorslede    \n<br>27/03/26 Goedgezind & Flink in gc De Meermin
+  in Waasmunster \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze \n"
 speellijst_titel: Line-ups en MC
 speellijst: "09/05/25 25'set in CC ’t Schaliken in Herentals //  <a href=\"https://www.schaliken.be/programma/comedy-line\"
   style=\"color: white;\"> Tickets</a><br>14/05/25 25'set in Schelle organisatie IVEBICA
