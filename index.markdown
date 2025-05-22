@@ -107,7 +107,6 @@ layout: default
     <div class="container">
         <div class="row pt-5">
             <div class="col-12 col-md-5 mb-5">
-
                 <img src="https://res.cloudinary.com/edouard-de-prez/image/upload/w_400,f_auto,fl_progressive,q_auto:good/roosje-pertz/roosje-pertz-is-een-vrouwelijke-stand-up-comedian" class="img-fluid pr-4 pl-4" alt="roosje-pertz-comedian">
             </div>
             <div class="col-12 col-md-7 mb-5 text-left text-black">
