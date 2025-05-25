@@ -44,30 +44,23 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   gc De Bunder in Moorslede    \n<br>27/03/26 Goedgezind & Flink in gc De Meermin
   in Waasmunster \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze \n"
 speellijst_titel: Line-ups en MC
-speellijst: "09/05/25 25'set in CC ’t Schaliken in Herentals //  <a href=\"https://www.schaliken.be/programma/comedy-line\"
-  style=\"color: white;\"> Tickets</a><br>14/05/25 25'set in Schelle organisatie IVEBICA
-  //  <a href=\"https://www.ivebica.be/activiteiten/detail/3748/comedy-parade-met-yannick-noben-warre-verlinden-roosje-pertz-en-mc-koen-dewulf\"
-  style=\"color: white;\"> Tickets</a>\n<br>17/05/25 Line-up in Cinema Walburg in
-  Hamont-Achel //  <a href=\"https://www.hamont-achel.be/activiteitendetail/5131/klimrooskuren-2025-comedy-avond\"
-  style=\"color: white;\"> Tickets</a><br>22/05/25 Set op Verano Bar Waregem Expo
-  //  <a href=\"https://www.verano-waregem.be/nl/evenementen/verano-comedy-night\"
-  style=\"color: white;\"> Meer info </a>\n<br>19/05/25 MC op Rock Café Open Mic in
-  Leuven <br>04/06/25 Set in Leopoldsburg<br>05/06/25 12’ set op seizoensvoorstelling
-  Sint Truiden <br>06/06/25 Line-up met MC Koen Dewulf en Jeron Dewulf en Joost Van
-  Hyfte in Lochristi //  <a href=\"https://loactueel.be/schoolfeest-gbs-lochristi-opent-op-6-juni-met-comedy-night-met-joost-van-hyfte/\"
+speellijst: "<br>19/05/25 MC op Rock Café Open Mic in Leuven <br>04/06/25 Set in Leopoldsburg<br>05/06/25
+  12’ set op seizoensvoorstelling Sint Truiden <br>06/06/25 Line-up met MC Koen Dewulf
+  en Jeron Dewulf en Joost Van Hyfte in Lochristi //  <a href=\"https://loactueel.be/schoolfeest-gbs-lochristi-opent-op-6-juni-met-comedy-night-met-joost-van-hyfte/\"
   style=\"color: white;\"> Tickets</a><br>07 en 08/06/25 Set op Nerdland Festival
-  //  <a href=\"https://www.nerdlandfestival.be/nl/\" style=\"color: white;\"> Tickets</a>\n<br>22/08/25
-  Set in Wevelgem<br>22/08/25 MC voor Jens Deferm, Lev Van Orbeek en Jan Linssen in
-  Halen <br>04/09/25 Line-up met MC Koen Dewulf en Jan Linssen en Thomas Smith in
-  Sint Katelijne Waver<br>18/09/25 Set in Minigolf Linkeroever in Antwerpen<br>24,
-  26, 27, 28, 29, 30/09/25 MC op Cera comedy nights in Leuven <br>03/10/25 TRY-OUT
-  Goedgezind & Flink in Middelkerke <br>16/10/25 TRY-OUT Goedgezind & Flink in Blankenberge
-  \ <br>17/10/25 TRY-OUT Goedgezind & Flink in Houthalen  <br>21/01/26 Support Iwein
-  Segers in Centrum Hasselt <br>18 en 19/02/26 Support Iwein Segers in Wagehuys Leuven
-  <br>06/03/26 MC voor Ariane Van Hasselt, Lev Van Orbeek en Ygor uit Poperinge in
-  Peer <br>26/03/26 MC voor Els Verhofstede, Ariane Van Hasselt en Christel Zweers
-  in Lebbeke<br>25/04/26 Set in line-up met MC Maarten D'haene, Els Verhofstede en
-  Yannick Noben in Tielt-Winge "
+  //  <a href=\"https://www.nerdlandfestival.be/nl/\" style=\"color: white;\"> Tickets</a>\n<br>10/06/25
+  Set in Wevelgem <br>24/06/25 Set in Don Vitalski's Dinsdagclub in Berchem <br>26/06/25
+  Host met Soe Nsuki op 30 jaar KDG Quiz <br>22/08/25 MC voor Jens Deferm, Lev Van
+  Orbeek en Jan Linssen in Halen <br>04/09/25 Line-up met MC Koen Dewulf en Jan Linssen
+  en Thomas Smith in Sint Katelijne Waver<br>18/09/25 Set in Minigolf Linkeroever
+  in Antwerpen<br>24, 26, 27, 28, 29, 30/09/25 MC op Cera comedy nights in Leuven
+  <br>03/10/25 TRY-OUT Goedgezind & Flink in Middelkerke <br>16/10/25 TRY-OUT Goedgezind
+  & Flink in Blankenberge  <br>17/10/25 TRY-OUT Goedgezind & Flink in Houthalen  <br>21/01/26
+  Support Iwein Segers in Centrum Hasselt <br>18 en 19/02/26 Support Iwein Segers
+  in Wagehuys Leuven <br>06/03/26 MC voor Ariane Van Hasselt, Lev Van Orbeek en Ygor
+  uit Poperinge in Peer <br>26/03/26 MC voor Els Verhofstede, Ariane Van Hasselt en
+  Christel Zweers in Lebbeke<br>25/04/26 Set in line-up met MC Maarten D'haene, Els
+  Verhofstede en Yannick Noben in Tielt-Winge "
 speellijst_button: Boek Roosje
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
