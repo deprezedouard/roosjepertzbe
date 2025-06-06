@@ -45,9 +45,8 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   in Moorslede    \n<br>27/03/26 Goedgezind & Flink in gc De Meermin in Waasmunster
   \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze \n"
 speellijst_titel: Line-ups en MC
-speellijst: "<br>19/05/25 MC op Rock Café Open Mic in Leuven <br>04/06/25 Set in Leopoldsburg<br>05/06/25
-  12’ set op seizoensvoorstelling Sint Truiden <br>06/06/25 Line-up met MC Koen Dewulf
-  en Jeron Dewulf en Joost Van Hyfte in Lochristi //  <a href=\"https://loactueel.be/schoolfeest-gbs-lochristi-opent-op-6-juni-met-comedy-night-met-joost-van-hyfte/\"
+speellijst: "06/06/25 Line-up met MC Koen Dewulf en Jeron Dewulf en Joost Van Hyfte
+  in Lochristi //  <a href=\"https://loactueel.be/schoolfeest-gbs-lochristi-opent-op-6-juni-met-comedy-night-met-joost-van-hyfte/\"
   style=\"color: white;\"> Tickets</a><br>07 en 08/06/25 Set op Nerdland Festival
   //  <a href=\"https://www.nerdlandfestival.be/nl/\" style=\"color: white;\"> Tickets</a>\n<br>10/06/25
   Set in Wevelgem <br>24/06/25 Set in Don Vitalski's Dinsdagclub in Berchem <br>26/06/25
