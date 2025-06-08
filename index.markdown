@@ -60,9 +60,10 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   style=\"color: white;\"> Tickets</a>\n<br>21/03/26 Goedgezind & Flink in gc De Bunder
   in Moorslede  //  <a href=\"https://webshopmoorslede.recreatex.be/Tickets/Detail\"
   style=\"color: white;\"> Tickets</a>\n<br>27/03/26 Goedgezind & Flink in gc De Meermin
-  in Waasmunster \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze  //  <a
-  href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\" style=\"color:
-  white;\"> Tickets</a>\n"
+  in Waasmunster  //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"
+  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>16/04/26 Goedgezind
+  & Flink in De Klaproos in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
+  style=\"color: white;\"> Tickets</a>\n"
 speellijst_titel: Line-ups en MC
 speellijst: "06/06/25 Line-up met MC Koen Dewulf en Jeron Dewulf en Joost Van Hyfte
   in Lochristi //  <a href=\"https://loactueel.be/schoolfeest-gbs-lochristi-opent-op-6-juni-met-comedy-night-met-joost-van-hyfte/\"
