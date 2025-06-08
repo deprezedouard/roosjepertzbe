@@ -33,8 +33,10 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   in Leopoldsburg \n<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
   style=\"color: white;\"> Tickets</a>\n<br>12/12/25 Goedgezind & Flink in Rumst \n<br>19/12/25
   Goedgezind & Flink in Zwevegem\n<br>23/01/26 Goedgezind & Flink in cc De Steiger
-  Menen\n<br>29/01/26 Goedgezind & Flink in cc Gasthuis Asse\n<br>30/01/26 Goedgezind
-  & Flink in cc Lokeren \n<br>05/02/26 Goedgezind & Flink in Geel //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
+  Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\" style=\"color:
+  white;\"> Tickets</a>\n<br>29/01/26 Goedgezind & Flink in cc Gasthuis Asse\n<br>30/01/26
+  Goedgezind & Flink in cc Lokeren \n<br>05/02/26 Goedgezind & Flink in Geel //  <a
+  href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>06/02/26 Goedgezind & Flink in cc De Meent
   in Alsemberg \n<br>12/02/26 Goedgezind & Flink in De Spil Roeselare\n<br>25/02/26
   Goedgezind & Flink in De Minnepoort in Leuven  //  <a href=“”https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026”
