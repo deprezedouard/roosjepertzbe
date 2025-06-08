@@ -39,8 +39,9 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   in gc Tentakel in Zonhoven\n<br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
   //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a>\n<br>13/03/26 Goedgezind & Flink in Schouwburg
-  Noord in Merksem\n<br>18/03/26 Goedgezind & Flink in cc HA in Hasselt\n<br>20/03/26
-  Goedgezind & Flink in cc Gasthuis in Aarschot //  <a href=\"https://apps.ticketmatic.com/widgets/gasthuis/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=17626&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fgasthuis%2Fshop-2%2Freturn%3Fl%3Dnl&saleschannelid=2&signature=8d14d0720482a33a18b5872c37e9dc80d371b31bb4ecc24e2dbc3db419fdad16&skinid=1#!/addtickets\"
+  Noord in Merksem\n<br>18/03/26 Goedgezind & Flink in cc HA in Hasselt  //  <a href=\"https://www.ccha.be/programma/5491/roosje-pertz/goedgezind-en-flink\"
+  style=\"color: white;\"> Tickets</a>\n<br>20/03/26 Goedgezind & Flink in cc Gasthuis
+  in Aarschot //  <a href=\"https://apps.ticketmatic.com/widgets/gasthuis/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=17626&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fgasthuis%2Fshop-2%2Freturn%3Fl%3Dnl&saleschannelid=2&signature=8d14d0720482a33a18b5872c37e9dc80d371b31bb4ecc24e2dbc3db419fdad16&skinid=1#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>21/03/26 Goedgezind & Flink in gc De Bunder
   in Moorslede    \n<br>27/03/26 Goedgezind & Flink in gc De Meermin in Waasmunster
   \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze \n"
