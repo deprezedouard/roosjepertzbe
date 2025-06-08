@@ -28,8 +28,8 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   white;\"> Tickets te koop vanaf 14 juni</a>\n<br>14/11/25 Goedgezind & Flink in
   Cinema Plaza in Duffel  \n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog in
   Tienen //  <a href=\"https://tickets.dekruisboog.be/nl/buyingflow/tickets/25537/55216/\"
-  style=\"color: white;\"> Tickets</a>\n<br>28/11/25 Goedgezind & Flink in cc Dilbeek
-  \ //  <a href=\"https://www.dilbeek.be/nl/uit-in-dilbeek/goedgezind-en-flink-roosje-pertz-0\"
+  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>28/11/25 Goedgezind
+  & Flink in cc Dilbeek  //  <a href=\"https://www.dilbeek.be/nl/uit-in-dilbeek/goedgezind-en-flink-roosje-pertz-0\"
   style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>04/12/25 Goedgezind
   & Flink in cc Lanaken  //  <a href=\"https://www.cclanaken.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
   style=\"color: white;\"> Tickets te koop vanaf 16 juni</a>\n<br>05/12/25 Goedgezind
