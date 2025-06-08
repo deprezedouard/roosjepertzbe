@@ -24,8 +24,10 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildeman
-  in Herent  \n<br>14/11/25 Goedgezind & Flink in Cinema Plaza in Duffel  \n<br>19/11/25
-  Goedgezind & Flink in cc De Kruisboog in Tienen //  <a href=\"https://tickets.dekruisboog.be/nl/buyingflow/tickets/25537/55216/\"
+  in Herent   //  <a href=“”https://www.gcdewildeman.be/programma/roosje-pertz” style=\"color:
+  white;\"> Tickets te koop vanaf 14 juni</a>\n<br>14/11/25 Goedgezind & Flink in
+  Cinema Plaza in Duffel  \n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog in
+  Tienen //  <a href=\"https://tickets.dekruisboog.be/nl/buyingflow/tickets/25537/55216/\"
   style=\"color: white;\"> Tickets</a>\n<br>28/11/25 Goedgezind & Flink in cc Dilbeek
   \n<br>04/12/25 Goedgezind & Flink in cc Lanaken \n<br>05/12/25 Goedgezind & Flink
   in Leopoldsburg \n<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
@@ -35,8 +37,9 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   & Flink in cc Lokeren \n<br>05/02/26 Goedgezind & Flink in Geel //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>06/02/26 Goedgezind & Flink in cc De Meent
   in Alsemberg \n<br>12/02/26 Goedgezind & Flink in De Spil Roeselare\n<br>25/02/26
-  Goedgezind & Flink in De Minnepoort in Leuven \n<br>27/02/26 Goedgezind & Flink
-  in gc Tentakel in Zonhoven\n<br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
+  Goedgezind & Flink in De Minnepoort in Leuven  //  <a href=“”https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026”
+  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>27/02/26 Goedgezind
+  & Flink in gc Tentakel in Zonhoven\n<br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
   //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a>\n<br>13/03/26 Goedgezind & Flink in Schouwburg
   Noord in Merksem\n<br>18/03/26 Goedgezind & Flink in cc HA in Hasselt  //  <a href=\"https://www.ccha.be/programma/5491/roosje-pertz/goedgezind-en-flink\"
@@ -44,7 +47,8 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   in Aarschot //  <a href=\"https://apps.ticketmatic.com/widgets/gasthuis/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=17626&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fgasthuis%2Fshop-2%2Freturn%3Fl%3Dnl&saleschannelid=2&signature=8d14d0720482a33a18b5872c37e9dc80d371b31bb4ecc24e2dbc3db419fdad16&skinid=1#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>21/03/26 Goedgezind & Flink in gc De Bunder
   in Moorslede    \n<br>27/03/26 Goedgezind & Flink in gc De Meermin in Waasmunster
-  \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze \n"
+  \n<br>16/04/26 Goedgezind & Flink in De Klaproos in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
+  style=\"color: white;\"> Tickets</a>\n"
 speellijst_titel: Line-ups en MC
 speellijst: "06/06/25 Line-up met MC Koen Dewulf en Jeron Dewulf en Joost Van Hyfte
   in Lochristi //  <a href=\"https://loactueel.be/schoolfeest-gbs-lochristi-opent-op-6-juni-met-comedy-night-met-joost-van-hyfte/\"
