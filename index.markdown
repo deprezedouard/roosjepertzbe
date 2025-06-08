@@ -36,13 +36,14 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   & Flink in Leopoldsburg   //  <a href=\"https://www.ccleopoldsburg.be/activiteiten/roosje-pertz\"
   style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>11/12/25 Goedgezind
   & Flink in Arenberg Antwerpen //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
-  style=\"color: white;\"> Tickets</a>\n<br>12/12/25 Goedgezind & Flink in Rumst \n<br>19/12/25
-  Goedgezind & Flink in Zwevegem\n<br>23/01/26 Goedgezind & Flink in cc De Steiger
-  Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\" style=\"color:
-  white;\"> Tickets</a>\n<br>29/01/26 Goedgezind & Flink in cc Gasthuis Asse  //  <a
-  href=\"https://www.ccasse.be/podium/roosje-pertz\" style=\"color: white;\"> Tickets
-  te koop vanaf 14 juni</a>\n<br>30/01/26 Goedgezind & Flink in cc Lokeren \n<br>05/02/26
-  Goedgezind & Flink in Geel //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n<br>12/12/25 Goedgezind & Flink in Rumst  //
+  \ <a href=\"https://rumst.eventsquare.store/nl/vns5amj5qvst/wy5elwpjgqkm/shows/597504024526\"
+  style=\"color: white;\"> Tickets</a>\n<br>19/12/25 Goedgezind & Flink in Zwevegem\n<br>23/01/26
+  Goedgezind & Flink in cc De Steiger Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\"
+  style=\"color: white;\"> Tickets</a>\n<br>29/01/26 Goedgezind & Flink in cc Gasthuis
+  Asse  //  <a href=\"https://www.ccasse.be/podium/roosje-pertz\" style=\"color: white;\">
+  Tickets te koop vanaf 14 juni</a>\n<br>30/01/26 Goedgezind & Flink in cc Lokeren
+  \n<br>05/02/26 Goedgezind & Flink in Geel //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>06/02/26 Goedgezind & Flink in cc De Meent
   in Alsemberg  //  <a href=\"https://www.demeent.be/goedgezind-en-flink\" style=\"color:
   white;\"> Tickets te koop vanaf 14 juni</a>\n<br>12/02/26 Goedgezind & Flink in
