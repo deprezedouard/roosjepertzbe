@@ -49,8 +49,9 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   De Spil Roeselare\n<br>25/02/26 Goedgezind & Flink in De Minnepoort in Leuven  //
   \ <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
   style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>27/02/26 Goedgezind
-  & Flink in gc Tentakel in Zonhoven\n<br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
-  //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
+  & Flink in gc Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
+  style=\"color: white;\"> Tickets te koop vanaf 10 juni</a>\n<br>28/02/26 Goedgezind
+  & Flink in EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a>\n<br>13/03/26 Goedgezind & Flink in Schouwburg
   Noord in Merksem\n<br>18/03/26 Goedgezind & Flink in cc HA in Hasselt  //  <a href=\"https://www.ccha.be/programma/5491/roosje-pertz/goedgezind-en-flink\"
   style=\"color: white;\"> Tickets</a>\n<br>20/03/26 Goedgezind & Flink in cc Gasthuis
