@@ -31,10 +31,11 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   style=\"color: white;\"> Tickets</a>\n<br>28/11/25 Goedgezind & Flink in cc Dilbeek
   \ //  <a href=\"https://www.dilbeek.be/nl/uit-in-dilbeek/goedgezind-en-flink-roosje-pertz-0\"
   style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>04/12/25 Goedgezind
-  & Flink in cc Lanaken \n<br>05/12/25 Goedgezind & Flink in Leopoldsburg   //  <a
-  href=\"https://www.ccleopoldsburg.be/activiteiten/roosje-pertz\" style=\"color:
-  white;\"> Tickets te koop vanaf 14 juni</a>\n<br>11/12/25 Goedgezind & Flink in
-  Arenberg Antwerpen //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
+  & Flink in cc Lanaken  //  <a href=\"https://www.cclanaken.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
+  style=\"color: white;\"> Tickets te koop vanaf 16 juni</a>\n<br>05/12/25 Goedgezind
+  & Flink in Leopoldsburg   //  <a href=\"https://www.ccleopoldsburg.be/activiteiten/roosje-pertz\"
+  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>11/12/25 Goedgezind
+  & Flink in Arenberg Antwerpen //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
   style=\"color: white;\"> Tickets</a>\n<br>12/12/25 Goedgezind & Flink in Rumst \n<br>19/12/25
   Goedgezind & Flink in Zwevegem\n<br>23/01/26 Goedgezind & Flink in cc De Steiger
   Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\" style=\"color:
