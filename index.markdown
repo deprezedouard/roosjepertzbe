@@ -31,8 +31,8 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>28/11/25 Goedgezind
   & Flink in cc Dilbeek  //  <a href=\"https://www.dilbeek.be/nl/uit-in-dilbeek/goedgezind-en-flink-roosje-pertz-0\"
   style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>04/12/25 Goedgezind
-  & Flink in cc Lanaken  //  <a href=\"https://www.cclanaken.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
-  style=\"color: white;\"> Tickets te koop vanaf 16 juni</a>\n<br>05/12/25 Goedgezind
+  & Flink in cc Lanaken  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lanaken/flow/evenement?event=617130644202&l=nl#!/addtickets\"
+  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>05/12/25 Goedgezind
   & Flink in Leopoldsburg   //  <a href=\"https://www.ccleopoldsburg.be/activiteiten/roosje-pertz\"
   style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>11/12/25 Goedgezind
   & Flink in Arenberg Antwerpen //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
