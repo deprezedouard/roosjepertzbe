@@ -47,8 +47,9 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   style=\"color: white;\"> Tickets</a>\n<br>06/02/26 Goedgezind & Flink in cc De Meent
   in Alsemberg  //  <a href=\"https://www.demeent.be/goedgezind-en-flink\" style=\"color:
   white;\"> Tickets te koop vanaf 14 juni</a>\n<br>12/02/26 Goedgezind & Flink in
-  De Spil Roeselare\n<br>25/02/26 Goedgezind & Flink in De Minnepoort in Leuven  //
-  \ <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
+  De Spil Roeselare //  <a href=\"https://www.despil.be/agenda/3276/roosje-pertz/goedgezind-flink\"
+  style=\"color: white;\"> Tickets te koop vanaf 17 juni</a> \n<br>25/02/26 Goedgezind
+  & Flink in De Minnepoort in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
   style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>27/02/26 Goedgezind
   & Flink in gc Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
   style=\"color: white;\"> Tickets te koop vanaf 10 juni</a>\n<br>28/02/26 Goedgezind
