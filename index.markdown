@@ -39,12 +39,15 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   \ <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
   style=\"color: white;\"> Tickets</a>\n<br>12/12/25 Goedgezind & Flink in Rumst  //
   \ <a href=\"https://rumst.eventsquare.store/nl/vns5amj5qvst/wy5elwpjgqkm/shows/597504024526\"
-  style=\"color: white;\"> Tickets</a>\n<br>19/12/25 Goedgezind & Flink in Zwevegem\n<br>23/01/26
-  Goedgezind & Flink in cc De Steiger Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\"
-  style=\"color: white;\"> Tickets</a>\n<br>29/01/26 Goedgezind & Flink in cc Gasthuis
-  Asse  //  <a href=\"https://www.ccasse.be/podium/roosje-pertz\" style=\"color: white;\">
-  Tickets</a>\n<br>30/01/26 Goedgezind & Flink in cc Lokeren \n<br>05/02/26 Goedgezind
-  & Flink in Geel //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n<br>19/12/25 Goedgezind & Flink in Zwevegem
+  //  <a href=\"https://www.zwevegem.be/agenda/e/roosje-pertz-goedgezind-flink/e96b9ca3-fae7-4088-b9f4-7d0adf06bb01\"
+  style=\"color: white;\"> Tickets</a>\n<br>23/01/26 Goedgezind & Flink in cc De Steiger
+  Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\" style=\"color:
+  white;\"> Tickets</a>\n<br>29/01/26 Goedgezind & Flink in cc Gasthuis Asse  //  <a
+  href=\"https://www.ccasse.be/podium/roosje-pertz\" style=\"color: white;\"> Tickets</a>\n<br>30/01/26
+  Goedgezind & Flink in cc Lokeren  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lokeren/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=11264&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_lokeren%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10000&signature=bf820035ec17b76402685e4be368a6eb19095c0141389b54757ce4fd7b22ce78&skinid=10000#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n\n<br>05/02/26 Goedgezind & Flink in Geel
+  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>06/02/26 Goedgezind & Flink in cc De Meent
   in Alsemberg  //  <a href=\"https://www.demeent.be/goedgezind-en-flink\" style=\"color:
   white;\"> Tickets</a>\n<br>12/02/26 Goedgezind & Flink in De Spil Roeselare //  <a
