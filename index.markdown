@@ -25,35 +25,34 @@ socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildeman
   in Herent   //  <a href=\"https://www.gcdewildeman.be/programma/roosje-pertz\" style=\"color:
-  white;\"> Tickets te koop vanaf 14 juni</a>\n<br>14/11/25 Goedgezind & Flink in
-  Cinema Plaza in Duffel  \n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog in
-  Tienen //  <a href=\"https://tickets.dekruisboog.be/nl/buyingflow/tickets/25537/55216/\"
-  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>28/11/25 Goedgezind
-  & Flink in cc Dilbeek  //  <a href=\"https://www.dilbeek.be/nl/uit-in-dilbeek/goedgezind-en-flink-roosje-pertz-0\"
-  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>04/12/25 Goedgezind
-  & Flink in cc Lanaken  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lanaken/flow/evenement?event=617130644202&l=nl#!/addtickets\"
-  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>05/12/25 Goedgezind
-  & Flink in Leopoldsburg   //  <a href=\"https://www.ccleopoldsburg.be/activiteiten/roosje-pertz\"
-  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>11/12/25 Goedgezind
-  & Flink in Arenberg Antwerpen //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
+  white;\"> Tickets</a>\n<br>14/11/25 Goedgezind & Flink in Cinema Plaza in Duffel
+  \ \n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog in Tienen //  <a href=\"https://tickets.dekruisboog.be/nl/buyingflow/tickets/25537/55216/\"
+  style=\"color: white;\"> Tickets </a>\n<br>28/11/25 Goedgezind & Flink in cc Dilbeek
+  \ //  <a href=\"https://www.dilbeek.be/nl/uit-in-dilbeek/goedgezind-en-flink-roosje-pertz-0\"
+  style=\"color: white;\"> Tickets</a>\n<br>04/12/25 Goedgezind & Flink in cc Lanaken
+  \ //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lanaken/flow/evenement?event=617130644202&l=nl#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n<br>05/12/25 Goedgezind & Flink in Leopoldsburg
+  \  //  <a href=\"https://www.ccleopoldsburg.be/activiteiten/roosje-pertz\" style=\"color:
+  white;\"> Tickets</a>\n<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen //
+  \ <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
   style=\"color: white;\"> Tickets</a>\n<br>12/12/25 Goedgezind & Flink in Rumst  //
   \ <a href=\"https://rumst.eventsquare.store/nl/vns5amj5qvst/wy5elwpjgqkm/shows/597504024526\"
   style=\"color: white;\"> Tickets</a>\n<br>19/12/25 Goedgezind & Flink in Zwevegem\n<br>23/01/26
   Goedgezind & Flink in cc De Steiger Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\"
   style=\"color: white;\"> Tickets</a>\n<br>29/01/26 Goedgezind & Flink in cc Gasthuis
   Asse  //  <a href=\"https://www.ccasse.be/podium/roosje-pertz\" style=\"color: white;\">
-  Tickets te koop vanaf 14 juni</a>\n<br>30/01/26 Goedgezind & Flink in cc Lokeren
-  \n<br>05/02/26 Goedgezind & Flink in Geel //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
+  Tickets</a>\n<br>30/01/26 Goedgezind & Flink in cc Lokeren \n<br>05/02/26 Goedgezind
+  & Flink in Geel //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>06/02/26 Goedgezind & Flink in cc De Meent
   in Alsemberg  //  <a href=\"https://www.demeent.be/goedgezind-en-flink\" style=\"color:
-  white;\"> Tickets te koop vanaf 14 juni</a>\n<br>12/02/26 Goedgezind & Flink in
-  De Spil Roeselare //  <a href=\"https://www.despil.be/agenda/3276/roosje-pertz/goedgezind-flink\"
-  style=\"color: white;\"> Tickets te koop vanaf 17 juni</a> \n<br>25/02/26 Goedgezind
-  & Flink in De Minnepoort in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
-  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>27/02/26 Goedgezind
-  & Flink in gc Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
-  style=\"color: white;\"> Tickets te koop vanaf 10 juni</a>\n<br>28/02/26 Goedgezind
-  & Flink in EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
+  white;\"> Tickets</a>\n<br>12/02/26 Goedgezind & Flink in De Spil Roeselare //  <a
+  href=\"https://www.despil.be/agenda/3276/roosje-pertz/goedgezind-flink\" style=\"color:
+  white;\"> Tickets</a> \n<br>25/02/26 Goedgezind & Flink in De Minnepoort in Leuven
+  \ //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
+  style=\"color: white;\"> Tickets</a>\n<br>27/02/26 Goedgezind & Flink in gc Tentakel
+  in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
+  style=\"color: white;\"> Tickets</a>\n<br>28/02/26 Goedgezind & Flink in EMotia
+  Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a>\n<br>13/03/26 Goedgezind & Flink in Schouwburg
   Noord in Merksem\n<br>18/03/26 Goedgezind & Flink in cc HA in Hasselt  //  <a href=\"https://www.ccha.be/programma/5491/roosje-pertz/goedgezind-en-flink\"
   style=\"color: white;\"> Tickets</a>\n<br>20/03/26 Goedgezind & Flink in cc Gasthuis
@@ -62,26 +61,22 @@ goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildem
   in Moorslede  //  <a href=\"https://webshopmoorslede.recreatex.be/Tickets/Detail\"
   style=\"color: white;\"> Tickets</a>\n<br>27/03/26 Goedgezind & Flink in gc De Meermin
   in Waasmunster  //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"
-  style=\"color: white;\"> Tickets te koop vanaf 14 juni</a>\n<br>16/04/26 Goedgezind
-  & Flink in De Klaproos in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
+  style=\"color: white;\"> Tickets</a>\n<br>16/04/26 Goedgezind & Flink in De Klaproos
+  in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
   style=\"color: white;\"> Tickets</a>\n"
 speellijst_titel: Line-ups en MC
-speellijst: "06/06/25 Line-up met MC Koen Dewulf en Jeron Dewulf en Joost Van Hyfte
-  in Lochristi //  <a href=\"https://loactueel.be/schoolfeest-gbs-lochristi-opent-op-6-juni-met-comedy-night-met-joost-van-hyfte/\"
-  style=\"color: white;\"> Tickets</a><br>07 en 08/06/25 Set op Nerdland Festival
-  //  <a href=\"https://www.nerdlandfestival.be/nl/\" style=\"color: white;\"> Tickets</a>\n<br>10/06/25
-  Set in Wevelgem <br>24/06/25 Set in Don Vitalski's Dinsdagclub in Berchem <br>26/06/25
-  Host met Soe Nsuki op 30 jaar KDG Quiz <br>22/08/25 MC voor Jens Deferm, Lev Van
-  Orbeek en Jan Linssen in Halen <br>04/09/25 Line-up met MC Koen Dewulf en Jan Linssen
-  en Thomas Smith in Sint Katelijne Waver<br>18/09/25 Set in Minigolf Linkeroever
-  in Antwerpen<br>24, 26, 27, 28, 29, 30/09/25 MC op Cera comedy nights in Leuven
-  <br>03/10/25 TRY-OUT Goedgezind & Flink in Middelkerke <br>16/10/25 TRY-OUT Goedgezind
-  & Flink in Blankenberge  <br>17/10/25 TRY-OUT Goedgezind & Flink in Houthalen  <br>21/01/26
+speellijst: '24/06/25 Set in Don Vitalski''s Dinsdagclub in Berchem <br>26/06/25 Host
+  met Soe Nsuki op 30 jaar KDG Quiz <br>22/08/25 MC voor Jens Deferm, Lev Van Orbeek
+  en Jan Linssen in Halen <br>04/09/25 Line-up met MC Koen Dewulf en Jan Linssen en
+  Thomas Smith in Sint Katelijne Waver<br>18/09/25 Set in Minigolf Linkeroever in
+  Antwerpen<br>24, 26, 27, 28, 29, 30/09/25 MC op Cera comedy nights in Leuven <br>03/10/25
+  TRY-OUT Goedgezind & Flink in Middelkerke <br>16/10/25 TRY-OUT Goedgezind & Flink
+  in Blankenberge  <br>17/10/25 TRY-OUT Goedgezind & Flink in Houthalen  <br>21/01/26
   Support Iwein Segers in Centrum Hasselt <br>18 en 19/02/26 Support Iwein Segers
   in Wagehuys Leuven <br>06/03/26 MC voor Ariane Van Hasselt, Lev Van Orbeek en Ygor
   uit Poperinge in Peer <br>26/03/26 MC voor Els Verhofstede, Ariane Van Hasselt en
-  Christel Zweers in Lebbeke<br>25/04/26 Set in line-up met MC Maarten D'haene, Els
-  Verhofstede en Yannick Noben in Tielt-Winge "
+  Christel Zweers in Lebbeke<br>25/04/26 Set in line-up met MC Maarten D''haene, Els
+  Verhofstede en Yannick Noben in Tielt-Winge '
 speellijst_button: Boek Roosje
 podcast_title: KiloCast
 getuigenissen_title: Getuigenissen van collega's
