@@ -23,8 +23,10 @@ socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
-goedgezind_speellijst: "<br>08/11/25 PREMIERE Goedgezind & Flink in gc De Wildeman
-  in Herent   //  <a href=\"https://www.gcdewildeman.be/programma/roosje-pertz\" style=\"color:
+goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Herent
+  \  //  <a href=\"https://www.gcdewildeman.be/programma/roosje-pertz\" style=\"color:
+  white;\"> Tickets</a>\n<br>08/11/25 Goedgezind & Flink in gc De Wildeman in Herent
+  \  //  <a href=\"https://www.gcdewildeman.be/programma/roosje-pertz\" style=\"color:
   white;\"> Tickets</a>\n<br>14/11/25 Goedgezind & Flink in Cinema Plaza in Duffel
   \ \n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog in Tienen //  <a href=\"https://tickets.dekruisboog.be/nl/buyingflow/tickets/25537/55216/\"
   style=\"color: white;\"> Tickets </a>\n<br>28/11/25 Goedgezind & Flink in cc Dilbeek
