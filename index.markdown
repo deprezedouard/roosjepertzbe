@@ -26,8 +26,8 @@ goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Herent
   \  //  <a href=\"https://www.gcdewildeman.be/programma/roosje-pertz\" style=\"color:
   white;\"> Tickets</a>\n<br>08/11/25 Goedgezind & Flink in gc De Wildeman in Herent
-  \  //  UITVERKOCHT\n<br>14/11/25 Goedgezind & Flink in Cinema Plaza in Duffel  \n<br>19/11/25
-  Goedgezind & Flink in cc De Kruisboog in Tienen //  <a href=\"https://tickets.dekruisboog.be/nl/buyingflow/tickets/25537/55216/\"
+  \  //  UITVERKOCHT\n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog in Tienen
+  //  <a href=\"https://tickets.dekruisboog.be/nl/buyingflow/tickets/25537/55216/\"
   style=\"color: white;\"> Laatste tickets </a>\n<br>28/11/25 Goedgezind & Flink in
   cc Dilbeek  //  <a href=\"https://tickets.westrand.be/nl/buyingflow/tickets/26544/53652?_gl=1*141bf78*_gcl_au*MTg2MTk1NDYxOS4xNzQ5MzcxMDMx*_ga*MjAyNDUwMzQyOC4xNzQ5MzcxMDMx*_ga_D2G7KT6JFR*czE3NTEwMjU3OTkkbzckZzEkdDE3NTEwMjU4MzIkajI3JGwwJGgw&genre=HUMOR%2C4%20TAALICONEN\"
   style=\"color: white;\"> Tickets</a>\n<br>04/12/25 Goedgezind & Flink in cc Lanaken
