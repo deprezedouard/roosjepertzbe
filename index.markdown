@@ -84,7 +84,7 @@ speellijst: '24/06/25 Set in Don Vitalski''s Dinsdagclub in Berchem <br>26/06/25
   Christel Zweers in Lebbeke<br>25/04/26 Set in line-up met MC Maarten D''haene, Els
   Verhofstede en Yannick Noben in Tielt-Winge '
 speellijst_button: Boek Roosje
-podcast_title: KiloCast
+podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
   West tussen de Gemeentestraat en de Diestsesteenweg (ter hoogte van bakkerij Stevens).
