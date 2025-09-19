@@ -95,7 +95,8 @@ speellijst: "20/09/25 Set op Hahalleluju 3: comedy-festival in de Hoogmis in Ede
   45' set in Cult in Hof De Bist in Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\"
   style=\"color: white;\"> Tickets</a>\n<br>15/04/26 45' set in Cult in Ververij in
   Kuurne\n<br>25/04/26 Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick
-  Noben in Tielt-Winge "
+  Noben in Tielt-Winge \n<br>11/05/26 8' set op de Comedy Marathon Capitole Gent\n<br>19/05/26
+  set op bij The Pitch in Kortrijk "
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
