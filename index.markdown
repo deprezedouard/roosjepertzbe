@@ -74,10 +74,10 @@ speellijst: "20/09/25 Set op Hahalleluju 3: comedy-festival in de Hoogmis in Ede
   //  <a href=\"https://www.eventbrite.nl/e/hahalleluja-3-comedy-festival-in-de-hoogmis-tickets-1438505321139\"
   style=\"color: white;\"> Tickets</a> \n<br>24, 26, 27, 28, 29, 30 september en 1
   oktober MC op Cera comedy nights in Leuven \n<br>16/10/25 TRY-OUT Goedgezind & Flink
-  in Blankenberge  \n<br>17/10/25 TRY-OUT Goedgezind & Flink in Houthalen  \n<br>10/10/25
-  Set bij Kaffee Claude in Haacht //  <a href=\"eventix.shop/afayjanf\" style=\"color:
-  white;\"> Tickets</a> \n<br>18/10/25 TRY-OUT Goedgezind & Flink bij de Rugbyclub
-  in Leuven //  <a href=\"https://www.uitinvlaanderen.be/agenda/e/31e-comedy-night-rugby-club-leuven-girlpower-met-roosje-pertz-ariane-van-ha-tvv-dww/b58c1b9c-6163-4e95-ac94-3efea43f4e71\"
+  in Blankenberge  \n<br>17/10/25 TRY-OUT Goedgezind & Flink in Houthalen  \n<br>09/10/25
+  Set bij Kaffee Claude in Haacht //  <a href=\"https://shop.weeztix.com/33263e0e-9072-11ef-a9cb-7e126431635e/tickets?shop_code=afayjanf&event=3447dc38-1752-4ea8-9cb2-f331dde101bc\"
+  style=\"color: white;\"> Tickets</a> \n<br>18/10/25 TRY-OUT Goedgezind & Flink bij
+  de Rugbyclub in Leuven //  <a href=\"https://www.uitinvlaanderen.be/agenda/e/31e-comedy-night-rugby-club-leuven-girlpower-met-roosje-pertz-ariane-van-ha-tvv-dww/b58c1b9c-6163-4e95-ac94-3efea43f4e71\"
   style=\"color: white;\"> Tickets</a>  \n<br>21/01/26 Support Iwein Segers in Centrum
   Hasselt \n<br>18 en 19/02/26 Support Iwein Segers in Wagehuys Leuven \n<br>06/03/26
   MC voor Ariane Van Hasselt, Lev Van Orbeek en Ygor uit Poperinge in Peer \n<br>26/03/26
