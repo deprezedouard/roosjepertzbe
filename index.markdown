@@ -25,9 +25,10 @@ socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Herent
   \  //  <a href=\"https://www.gcdewildeman.be/programma/roosje-pertz\" style=\"color:
-  white;\"> Tickets</a>\n<br>08/11/25 Goedgezind & Flink in gc De Wildeman in Herent
-  \  //  UITVERKOCHT\n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog in Tienen
-  //  UITVERKOCHT\n<br>28/11/25 Goedgezind & Flink in cc Dilbeek  //  <a href=\"https://tickets.westrand.be/nl/buyingflow/tickets/26544/53652?_gl=1*141bf78*_gcl_au*MTg2MTk1NDYxOS4xNzQ5MzcxMDMx*_ga*MjAyNDUwMzQyOC4xNzQ5MzcxMDMx*_ga_D2G7KT6JFR*czE3NTEwMjU3OTkkbzckZzEkdDE3NTEwMjU4MzIkajI3JGwwJGgw&genre=HUMOR%2C4%20TAALICONEN\"
+  white;\"> Laatste tickets</a>\n<br>08/11/25 Goedgezind & Flink in gc De Wildeman
+  in Herent   //  UITVERKOCHT\n<br>19/11/25 Goedgezind & Flink in cc De Kruisboog
+  in Tienen //  UITVERKOCHT\n<br>28/11/25 Goedgezind & Flink in cc Dilbeek  //  <a
+  href=\"https://tickets.westrand.be/nl/buyingflow/tickets/26544/53652?_gl=1*141bf78*_gcl_au*MTg2MTk1NDYxOS4xNzQ5MzcxMDMx*_ga*MjAyNDUwMzQyOC4xNzQ5MzcxMDMx*_ga_D2G7KT6JFR*czE3NTEwMjU3OTkkbzckZzEkdDE3NTEwMjU4MzIkajI3JGwwJGgw&genre=HUMOR%2C4%20TAALICONEN\"
   style=\"color: white;\"> Tickets</a>\n<br>04/12/25 Goedgezind & Flink in cc Lanaken
   \ //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lanaken/flow/evenement?event=617130644202&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>05/12/25 Goedgezind & Flink in Leopoldsburg
@@ -69,22 +70,18 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
   style=\"color: white;\"> Tickets</a>\n"
 speellijst_titel: Line-ups en MC
-speellijst: "04/09/25 Line-up met MC Koen Dewulf en Jan Linssen en Jeron Dewulf in
-  Sint Katelijne Waver<br>13/09/25 Set bij Perron Comedy Club in Hamme //  <a href=\"https://beleef.hamme.be/activiteiten/detail/296/perron-comedy-club-roosje-pertz-try-out\"
-  style=\"color: white;\"> Tickets</a> <br>14/09/25 45’ Try-out bij Roxy in Wijgmaal
-  //  <a href=\"https://www.facebook.com/events/henricus-wittebolsstraat-12-3018-leuven-belgië/cinema-roxy-stelt-voor-roy-aernouts-try-out-roosje-pertz/4264090213872951/\"
-  style=\"color: white;\"> Tickets</a> \n<br>18/09/25 Set in Minigolf Linkeroever
-  in Antwerpen<br>20/09/25 Set op Hahalleluju 3: comedy-festival in de Hoogmis in
-  Edegem //  <a href=\"https://www.eventbrite.nl/e/hahalleluja-3-comedy-festival-in-de-hoogmis-tickets-1438505321139\"
-  style=\"color: white;\"> Tickets</a> <br>24, 26, 27, 28, 29, 30 september en 1 oktober
-  MC op Cera comedy nights in Leuven <br>03/10/25 TRY-OUT Goedgezind & Flink in Middelkerke
-  <br>16/10/25 TRY-OUT Goedgezind & Flink in Blankenberge  <br>17/10/25 TRY-OUT Goedgezind
-  & Flink in Houthalen  <br>18/10/25 TRY-OUT Goedgezind & Flink bij de Rugbyclub in
-  Leuven //  <a href=\"https://www.uitinvlaanderen.be/agenda/e/31e-comedy-night-rugby-club-leuven-girlpower-met-roosje-pertz-ariane-van-ha-tvv-dww/b58c1b9c-6163-4e95-ac94-3efea43f4e71\"
-  style=\"color: white;\"> Tickets</a>  <br>21/01/26 Support Iwein Segers in Centrum
-  Hasselt <br>18 en 19/02/26 Support Iwein Segers in Wagehuys Leuven <br>06/03/26
-  MC voor Ariane Van Hasselt, Lev Van Orbeek en Ygor uit Poperinge in Peer <br>26/03/26
-  MC voor Els Verhofstede, Ariane Van Hasselt en Christel Zweers in Lebbeke<br>25/04/26
+speellijst: "20/09/25 Set op Hahalleluju 3: comedy-festival in de Hoogmis in Edegem
+  //  <a href=\"https://www.eventbrite.nl/e/hahalleluja-3-comedy-festival-in-de-hoogmis-tickets-1438505321139\"
+  style=\"color: white;\"> Tickets</a> \n<br>24, 26, 27, 28, 29, 30 september en 1
+  oktober MC op Cera comedy nights in Leuven \n<br>16/10/25 TRY-OUT Goedgezind & Flink
+  in Blankenberge  \n<br>17/10/25 TRY-OUT Goedgezind & Flink in Houthalen  \n<br>10/10/25
+  Set bij Kaffee Claude in Haacht //  <a href=\"eventix.shop/afayjanf\" style=\"color:
+  white;\"> Tickets</a> \n<br>18/10/25 TRY-OUT Goedgezind & Flink bij de Rugbyclub
+  in Leuven //  <a href=\"https://www.uitinvlaanderen.be/agenda/e/31e-comedy-night-rugby-club-leuven-girlpower-met-roosje-pertz-ariane-van-ha-tvv-dww/b58c1b9c-6163-4e95-ac94-3efea43f4e71\"
+  style=\"color: white;\"> Tickets</a>  \n<br>21/01/26 Support Iwein Segers in Centrum
+  Hasselt \n<br>18 en 19/02/26 Support Iwein Segers in Wagehuys Leuven \n<br>06/03/26
+  MC voor Ariane Van Hasselt, Lev Van Orbeek en Ygor uit Poperinge in Peer \n<br>26/03/26
+  MC voor Els Verhofstede, Ariane Van Hasselt en Christel Zweers in Lebbeke\n<br>25/04/26
   Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge "
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
