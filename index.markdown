@@ -91,8 +91,11 @@ speellijst: "20/09/25 Set op Hahalleluju 3: comedy-festival in de Hoogmis in Ede
   Iwein Segers in Wagehuys Leuven \n<br>05/03/26 set in Lint\n<br>06/03/26 MC voor
   Ariane Van Hasselt, Lev Van Orbeek en Ygor uit Poperinge in Peer \n<br>25/03/26
   30' set in Casino Modern in Genk\n<br>26/03/26 MC voor Els Verhofstede, Ariane Van
-  Hasselt en Christel Zweers in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst\n<br>25/04/26
-  Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge "
+  Hasselt en Christel Zweers in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst\n<br>03/04/26
+  45' set in Cult in Hof De Bist in Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\"
+  style=\"color: white;\"> Tickets</a>\n<br>15/04/26 45' set in Cult in Ververij in
+  Kuurne\n<br>25/04/26 Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick
+  Noben in Tielt-Winge "
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
