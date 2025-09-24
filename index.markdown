@@ -92,13 +92,13 @@ speellijst: "20/09/25 Set op Hahalleluju 3: comedy-festival in de Hoogmis in Ede
   style=\"color: white;\"> Tickets</a> \n<br>21/01/26 Support Iwein Segers in Centrum
   Hasselt //  <a href=\"https://narrenhandel.be/shows/comedy-club-met-iwein-segers-het-beste-ooit/\"
   style=\"color: white;\"> Tickets</a>\n<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>18
-  en 19/02/26 Support Iwein Segers in Wagehuys Leuven //  <a href=“https://www.30cc.be/nl/programma/item/return-of-the-goat-2025-2026”
+  en 19/02/26 Support Iwein Segers in Wagehuys Leuven //  <a href=\"https://www.30cc.be/nl/programma/item/return-of-the-goat-2025-2026\"
   style=\"color: white;\"> Tickets</a>\n<br>05/03/26 set in Lint \n<br>06/03/26 MC
   voor Ariane Van Hasselt, Lev Van Orbeek en Ygor uit Poperinge in Peer \n<br>25/03/26
   30' set in Casino Modern in Genk\n<br>26/03/26 MC voor Els Verhofstede, Ariane Van
   Hasselt en Christel Zweers in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst\n<br>03/04/26
   45' set in Hof De Bist in Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\"
-  style=\"color: white;\"> Tickets</a>\n<br>15/04/26 45' set i in Ververij in Kuurne\n<br>25/04/26
+  style=\"color: white;\"> Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26
   Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge
   \n<br>11/05/26 8' set op de Comedy Marathon Capitole Gent\n<br>19/05/26 set op bij
   The Pitch in Kortrijk "
