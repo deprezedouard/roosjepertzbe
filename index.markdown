@@ -54,8 +54,8 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   \ //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
   style=\"color: white;\"> Tickets</a>\n<br>27/02/26 Goedgezind & Flink in gc Tentakel
   in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
-  style=\"color: white;\"> Tickets</a>\n<br>28/02/26 Goedgezind & Flink in EMotia
-  Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
+  style=\"color: white;\"> Laatste tickets</a>\n<br>28/02/26 Goedgezind & Flink in
+  EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a>\n<br>13/03/26 Goedgezind & Flink in Schouwburg
   Noord in Merksem  //  <a href=\"https://www.schouwburgnoord.be/nl/event/roosje-pertz\"
   style=\"color: white;\"> Tickets</a>\n<br>18/03/26 Goedgezind & Flink in cc HA in
