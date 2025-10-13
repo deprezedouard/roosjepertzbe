@@ -85,18 +85,19 @@ speellijst: "<br>16/10/25 TRY-OUT Goedgezind & Flink in Blankenberge //  <a href
   Sint-Corneliuskerk in Aalbeke //  <a href=\"https://www.schouwburgkortrijk.be/programma/goedgezind-flink-try-out-5csx\"
   style=\"color: white;\"> Tickets</a> \n<br>06/11/25 Try-out Goedgezind & Flink bij
   de Foxy in Herentals //  <a href=\"https://www.tickettailor.com/events/newmediaeventsbv/1871593\"
-  style=\"color: white;\"> Tickets</a> \n<br>21/01/26 Support Iwein Segers in Centrum
-  Hasselt //  <a href=\"https://narrenhandel.be/shows/comedy-club-met-iwein-segers-het-beste-ooit/\"
+  style=\"color: white;\"> Tickets</a> \n<br>13/12/25 Set in Diest\n<br>21/01/26 Support
+  Iwein Segers in Centrum Hasselt //  <a href=\"https://narrenhandel.be/shows/comedy-club-met-iwein-segers-het-beste-ooit/\"
   style=\"color: white;\"> Tickets</a>\n<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>18
   en 19/02/26 Support Iwein Segers in Wagehuys Leuven //  <a href=\"https://www.30cc.be/nl/programma/item/return-of-the-goat-2025-2026\"
   style=\"color: white;\"> Tickets</a>\n<br>21/02/26 MC op Nuff Said in De Warande
   in Turnhout //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>
-  \n\n<br>05/03/26 set in Lint \n<br>06/03/26 MC voor Ariane Van Hasselt, Lev Van
-  Orbeek en Ygor uit Poperinge in Peer \n<br>25/03/26 30' set in Casino Modern in
-  Genk\n<br>26/03/26 MC voor Els Verhofstede, Ariane Van Hasselt en Christel Zweers
-  in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst\n<br>03/04/26 45' set in Hof De
-  Bist in Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\" style=\"color:
-  white;\"> Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26
+  \n<br>05/03/26 set in Lint \n<br>06/03/26 MC voor Ariane Van Hasselt, Lev Van Orbeek
+  en Ygor uit Poperinge in Peer \n<br>25/03/26 30' set in Casino Modern in Genk  //
+  \ <a href=\"https://comedy-aan-de-cite.eventsquare.store/nl/jxnege0wecv9/itzysp8kxlcg\"
+  style=\"color: white;\"> Tickets</a>\n<br>26/03/26 MC voor Els Verhofstede, Ariane
+  Van Hasselt en Christel Zweers in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst\n<br>03/04/26
+  45' set in Hof De Bist in Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\"
+  style=\"color: white;\"> Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26
   Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge\n<br>08/05/26
   Set op Nuff Said in De Studio in Antwerpen //  <a href=\"https://nuffsaid.be/\"
   style=\"color: white;\"> Tickets</a> \n<br>09/05/26 Set op Nuff Said in C-mine in
