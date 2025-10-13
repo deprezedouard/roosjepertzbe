@@ -50,8 +50,8 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   in Alsemberg  //  <a href=\"https://www.demeent.be/goedgezind-en-flink\" style=\"color:
   white;\"> Tickets</a>\n<br>12/02/26 Goedgezind & Flink in De Spil Roeselare //  <a
   href=\"https://www.despil.be/agenda/3276/roosje-pertz/goedgezind-flink\" style=\"color:
-  white;\"> Tickets</a> \n<br>25/02/26 Goedgezind & Flink in De Minnepoort in Leuven
-  \ //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
+  white;\"> Laatste tickets</a> \n<br>25/02/26 Goedgezind & Flink in De Minnepoort
+  in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
   style=\"color: white;\"> Laatste tickets</a>\n<br>27/02/26 Goedgezind & Flink in
   gc Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
   style=\"color: white;\">Tickets</a>\n<br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
@@ -70,13 +70,7 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
   style=\"color: white;\"> Tickets</a>\n"
 speellijst_titel: Line-ups en MC
-speellijst: "20/09/25 Set op Hahalleluju 3: comedy-festival in de Hoogmis in Edegem
-  //  <a href=\"https://www.eventbrite.nl/e/hahalleluja-3-comedy-festival-in-de-hoogmis-tickets-1438505321139\"
-  style=\"color: white;\"> Tickets</a> \n<br>24, 26, 27, 28, 29, 30 september en 1
-  oktober MC op Cera comedy nights in Leuven \n<br>09/10/25 Set bij Kaffee Claude
-  in Haacht //  <a href=\"https://shop.weeztix.com/33263e0e-9072-11ef-a9cb-7e126431635e/tickets?shop_code=afayjanf&event=3447dc38-1752-4ea8-9cb2-f331dde101bc\"
-  style=\"color: white;\"> Tickets</a> \n<br>16/10/25 TRY-OUT Goedgezind & Flink in
-  Blankenberge //  <a href=\"https://www.ccblankenberge.be/activiteiten/detail/177/goedgezind-en-flink-try-out-roosje-pertz\"
+speellijst: "<br>16/10/25 TRY-OUT Goedgezind & Flink in Blankenberge //  <a href=\"https://www.ccblankenberge.be/activiteiten/detail/177/goedgezind-en-flink-try-out-roosje-pertz\"
   style=\"color: white;\"> Tickets</a> \n<br>17/10/25 TRY-OUT Goedgezind & Flink in
   Houthalen //  <a href=\"https://visit.houthalen-helchteren.be/activiteiten/detail/1151/roosje-pertz-goedgezind-en-flink-try-out\"
   style=\"color: white;\"> Tickets</a>\n<br>18/10/25 TRY-OUT Goedgezind & Flink bij
@@ -89,19 +83,26 @@ speellijst: "20/09/25 Set op Hahalleluju 3: comedy-festival in de Hoogmis in Ede
   Cabana in As //  <a href=\"https://cabanas.be/tickets/?fbclid=PAZXh0bgNhZW0CMTEAAadgE54vmcgyZcuI-KDpFUOr4SWpoOq7iEPn96KA4vc0_WKI3t4CdhLrr3-6Uw_aem__mVxzNxhzIMtn6rc1EJ_SQ\"
   style=\"color: white;\"> Tickets</a> \n<br>05/11/25 Try-out Goedgezind & Flink bij
   Sint-Corneliuskerk in Aalbeke //  <a href=\"https://www.schouwburgkortrijk.be/programma/goedgezind-flink-try-out-5csx\"
+  style=\"color: white;\"> Tickets</a> \n<br>06/11/25 Try-out Goedgezind & Flink bij
+  de Foxy in Herentals //  <a href=\"https://www.tickettailor.com/events/newmediaeventsbv/1871593\"
   style=\"color: white;\"> Tickets</a> \n<br>21/01/26 Support Iwein Segers in Centrum
   Hasselt //  <a href=\"https://narrenhandel.be/shows/comedy-club-met-iwein-segers-het-beste-ooit/\"
   style=\"color: white;\"> Tickets</a>\n<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>18
   en 19/02/26 Support Iwein Segers in Wagehuys Leuven //  <a href=\"https://www.30cc.be/nl/programma/item/return-of-the-goat-2025-2026\"
-  style=\"color: white;\"> Tickets</a>\n<br>05/03/26 set in Lint \n<br>06/03/26 MC
-  voor Ariane Van Hasselt, Lev Van Orbeek en Ygor uit Poperinge in Peer \n<br>25/03/26
-  30' set in Casino Modern in Genk\n<br>26/03/26 MC voor Els Verhofstede, Ariane Van
-  Hasselt en Christel Zweers in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst\n<br>03/04/26
-  45' set in Hof De Bist in Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\"
-  style=\"color: white;\"> Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26
-  Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge
-  \n<br>11/05/26 8' set op de Comedy Marathon Capitole Gent\n<br>19/05/26 set op bij
-  The Pitch in Kortrijk "
+  style=\"color: white;\"> Tickets</a>\n<br>21/02/26 MC op Nuff Said in De Warande
+  in Turnhout //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>
+  \n\n<br>05/03/26 set in Lint \n<br>06/03/26 MC voor Ariane Van Hasselt, Lev Van
+  Orbeek en Ygor uit Poperinge in Peer \n<br>25/03/26 30' set in Casino Modern in
+  Genk\n<br>26/03/26 MC voor Els Verhofstede, Ariane Van Hasselt en Christel Zweers
+  in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst\n<br>03/04/26 45' set in Hof De
+  Bist in Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\" style=\"color:
+  white;\"> Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26
+  Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge\n<br>08/05/26
+  Set op Nuff Said in De Studio in Antwerpen //  <a href=\"https://nuffsaid.be/\"
+  style=\"color: white;\"> Tickets</a> \n<br>09/05/26 Set op Nuff Said in C-mine in
+  Genk //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>  \n<br>11/05/26
+  8' set op de Comedy Marathon Capitole Gent\n<br>19/05/26 set op bij The Pitch in
+  Kortrijk "
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
