@@ -70,19 +70,8 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
   style=\"color: white;\"> Tickets</a>\n"
 speellijst_titel: Line-ups en MC
-speellijst: "<br>16/10/25 TRY-OUT Goedgezind & Flink in Blankenberge //  <a href=\"https://www.ccblankenberge.be/activiteiten/detail/177/goedgezind-en-flink-try-out-roosje-pertz\"
-  style=\"color: white;\"> Tickets</a> \n<br>17/10/25 TRY-OUT Goedgezind & Flink in
-  Houthalen //  <a href=\"https://visit.houthalen-helchteren.be/activiteiten/detail/1151/roosje-pertz-goedgezind-en-flink-try-out\"
-  style=\"color: white;\"> Tickets</a>\n<br>18/10/25 TRY-OUT Goedgezind & Flink bij
-  de Rugbyclub in Leuven //  <a href=\"https://www.uitinvlaanderen.be/agenda/e/31e-comedy-night-rugby-club-leuven-girlpower-met-roosje-pertz-ariane-van-ha-tvv-dww/b58c1b9c-6163-4e95-ac94-3efea43f4e71\"
-  style=\"color: white;\"> Tickets</a>  \n<br>20/10/25 TRY-OUT Goedgezind & Flink
-  bij De Molen in Zoersel/Nijlen\n<br>24/10/25 TRY-OUT Goedgezind & Flink bij Vrijetijdscentrum
-  De  Schelde in Zandvliet UITVERKOCHT\n<br>28/10/25 TRY-OUT Goedgezind & Flink bij
-  Het loze vissertje in Rupelmonde //  <a href=\"https://lozevissertje.be/programma.html\"
-  style=\"color: white;\"> Tickets</a> \n<br>31/10/25 TRY-OUT Goedgezind & Flink bij
-  Cabana in As //  <a href=\"https://cabanas.be/tickets/?fbclid=PAZXh0bgNhZW0CMTEAAadgE54vmcgyZcuI-KDpFUOr4SWpoOq7iEPn96KA4vc0_WKI3t4CdhLrr3-6Uw_aem__mVxzNxhzIMtn6rc1EJ_SQ\"
-  style=\"color: white;\"> Tickets</a> \n<br>05/11/25 Try-out Goedgezind & Flink bij
-  Sint-Corneliuskerk in Aalbeke //  <a href=\"https://www.schouwburgkortrijk.be/programma/goedgezind-flink-try-out-5csx\"
+speellijst: "<br>05/11/25 Try-out Goedgezind & Flink bij Sint-Corneliuskerk in Aalbeke
+  //  <a href=\"https://www.schouwburgkortrijk.be/programma/goedgezind-flink-try-out-5csx\"
   style=\"color: white;\"> Tickets</a> \n<br>06/11/25 Try-out Goedgezind & Flink bij
   de Foxy in Herentals //  <a href=\"https://www.tickettailor.com/events/newmediaeventsbv/1871593\"
   style=\"color: white;\"> Tickets</a> \n<br>13/12/25 Set in Diest\n<br>21/01/26 Support
