@@ -33,7 +33,7 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   \ //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lanaken/flow/evenement?event=617130644202&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>05/12/25 Goedgezind & Flink in Leopoldsburg
   \  //  <a href=\"https://www.ccleopoldsburg.be/activiteiten/roosje-pertz\" style=\"color:
-  white;\"> Tickets</a>\n<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen //
+  white;\"> Tickets</a> \n<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen //
   \ <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
   style=\"color: white;\"> Tickets</a>\n<br>12/12/25 Goedgezind & Flink in Rumst  //
   \ <a href=\"https://rumst.eventsquare.store/nl/vns5amj5qvst/wy5elwpjgqkm/shows/597504024526\"
