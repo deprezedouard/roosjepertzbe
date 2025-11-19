@@ -33,7 +33,7 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   \ //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lanaken/flow/evenement?event=617130644202&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>05/12/25 Goedgezind & Flink in Leopoldsburg
   \  //  <a href=\"https://www.ccleopoldsburg.be/activiteiten/roosje-pertz\" style=\"color:
-  white;\"> Tickets</a>\n<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen //
+  white;\"> Tickets</a> \n<br>11/12/25 Goedgezind & Flink in Arenberg Antwerpen //
   \ <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
   style=\"color: white;\"> Tickets</a>\n<br>12/12/25 Goedgezind & Flink in Rumst  //
   \ <a href=\"https://rumst.eventsquare.store/nl/vns5amj5qvst/wy5elwpjgqkm/shows/597504024526\"
@@ -42,18 +42,17 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   white;\"> Tickets</a>\n<br>23/01/26 Goedgezind & Flink in cc De Steiger Menen  //
   \ <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\" style=\"color: white;\">
   Tickets</a>\n<br>29/01/26 Goedgezind & Flink in cc Gasthuis Asse  //  <a href=\"https://www.ccasse.be/podium/roosje-pertz\"
-  style=\"color: white;\"> Tickets</a>\n<br>30/01/26 Goedgezind & Flink in cc Lokeren
-  \ //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lokeren/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=11264&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_lokeren%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10000&signature=bf820035ec17b76402685e4be368a6eb19095c0141389b54757ce4fd7b22ce78&skinid=10000#!/addtickets\"
+  style=\"color: black; background-color: white;\"> Laatste tickets</a> \n<br>30/01/26
+  Goedgezind & Flink in cc Lokeren  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lokeren/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=11264&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_lokeren%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10000&signature=bf820035ec17b76402685e4be368a6eb19095c0141389b54757ce4fd7b22ce78&skinid=10000#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>05/02/26 Goedgezind & Flink in Geel //
   \ <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>06/02/26 Goedgezind & Flink in cc De Meent
   in Alsemberg  //  <a href=\"https://www.demeent.be/goedgezind-en-flink\" style=\"color:
-  white;\"> Tickets</a>\n<br>12/02/26 Goedgezind & Flink in De Spil Roeselare //  <a
-  href=\"https://www.despil.be/agenda/3276/roosje-pertz/goedgezind-flink\" style=\"color:
-  black; background-color: white;\"> Laatste tickets</a> \n<br>25/02/26 Goedgezind
-  & Flink in De Minnepoort in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
-  style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>27/02/26
-  Goedgezind & Flink in gc Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
+  white;\"> Tickets</a>\n<br>12/02/26 Goedgezind & Flink in De Spil Roeselare //  <span
+  style=\"color: black; background-color: white;\"> UITVERKOCHT</span>\n<br>25/02/26
+  Goedgezind & Flink in De Minnepoort in Leuven  //  <span style=\"color: black; background-color:
+  white;\"> UITVERKOCHT</span>\n<br>27/02/26 Goedgezind & Flink in gc Tentakel in
+  Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
   style=\"color: white;\">Tickets</a>\n<br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
   //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a>\n<br>13/03/26 Goedgezind & Flink in Schouwburg
