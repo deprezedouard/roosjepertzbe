@@ -73,8 +73,14 @@ speellijst: "<br>05/11/25 Try-out Goedgezind & Flink bij Sint-Corneliuskerk in A
   //  <a href=\"https://www.schouwburgkortrijk.be/programma/goedgezind-flink-try-out-5csx\"
   style=\"color: white;\"> Tickets</a> \n<br>06/11/25 Try-out Goedgezind & Flink bij
   de Foxy in Herentals //  <a href=\"https://www.tickettailor.com/events/newmediaeventsbv/1871593\"
-  style=\"color: white;\"> Tickets</a> \n<br>13/12/25 Set in Diest\n<br>21/01/26 Support
-  Iwein Segers in Centrum Hasselt //  <a href=\"https://narrenhandel.be/shows/comedy-club-met-iwein-segers-het-beste-ooit/\"
+  style=\"color: white;\"> Tickets</a> \n<br>03/12/25 Set op benefietavond tvv Inloophuis
+  Limani in Thor Park Genk  //  <a href=\"https://www.eventbrite.be/e/tickets-comedy-night-benefiet-1674925530349?aff=oddtdtcreator&fbclid=IwY2xjawONUwtleHRuA2FlbQIxMQBicmlkETBpdnZnZVNQUGN0d0VvWkEyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpYPORrYjkI_du7tLikQu7Ivs70rOGwHf1wsf6DWfDEC_nvyXbkRT70iDgnL_aem_KbzKB0RbNCOhjs8WbE5UVw\"
+  style=\"color: white;\"> Tickets</a>\n<br>07/12/25 Set op benefietavond tvv de zieke
+  Lili in CC Zwanberg Heist-op-den-berg //  <a href=\"https://www.zwaneberg.be/nl/event/comedy-for-lili\"
+  style=\"color: white;\"> Tickets</a>\n<br>13/12/25 Set op Gangmaker in het Begijnhof
+  in Diest //  <a href=\"https://www.ccdiest.be/nl/gangmaker-2025\" style=\"color:
+  white;\"> Tickets</a>\n<br>21/01/26 Support Iwein Segers in Centrum Hasselt //  <a
+  href=\"https://narrenhandel.be/shows/comedy-club-met-iwein-segers-het-beste-ooit/\"
   style=\"color: white;\"> Tickets</a>\n<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>18
   en 19/02/26 Support Iwein Segers in Wagehuys Leuven //  <a href=\"https://www.30cc.be/nl/programma/item/return-of-the-goat-2025-2026\"
   style=\"color: white;\"> Tickets</a>\n<br>21/02/26 MC op Nuff Said in De Warande
