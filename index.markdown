@@ -81,13 +81,17 @@ speellijst: "<br>05/11/25 Try-out Goedgezind & Flink bij Sint-Corneliuskerk in A
   in Diest //  <a href=\"https://www.ccdiest.be/nl/gangmaker-2025\" style=\"color:
   white;\"> Tickets</a>\n<br>21/01/26 Support Iwein Segers in Centrum Hasselt //  <a
   href=\"https://narrenhandel.be/shows/comedy-club-met-iwein-segers-het-beste-ooit/\"
-  style=\"color: white;\"> Tickets</a>\n<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>18
-  en 19/02/26 Support Iwein Segers in Wagehuys Leuven //  <a href=\"https://www.30cc.be/nl/programma/item/return-of-the-goat-2025-2026\"
-  style=\"color: white;\"> Tickets</a>\n<br>21/02/26 MC op Nuff Said in De Warande
-  in Turnhout //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>
-  \n<br>05/03/26 set in Lint \n<br>06/03/26 MC voor Ariane Van Hasselt, Lev Van Orbeek
-  en Ygor uit Poperinge in Peer \n<br>25/03/26 30' set in Casino Modern in Genk  //
-  \ <a href=\"https://comedy-aan-de-cite.eventsquare.store/nl/jxnege0wecv9/itzysp8kxlcg\"
+  style=\"color: white;\"> Tickets</a>\n<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>17/02/26
+  \ Goedgezind & Flink in de Hoogmis in Edegem\n<br>18 en 19/02/26 Support Iwein Segers
+  in Wagehuys Leuven //  <a href=\"https://www.30cc.be/nl/programma/item/return-of-the-goat-2025-2026\"
+  style=\"color: white;\"> Tickets</a>\n<br>20/02/26  Benefiet voor Kom Op Tegen Kanker
+  in Bilzen\n<br>21/02/26 MC op Nuff Said in De Warande in Turnhout //  <a href=\"https://nuffsaid.be/\"
+  style=\"color: white;\"> Tickets</a> \n<br>04/03/26 75 minuten set in Evergem \n<br>05/03/26
+  set in  Café Lucienne in Lint //  <a href=\"https://www.cafelucienne.be/agenda\"
+  style=\"color: white;\"> Tickets</a>\n<br>06/03/26 MC voor Ariane Van Hasselt, Lev
+  Van Orbeek en Ygor uit Poperinge in Peer //  <a href=\"https://apps.ticketmatic.com/widgets/bicc_t_poorthuis_peer/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=11783&flow=returnorcheckout&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fbicc_t_poorthuis_peer%2Fshop%2Freturn&saleschannelid=10000&signature=0b419aa93f79e5e929e688b55a3c6300cfecb10a16e7089833e8913337aa7360&skinid=10000#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n<br>25/03/26 30' set in Casino Modern in Genk
+  \ //  <a href=\"https://comedy-aan-de-cite.eventsquare.store/nl/jxnege0wecv9/itzysp8kxlcg\"
   style=\"color: white;\"> Tickets</a>\n<br>26/03/26 MC voor Els Verhofstede, Ariane
   Van Hasselt en Christel Zweers in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst\n<br>03/04/26
   45' set in Hof De Bist in Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\"
