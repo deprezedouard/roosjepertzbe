@@ -75,7 +75,7 @@ speellijst: "<br>05/11/25 Try-out Goedgezind & Flink bij Sint-Corneliuskerk in A
   de Foxy in Herentals //  <a href=\"https://www.tickettailor.com/events/newmediaeventsbv/1871593\"
   style=\"color: white;\"> Tickets</a> \n<br>03/12/25 Set op benefietavond tvv Inloophuis
   Limani in Thor Park Genk  //  <a href=\"https://www.eventbrite.be/e/tickets-comedy-night-benefiet-1674925530349?aff=oddtdtcreator&fbclid=IwY2xjawONUwtleHRuA2FlbQIxMQBicmlkETBpdnZnZVNQUGN0d0VvWkEyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpYPORrYjkI_du7tLikQu7Ivs70rOGwHf1wsf6DWfDEC_nvyXbkRT70iDgnL_aem_KbzKB0RbNCOhjs8WbE5UVw\"
-  style=\"color: white;\"> Tickets</a>\n<br>07/12/25 Set op benefietavond tvv de zieke
+  style=\"color: white;\"> Tickets</a>\n<br>07/12/25 Set op benefietavond tvv de kleine
   Lili in CC Zwanberg Heist-op-den-berg //  <a href=\"https://www.zwaneberg.be/nl/event/comedy-for-lili\"
   style=\"color: white;\"> Tickets</a>\n<br>13/12/25 Set op Gangmaker in het Begijnhof
   in Diest //  <a href=\"https://www.ccdiest.be/nl/gangmaker-2025\" style=\"color:
@@ -99,11 +99,13 @@ speellijst: "<br>05/11/25 Try-out Goedgezind & Flink bij Sint-Corneliuskerk in A
   //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\" style=\"color: white;\">
   Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26 Set in line-up
   met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge //  <a href=\"https://www.tielt-winge.be/activiteiten/detail/1705/comedy-line-up\"
-  style=\"color: white;\"> Tickets</a>\n<br>08/05/26 Set op Nuff Said in De Studio
-  in Antwerpen //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>
-  \n<br>09/05/26 Set op Nuff Said in C-mine in Genk //  <a href=\"https://nuffsaid.be/\"
-  style=\"color: white;\"> Tickets</a>  \n<br>11/05/26 8' set op de Comedy Marathon
-  Capitole Gent\n<br>19/05/26 set op bij The Pitch in Kortrijk "
+  style=\"color: white;\"> Tickets</a>\n<br>02/05/26 Goedgezind & Flink in El Theatro
+  Spaarndam NL\n<br>08/05/26 Set op Nuff Said in De Studio in Antwerpen //  <a href=\"https://nuffsaid.be/\"
+  style=\"color: white;\"> Tickets</a> \n<br>09/05/26 Set op Nuff Said in C-mine in
+  Genk //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>  \n<br>11/05/26
+  8' set op de Comedy Marathon Capitole Gent\n<br>19/05/26 set op bij The Pitch in
+  Kortrijk \n<br>12/06/26 MC voor Maarten D'Haene, Yannick Noben en Piv Huvluv in
+  Proven"
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
