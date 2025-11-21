@@ -93,15 +93,17 @@ speellijst: "<br>05/11/25 Try-out Goedgezind & Flink bij Sint-Corneliuskerk in A
   style=\"color: white;\"> Tickets</a>\n<br>25/03/26 30' set in Casino Modern in Genk
   \ //  <a href=\"https://comedy-aan-de-cite.eventsquare.store/nl/jxnege0wecv9/itzysp8kxlcg\"
   style=\"color: white;\"> Tickets</a>\n<br>26/03/26 MC voor Els Verhofstede, Ariane
-  Van Hasselt en Christel Zweers in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst\n<br>03/04/26
-  45' set in Hof De Bist in Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\"
-  style=\"color: white;\"> Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26
-  Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge\n<br>08/05/26
-  Set op Nuff Said in De Studio in Antwerpen //  <a href=\"https://nuffsaid.be/\"
-  style=\"color: white;\"> Tickets</a> \n<br>09/05/26 Set op Nuff Said in C-mine in
-  Genk //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>  \n<br>11/05/26
-  8' set op de Comedy Marathon Capitole Gent\n<br>19/05/26 set op bij The Pitch in
-  Kortrijk "
+  Van Hasselt en Christel Zweers in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst
+  //  <a href=\"https://www.eventbrite.be/e/cult-comedy-club-met-roosje-pertz-tickets-1905309224179\"
+  style=\"color: white;\"> Tickets</a>\n<br>03/04/26 45' set in Hof De Bist in Ekeren
+  //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\" style=\"color: white;\">
+  Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26 Set in line-up
+  met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge //  <a href=\"https://www.tielt-winge.be/activiteiten/detail/1705/comedy-line-up\"
+  style=\"color: white;\"> Tickets</a>\n<br>08/05/26 Set op Nuff Said in De Studio
+  in Antwerpen //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>
+  \n<br>09/05/26 Set op Nuff Said in C-mine in Genk //  <a href=\"https://nuffsaid.be/\"
+  style=\"color: white;\"> Tickets</a>  \n<br>11/05/26 8' set op de Comedy Marathon
+  Capitole Gent\n<br>19/05/26 set op bij The Pitch in Kortrijk "
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
