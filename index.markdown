@@ -23,17 +23,7 @@ socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
-goedgezind_speellijst: "<br>07/11/25 GC De Wildeman in Herent   //  <span style=\"color:
-  black; background-color: white;\"> UITVERKOCHT</span>\n<br>08/11/25 GCDe Wildeman
-  in Herent   //  <span style=\"color: black; background-color: white;\"> UITVERKOCHT</span>\n<br>19/11/25
-  CC De Kruisboog in Tienen //  <span style=\"color: black; background-color: white;\">
-  UITVERKOCHT</span>\n<br>28/11/25 CC Dilbeek  //  <a href=\"https://tickets.westrand.be/nl/buyingflow/tickets/26544/53652?_gl=1*141bf78*_gcl_au*MTg2MTk1NDYxOS4xNzQ5MzcxMDMx*_ga*MjAyNDUwMzQyOC4xNzQ5MzcxMDMx*_ga_D2G7KT6JFR*czE3NTEwMjU3OTkkbzckZzEkdDE3NTEwMjU4MzIkajI3JGwwJGgw&genre=HUMOR%2C4%20TAALICONEN\"
-  style=\"color: white;\"> Tickets</a>\n<br>04/12/25 CC Lanaken  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lanaken/flow/evenement?event=617130644202&l=nl#!/addtickets\"
-  style=\"color: white;\"> Tickets</a>\n<br>05/12/25 CC Leopoldsburg   //  <a href=\"https://www.ccleopoldsburg.be/activiteiten/roosje-pertz\"
-  style=\"color: white;\"> Tickets</a> \n<br>11/12/25 Arenberg Antwerpen //  <a href=\"https://www.arenberg.be/nl/programma/roosje-pertz/a0NP50000075UJBMA2\"
-  style=\"color: white;\"> Tickets</a>\n<br>12/12/25 De GAM Rumst  //  <a href=\"https://rumst.eventsquare.store/nl/vns5amj5qvst/wy5elwpjgqkm/shows/597504024526\"
-  style=\"color: white;\"> Tickets</a>\n<br>19/12/25 CC Zwevegem //  <a href=\"https://tickets.zwevegem.be/nl/buyingflow/tickets/26631/53762\"
-  style=\"color: white;\"> Tickets</a>\n<br>23/01/26 CC De Steiger Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\"
+goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\"
   style=\"color: white;\"> Tickets</a>\n<br>29/01/26 CC Gasthuis Asse  //  <a href=\"https://www.ccasse.be/podium/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a> \n<br>30/01/26
   CC Lokeren  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lokeren/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=11264&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_lokeren%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10000&signature=bf820035ec17b76402685e4be368a6eb19095c0141389b54757ce4fd7b22ce78&skinid=10000#!/addtickets\"
