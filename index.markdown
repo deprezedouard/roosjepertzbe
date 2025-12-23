@@ -49,11 +49,11 @@ goedgezind_speellijst: "<br>07/11/25 Goedgezind & Flink in gc De Wildeman in Her
   style=\"color: white;\"> Tickets</a>\n<br>06/02/26 Goedgezind & Flink in cc De Meent
   in Alsemberg  //  <a href=\"https://www.demeent.be/goedgezind-en-flink\" style=\"color:
   white;\"> Tickets</a>\n<br>12/02/26 Goedgezind & Flink in De Spil Roeselare //  <a
-  href=\"https://www.despil.be/agenda/goedgezind-flink-bfmb\" style=\"color: white;\">
-  Wachtlijst</a>\n<br>25/02/26 Goedgezind & Flink in De Minnepoort in Leuven  //  <a
-  href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\" style=\"color:
-  white;\"> Wachtlijst</a>\n<br>27/02/26 Goedgezind & Flink in gc Tentakel in Zonhoven
-  \ //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
+  href=\"https://www.despil.be/agenda/goedgezind-flink-bfmb\" style=\"color: black;
+  background-color: white;\"> Wachtlijst</a>  \n<br>25/02/26 Goedgezind & Flink in
+  De Minnepoort in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
+  style=\"color: black; background-color: white;\"> Wachtlijst</a>  \n<br>27/02/26
+  Goedgezind & Flink in gc Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
   style=\"color: white;\">Tickets</a>\n<br>28/02/26 Goedgezind & Flink in EMotia Erpe-Mere
   //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: white;\"> Tickets</a>\n<br>13/03/26 Goedgezind & Flink in Schouwburg
