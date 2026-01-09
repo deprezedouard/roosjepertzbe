@@ -48,7 +48,7 @@ goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen  //  <a href=\"https://
   \ //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"
   style=\"color: white;\"> Tickets</a>\n<br>16/04/26 CC De Klaproos in Deinze  //
   \ <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\" style=\"color:
-  white;\"> Tickets</a>\n"
+  white;\"> Laatste tickets</a>\n"
 speellijst_titel: Line-ups en MC
 speellijst: "<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>17/02/26  Goedgezind
   & Flink in de Hoogmis in Edegem\n<br>20/02/26  Benefiet voor Kom Op Tegen Kanker
