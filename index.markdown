@@ -67,9 +67,9 @@ speellijst: "<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>17/02/26  Goedge
   Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26 Set in line-up
   met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge //  <a href=\"https://www.tielt-winge.be/activiteiten/detail/1705/comedy-line-up\"
   style=\"color: white;\"> Tickets</a>\n<br>26/04/26 Goedgezind & Flink (zonder decor)
-  OC Berkenhof in Kortenberg //  <a href=\"https://www.kortenberg.be/activiteiten/detail/1073/cultuur-kortbij-roosje-pertz-goedgezind-en-flink\"color:
-  white;\"> Tickets</a>\n<br>02/05/26 Goedgezind & Flink in El Theatro Spaarndam NL\n<br>08/05/26
-  Set op Nuff Said in De Studio in Antwerpen //  <a href=\"https://nuffsaid.be/\"
+  OC Berkenhof in Kortenberg //  <a href=\"https://www.kortenberg.be/activiteiten/detail/1073/cultuur-kortbij-roosje-pertz-goedgezind-en-flink\"
+  style=\"color: white;\"> Tickets</a>\n<br>02/05/26 Goedgezind & Flink in El Theatro
+  Spaarndam NL\n<br>08/05/26 Set op Nuff Said in De Studio in Antwerpen //  <a href=\"https://nuffsaid.be/\"
   style=\"color: white;\"> Tickets</a> \n<br>09/05/26 Set op Nuff Said in C-mine in
   Genk //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>  \n<br>11/05/26
   8' set op de Comedy Marathon Capitole Gent\n<br>19/05/26 set op bij The Pitch in
