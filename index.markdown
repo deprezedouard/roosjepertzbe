@@ -53,6 +53,8 @@ speellijst_titel: Line-ups en MC
 speellijst: "<br>07/02/26 Set bij De Buren in Brussel //  <a href=\"https://deburen.eu/programma/lachen-met-deburen-2026\"
   style=\"color: white;\"> Tickets</a>\n<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>17/02/26
   \ Goedgezind & Flink in de Hoogmis in Edegem // //  <a href=\"https://hoogmisroosjepertz.tickoweb.be/selection\"
+  style=\"color: white;\"> Tickets</a> \n<br>18/02/26  Voorprogramma Iwein Segers
+  in Wagehuys Leuven //  <a href=\"https://fienta.com/nl/het-beste-ooit-i-iwein-segers\"
   style=\"color: white;\"> Tickets</a> \n<br>20/02/26  Benefiet voor Kom Op Tegen
   Kanker in Bilzen\n<br>21/02/26 MC op Nuff Said in De Warande in Turnhout //  <a
   href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a> \n<br>04/03/26
