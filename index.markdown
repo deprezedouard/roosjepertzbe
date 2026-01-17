@@ -50,11 +50,13 @@ goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen  //  <a href=\"https://
   \ <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\" style=\"color:
   black; background-color: white;\">Laatste tickets</a>\n"
 speellijst_titel: Line-ups en MC
-speellijst: "<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>17/02/26  Goedgezind
-  & Flink in de Hoogmis in Edegem\n<br>20/02/26  Benefiet voor Kom Op Tegen Kanker
-  in Bilzen\n<br>21/02/26 MC op Nuff Said in De Warande in Turnhout //  <a href=\"https://nuffsaid.be/\"
-  style=\"color: white;\"> Tickets</a> \n<br>04/03/26 75 minuten set in Evergem \n<br>05/03/26
-  set in  Café Lucienne in Lint //  <a href=\"https://www.cafelucienne.be/agenda\"
+speellijst: "<br>07/02/26 Set bij De Buren in Brussel //  <a href=\"https://deburen.eu/programma/lachen-met-deburen-2026\"
+  style=\"color: white;\"> Tickets</a>\n<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>17/02/26
+  \ Goedgezind & Flink in de Hoogmis in Edegem // //  <a href=\"https://hoogmisroosjepertz.tickoweb.be/selection\"
+  style=\"color: white;\"> Tickets</a> \n<br>20/02/26  Benefiet voor Kom Op Tegen
+  Kanker in Bilzen\n<br>21/02/26 MC op Nuff Said in De Warande in Turnhout //  <a
+  href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a> \n<br>04/03/26
+  75 minuten set in Evergem \n<br>05/03/26 set in  Café Lucienne in Lint //  <a href=\"https://www.cafelucienne.be/agenda\"
   style=\"color: white;\"> Tickets</a>\n<br>06/03/26 MC voor Ariane Van Hasselt, Lev
   Van Orbeek en Ygor uit Poperinge in Peer //  <a href=\"https://apps.ticketmatic.com/widgets/bicc_t_poorthuis_peer/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=11783&flow=returnorcheckout&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fbicc_t_poorthuis_peer%2Fshop%2Freturn&saleschannelid=10000&signature=0b419aa93f79e5e929e688b55a3c6300cfecb10a16e7089833e8913337aa7360&skinid=10000#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>25/03/26 30' set in Casino Modern in Genk
