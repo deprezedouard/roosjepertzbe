@@ -40,8 +40,8 @@ goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen  //  <a href=\"https://
   \ //  <a href=\"https://apps.ticketmatic.com/widgets/schouwburg_noord/flow/tickets?event=573247500635&l=nl#!/waitinglist\"
   style=\"color: black; background-color: white;\"> Wachtlijst</a>  \n<br>18/03/26
   CC HA in Hasselt  //  <a href=\"https://www.ccha.be/programma/5491/roosje-pertz/goedgezind-en-flink\"
-  style=\"color: white;\"> Tickets</a>\n<br>20/03/26 CC Gasthuis in Aarschot //  <a
-  href=\"https://apps.ticketmatic.com/widgets/gasthuis/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=17626&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fgasthuis%2Fshop-2%2Freturn%3Fl%3Dnl&saleschannelid=2&signature=8d14d0720482a33a18b5872c37e9dc80d371b31bb4ecc24e2dbc3db419fdad16&skinid=1#!/addtickets\"
+  style=\"color: white;\"> Laatste tickets</a>\n<br>20/03/26 CC Gasthuis in Aarschot
+  //  <a href=\"https://apps.ticketmatic.com/widgets/gasthuis/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=17626&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fgasthuis%2Fshop-2%2Freturn%3Fl%3Dnl&saleschannelid=2&signature=8d14d0720482a33a18b5872c37e9dc80d371b31bb4ecc24e2dbc3db419fdad16&skinid=1#!/addtickets\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>21/03/26
   GC De Bunder in Moorslede  //  <a href=\"https://webshopmoorslede.recreatex.be/Tickets/Detail\"
   style=\"color: white;\"> Tickets</a>\n<br>27/03/26 GC De Meermin in Waasmunster
