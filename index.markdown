@@ -23,10 +23,10 @@ socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
-goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen  //  <a href=\"https://www.ccdesteiger.be/nl/event/roosje-pertz\"
-  style=\"color: white;\"> Afgelopen</a>\n<br>29/01/26 CC Gasthuis Asse  //  <a href=\"https://www.ccasse.be/podium/roosje-pertz\"
-  style=\"color: black; background-color: white;\"> Laatste tickets</a> \n<br>30/01/26
-  CC Lokeren  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_lokeren/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=11264&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_lokeren%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10000&signature=bf820035ec17b76402685e4be368a6eb19095c0141389b54757ce4fd7b22ce78&skinid=10000#!/addtickets\"
+goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthuis
+  Asse  //  <a href=\"https://www.ccasse.be/podium/roosje-pertz\" style=\"color: black;
+  background-color: white;\"> Laatste tickets</a> \n<br>30/01/26 CC Lokeren  //  <a
+  href=\"https://apps.ticketmatic.com/widgets/cc_lokeren/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=11264&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_lokeren%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10000&signature=bf820035ec17b76402685e4be368a6eb19095c0141389b54757ce4fd7b22ce78&skinid=10000#!/addtickets\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>05/02/26
   CC De Werft Geel //  <a href=\"https://apps.ticketmatic.com/widgets/cc_de_werft/flow/verkoopslinkregulier?event=744516276377&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>06/02/26 CC De Meent in Alsemberg  //
