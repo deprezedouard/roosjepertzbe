@@ -42,9 +42,9 @@ goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthu
   style=\"color: black; background-color: white;\"> Laatste tickets </a>\n<br>21/03/26
   GC De Bunder in Moorslede  //  <a href=\"https://webshopmoorslede.recreatex.be/Tickets/Detail\"
   style=\"color: white;\"> Tickets</a>\n<br>27/03/26 GC De Meermin in Waasmunster
-  \ //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"style=\"color:
-  black; background-color: white;\"> Laatste tickets</a>\n<br>16/04/26 CC De Klaproos
-  in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
+  \ //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"
+  style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>16/04/26
+  CC De Klaproos in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\">Laatste tickets</a>\n"
 speellijst_titel: Line-ups en MC
 speellijst: "<br>07/02/26 Set bij De Buren in Brussel //  <a href=\"https://deburen.eu/programma/lachen-met-deburen-2026\"
