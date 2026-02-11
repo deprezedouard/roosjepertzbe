@@ -45,9 +45,7 @@ goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthu
   CC De Klaproos in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\">Laatste tickets</a>\n"
 speellijst_titel: Line-ups en MC
-speellijst: "<br>07/02/26 Set bij De Buren in Brussel //  <a href=\"https://deburen.eu/programma/lachen-met-deburen-2026\"
-  style=\"color: white;\"> Tickets</a>\n<br>11/02/26 Set in de Trukendoos in Stasegem\n<br>17/02/26
-  \ Goedgezind & Flink in de Hoogmis in Edegem // //  <a href=\"https://hoogmisroosjepertz.tickoweb.be/selection\"
+speellijst: "<br>17/02/26  Goedgezind & Flink in de Hoogmis in Edegem // //  <a href=\"https://hoogmisroosjepertz.tickoweb.be/selection\"
   style=\"color: white;\"> Tickets</a> \n<br>18/02/26  Voorprogramma Iwein Segers
   in Wagehuys Leuven //  <a href=\"https://fienta.com/nl/het-beste-ooit-i-iwein-segers\"
   style=\"color: white;\"> Tickets</a> \n<br>20/02/26  Benefiet voor Kom Op Tegen
@@ -59,12 +57,11 @@ speellijst: "<br>07/02/26 Set bij De Buren in Brussel //  <a href=\"https://debu
   style=\"color: white;\"> Tickets</a>\n<br>25/03/26 30' set in Casino Modern in Genk
   \ //  <a href=\"https://comedy-aan-de-cite.eventsquare.store/nl/jxnege0wecv9/itzysp8kxlcg\"
   style=\"color: white;\"> Tickets</a>\n<br>26/03/26 MC voor Els Verhofstede, Ariane
-  Van Hasselt en Christel Zweers in Lebbeke\n<br>01/04/26 45' set in Cult in Aalst
-  //  <a href=\"https://www.eventbrite.be/e/cult-comedy-club-met-roosje-pertz-tickets-1905309224179\"
-  style=\"color: white;\"> Tickets</a>\n<br>03/04/26 45' set in Hof De Bist in Ekeren
-  //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\" style=\"color: white;\">
-  Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26 Set in line-up
-  met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge //  <a href=\"https://www.tielt-winge.be/activiteiten/detail/1705/comedy-line-up\"
+  Van Hasselt en Christel Zweers in Lebbeke\n<br>03/04/26 45' set in Hof De Bist in
+  Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\" style=\"color:
+  white;\"> Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26
+  Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge
+  //  <a href=\"https://www.tielt-winge.be/activiteiten/detail/1705/comedy-line-up\"
   style=\"color: white;\"> Tickets</a>\n<br>26/04/26 Goedgezind & Flink (zonder decor)
   OC Berkenhof in Kortenberg //  <a href=\"https://www.kortenberg.be/activiteiten/detail/1073/cultuur-kortbij-roosje-pertz-goedgezind-en-flink\"
   style=\"color: white;\"> Tickets</a>\n<br>30/04/26 MC in De Bammerd in Heers \n<br>02/05/26
