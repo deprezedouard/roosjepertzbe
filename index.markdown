@@ -25,7 +25,7 @@ socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthuis
   Asse  \n<br>30/01/26 CC Lokeren \n<br>05/02/26 CC De Werft Geel\n<br>06/02/26 CC
-  De Meent in Alsemberg \n<br>12/02/26 CC De Spil Roeselare // <a href=https://www.despil.be/agenda/goedgezind-flink-bfmb\"
+  De Meent in Alsemberg \n<br>12/02/26 CC De Spil Roeselare // <a href=\"https://www.despil.be/agenda/goedgezind-flink-bfmb\"
   style=\"color: black; background-color: white;\">Uitverkocht</a>  \n<br>25/02/26
   CC De Minnepoort in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
   style=\"color: black; background-color: white;\"> Uitverkocht - Wachtlijst</a>  \n<br>27/02/26
