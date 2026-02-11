@@ -26,7 +26,7 @@ goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthuis
   Asse  \n<br>30/01/26 CC Lokeren \n<br>05/02/26 CC De Werft Geel\n<br>06/02/26 CC
   De Meent in Alsemberg \n<br>12/02/26 CC De Spil Roeselare // <a href=https://www.despil.be/agenda/goedgezind-flink-bfmb\"
-  style=\"color: black; background-color: white;\">Uitverkocht - Wachtlijst</a>  \n<br>25/02/26
+  style=\"color: black; background-color: white;\">Uitverkocht</a>  \n<br>25/02/26
   CC De Minnepoort in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
   style=\"color: black; background-color: white;\"> Uitverkocht - Wachtlijst</a>  \n<br>27/02/26
   GC Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
@@ -36,8 +36,8 @@ goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthu
   style=\"color: black; background-color: white;\">Uitverkocht - Wachtlijst</a>  \n<br>18/03/26
   CC HA in Hasselt  //  <a href=\"https://www.ccha.be/programma/5491/roosje-pertz/goedgezind-en-flink\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>20/03/26
-  CC Gasthuis in Aarschot //  <a href=\"https://apps.ticketmatic.com/widgets/gasthuis/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=17626&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fgasthuis%2Fshop-2%2Freturn%3Fl%3Dnl&saleschannelid=2&signature=8d14d0720482a33a18b5872c37e9dc80d371b31bb4ecc24e2dbc3db419fdad16&skinid=1#!/addtickets\"
-  style=\"color: black; background-color: white;\"> Laatste tickets </a>\n<br>21/03/26
+  CC Gasthuis in Aarschot // <a href=\"https://apps.ticketmatic.com/widgets/gasthuis/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=17626&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fgasthuis%2Fshop-2%2Freturn%3Fl%3Dnl&saleschannelid=2&signature=8d14d0720482a33a18b5872c37e9dc80d371b31bb4ecc24e2dbc3db419fdad16&skinid=1#!/addtickets\"
+  style=\"color: black; background-color: white;\">Uitverkocht</a>  \n<br>21/03/26
   GC De Bunder in Moorslede  //  <a href=\"https://webshopmoorslede.recreatex.be/Tickets/Detail\"
   style=\"color: white;\"> Tickets</a>\n<br>27/03/26 GC De Meermin in Waasmunster
   \ //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"
