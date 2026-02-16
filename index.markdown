@@ -25,9 +25,8 @@ socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthuis
   Asse  \n<br>30/01/26 CC Lokeren \n<br>05/02/26 CC De Werft Geel\n<br>06/02/26 CC
-  De Meent in Alsemberg \n<br>12/02/26 CC De Spil Roeselare // <a href=\"https://www.despil.be/agenda/goedgezind-flink-bfmb\"
-  style=\"color: black; background-color: white;\">Uitverkocht</a>  \n<br>25/02/26
-  CC De Minnepoort in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
+  De Meent in Alsemberg \n<br>12/02/26 CC De Spil Roeselare\n<br>25/02/26 CC De Minnepoort
+  in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
   style=\"color: black; background-color: white;\"> Uitverkocht - Wachtlijst</a>  \n<br>27/02/26
   GC Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
   style=\"color: white;\">Tickets</a>\n<br>28/02/26 CC EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
@@ -67,12 +66,13 @@ speellijst: "<br>17/02/26  Goedgezind & Flink in de Hoogmis in Edegem // //  <a 
   style=\"color: white;\"> Tickets</a>\n<br>30/04/26 MC in De Bammerd in Heers  //
   \ <a href=\"https://comedy-night-heers.eventsquare.store/nl/ksh4xsxmspt7/stcfzjbw4jql?fbclid=IwdGRjcAP5KMJjbGNrA_kotGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHkBDlDwfJskC36BxmpgIaD65he92mEM6G9pebilV7ZJ9WykBQzrqVZpe2Hg6_aem_p7vpEYtRgOm6OLaNvv2J1A\"
   style=\"color: white;\"> Tickets</a>\n<br>02/05/26 Goedgezind & Flink in El Theatro
-  Spaarndam NL\n<br>08/05/26 Set op Nuff Said in De Studio in Antwerpen //  <a href=\"https://nuffsaid.be/\"
-  style=\"color: white;\"> Tickets</a> \n<br>09/05/26 Set op Nuff Said in C-mine in
-  Genk //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>  \n<br>11/05/26
-  8' set op de Comedy Marathon Capitole Gent\n<br>19/05/26 set op bij The Pitch in
-  Kortrijk \n<br>12/06/26 MC voor Maarten D'Haene, Yannick Noben en Piv Huvluv in
-  Proven"
+  Spaarndam NL//  <a href=\"https://shop.ikbenaanwezig.nl/tickets/event/roosje-pertz\"
+  style=\"color: white;\"> Tickets</a>\n<br>08/05/26 Set op Nuff Said in De Studio
+  in Antwerpen //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>
+  \n<br>09/05/26 Set op Nuff Said in C-mine in Genk //  <a href=\"https://nuffsaid.be/\"
+  style=\"color: white;\"> Tickets</a>  \n<br>11/05/26 8' set op de Comedy Marathon
+  Capitole Gent\n<br>19/05/26 set op bij The Pitch in Kortrijk \n<br>12/06/26 MC voor
+  Maarten D'Haene, Yannick Noben en Piv Huvluv in Proven"
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
