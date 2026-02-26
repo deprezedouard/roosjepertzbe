@@ -29,8 +29,8 @@ goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthu
   in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
   style=\"color: black; background-color: white;\"> Uitverkocht - Wachtlijst</a>  \n<br>27/02/26
   GC Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
-  style=\"color: white;\">Laatste tickets</a>\n<br>28/02/26 CC EMotia Erpe-Mere //
-  \ <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
+  style=\"color: black; background-color: white;\">Laatste tickets</a>\n<br>28/02/26
+  CC EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>13/03/26
   \ Schouwburg Noord in Merksem  //  <a href=\"https://apps.ticketmatic.com/widgets/schouwburg_noord/flow/tickets?event=573247500635&l=nl#!/waitinglist\"
   style=\"color: black; background-color: white;\">Uitverkocht - Wachtlijst</a>  \n<br>18/03/26
