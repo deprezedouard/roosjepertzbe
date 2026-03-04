@@ -75,7 +75,7 @@ speellijst: "<br>17/02/26  Goedgezind & Flink in de Hoogmis in Edegem // //  <a 
   Capitole Gent\n<br>19/05/26 set op bij The Pitch in Kortrijk \n<br>12/06/26 MC voor
   Maarten D'Haene, Yannick Noben en Piv Huvluv in Proven"
 speellijst_button: Boek Roosje
-podcast_title: Het laatste taboe
+podcast_title: 'Podcast: Het laatste taboe'
 getuigenissen_title: Getuigenissen van collega's
 getuigenissen_text: "'Zonder twijfel de allergrappigste blondine van heel Kessel-Lo
   West tussen de Gemeentestraat en de Diestsesteenweg (ter hoogte van bakkerij Stevens).
