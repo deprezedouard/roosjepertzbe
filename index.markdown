@@ -261,7 +261,7 @@ layout: default
       <div class="row pb-5">
         <div class="col-0 col-md-1"></div>
         <div class="d-flex justify-content-center mt-4 col-12 col-md-10">
-          <iframe style="max-width: 600px;" width="80%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://open.spotify.com/show/525pbJO7cxgSCCCy358XOx&color=%23f3dcdc&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
+          <iframe style="max-width: 600px;" width="80%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://open.spotify.com/show/525pbJO7cxgSCCCy358XOx"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
         </div>
       </div>
     </div>
