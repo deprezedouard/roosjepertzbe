@@ -43,7 +43,7 @@ goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthu
   \ //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\"> Laatste 14 tickets</a>\n<br>16/04/26
   CC De Klaproos in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
-  style=\"color: black; background-color: white;\">Allerlaatste ticket</a\n<br>NIEUW:
+  style=\"color: black; background-color: white;\">Allerlaatste ticket</a>\n<br>NIEUW:
   03/06/26 De Minard in Gent  //  <a href=\"https://minard.be/voorstelling/roosje-pertz-goedgezind-flink/\"
   style=\"color: white;\">Tickets</a>"
 speellijst_titel: Line-ups en MC
