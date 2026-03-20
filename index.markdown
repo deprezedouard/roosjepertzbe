@@ -24,15 +24,14 @@ socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">Tournee
-  2025-2026 - laatste shows - wees erbij!</span>\n<br>\n<br>21/03/26 GC De Bunder
-  in Moorslede  //  <a href=\"https://webshopmoorslede.recreatex.be/Tickets/Detail\"
-  style=\"color: white;\"> Tickets</a>\n<br>27/03/26 GC De Meermin in Waasmunster
-  \ //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"
+  2025-2026 - laatste shows - wees erbij!</span>\n\n<br>21/03/26 GC De Bunder in Moorslede
+  \ //  <a href=\"https://webshopmoorslede.recreatex.be/Tickets/Detail\" style=\"color:
+  white;\"> Tickets</a>\n<br>27/03/26 GC De Meermin in Waasmunster  //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\"> Laatste 12 tickets</a>\n<br>16/04/26
   CC De Klaproos in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\">Uitverkocht</a> \n<br>NIEUW: 03/06/26
   De Minard in Gent  //  <a href=\"https://minard.be/voorstelling/roosje-pertz-goedgezind-flink/\"
-  style=\"color: white;\">Tickets</a>\n<br>\n<br>\n<span style=\"color: black; background-color:
+  style=\"color: white;\">Tickets</a>\n<br>\n<span style=\"color: black; background-color:
   white;\">Tournee 2026-2027 - tickets online vanaf midden juni</span>\n<br>\n<br>18/09/26
   in Wichelen\n<br>19/09/26 in GC De Lijsterbes in Kraainem\n<br>01/10/26 in CC De
   Binder Puurs - Sint Amands\n<br>08/10/26 in Grobbendonck\n<br>21/11/26 in CC Fabriek
