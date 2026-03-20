@@ -1,20 +1,9 @@
 ---
 title: Roosje Pertz
 bio_title_h1: Roosje Pertz, stand-up comedian en MC
-bio_description: "Roosje Pertz kreeg in 1999 van haar moeder het slecht ontvangen
-  advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden
-  dat ze stand-upcomedian moest worden.<br><br>\nSinds 2018 combineert Roosje met
-  groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij
-  een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met
-  haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke
-  MC doet Roosje zelfs het meest ijzige publiek ontvlammen. <br><br> In 2019 nam Michael
-  Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won
-  ze Comedy Match in Eindhoven. <br><br>Op dit eigenste moment werkt ze aan haar avondvullende
-  voorstelling Goedgezind & Flink, daarin sterk belemmerd door het comfort van het
-  stabiel inkomen van haar échte job. <br><br> Roosje is bezeten door eten en dat
-  hoor je in haar podcast KiloCast. Met een Leuvens accent. Ooit wordt dat weer hip.
-  Roosje is heel sociaal op Twitter, Youtube, Facebook en Instagram. TikTok zou ook
-  echt goed zijn voor haar carrière, maar geef toe, daar kruipt veel tijd in. "
+bio_description: |-
+  Roosje Pertz kreeg in 1999 van haar moeder het slecht ontvangen advies niet langer met haar mond open voor zich uit te staren. Haar vrienden vonden dat ze stand-upcomedian moest worden.<br><br>
+  Sinds 2018 combineert Roosje met groot succes beide gouden tips. Roosjes rake observaties vallen in de smaak bij een breed publiek. Goedgezind en flink, maar niet té braaf. Roosje gidst je met haar aparte blik langs de geijkte paadjes van de middenklasse. Als aanstekelijke MC doet Roosje zelfs het meest ijzige publiek ontvlammen. <br><br> In 2019 nam Michael Van Peel Roosje mee op tournee als een van zijn Young Ones. <br><br> In 2021 won ze Comedy Match in Eindhoven. <br><br>Op dit eigenste moment tour ze met haar avondvullende voorstelling Goedgezind & Flink. <br><br> Roosje is bezeten door eten en dat hoor je in haar podcast KiloCast. Samen met Robin Broos betwist ze tweewekelijks of een in de pers genoemd 'laatste taboe' echt een 'laatste taboe' is in de podcast Het laatste taboe. Met een Leuvens accent. Ooit wordt dat weer hip. Roosje is heel sociaal op Threads, Youtube, Facebook en Instagram. Met TikTok is ze onlangs begonnen, late adapters moeten er ook zijn!
 bio_button: Luister naar Roosjes podcast
 bio_button_2: Boek Roosje
 socials_instagram_title: Roosje op Instagram
