@@ -23,21 +23,7 @@ socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
-goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthuis
-  Asse  \n<br>30/01/26 CC Lokeren \n<br>05/02/26 CC De Werft Geel\n<br>06/02/26 CC
-  De Meent in Alsemberg \n<br>12/02/26 CC De Spil Roeselare\n<br>25/02/26 CC De Minnepoort
-  in Leuven  //  <a href=\"https://www.30cc.be/nl/programma/item/goedgezind-en-flink-2025-2026\"
-  style=\"color: black; background-color: white;\"> Uitverkocht - Wachtlijst</a>  \n<br>27/02/26
-  GC Tentakel in Zonhoven  //  <a href=\"https://reservaties.zonhoven.be/Tickets/Ticketdetail/tabid/118/Default.aspx?ActivityID=5kaQ4kBfcQ4%3d\"
-  style=\"color: black; background-color: white;\">Laatste tickets</a>\n<br>28/02/26
-  CC EMotia Erpe-Mere //  <a href=\"https://webshop.erpe-mere.be/Tickets/Detail?shop=27894507-1118-4320-892D-2D2F725AC25A&code=ROOSJEPERTZ\"
-  style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>13/03/26
-  \ Schouwburg Noord in Merksem  //  <a href=\"https://apps.ticketmatic.com/widgets/schouwburg_noord/flow/tickets?event=573247500635&l=nl#!/waitinglist\"
-  style=\"color: black; background-color: white;\">Uitverkocht - Wachtlijst</a>  \n<br>18/03/26
-  CC HA in Hasselt  //  <a href=\"https://www.ccha.be/programma/5491/roosje-pertz/goedgezind-en-flink\"
-  style=\"color: black; background-color: white;\"> Uitverkocht - Wachtlijst</a>\n<br>20/03/26
-  CC Gasthuis in Aarschot // <a href=\"https://apps.ticketmatic.com/widgets/gasthuis/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=17626&flow=returnorcheckout&l=nl&returnurl=http%3A%2F%2Fticketshop.ticketmatic.com%2Fgasthuis%2Fshop-2%2Freturn%3Fl%3Dnl&saleschannelid=2&signature=8d14d0720482a33a18b5872c37e9dc80d371b31bb4ecc24e2dbc3db419fdad16&skinid=1#!/addtickets\"
-  style=\"color: black; background-color: white;\">Uitverkocht</a>  \n<br>21/03/26
+goedgezind_speellijst: "Tournee 2025-2026 - laatste shows - wees erbij!  \n\n<br>21/03/26
   GC De Bunder in Moorslede  //  <a href=\"https://webshopmoorslede.recreatex.be/Tickets/Detail\"
   style=\"color: white;\"> Tickets</a>\n<br>27/03/26 GC De Meermin in Waasmunster
   \ //  <a href=\"https://www.waasmunster.be/activiteiten/detail/1891/goedgezind-en-flink-roosje-pertz\"
@@ -45,7 +31,14 @@ goedgezind_speellijst: "<br>23/01/26 CC De Steiger Menen\n<br>29/01/26 CC Gasthu
   CC De Klaproos in Deinze  //  <a href=\"https://www.leietheater.be/goedgezind-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\">Uitverkocht</a> \n<br>NIEUW: 03/06/26
   De Minard in Gent  //  <a href=\"https://minard.be/voorstelling/roosje-pertz-goedgezind-flink/\"
-  style=\"color: white;\">Tickets</a>"
+  style=\"color: white;\">Tickets</a>\n\nTournee 2026-2027 - tickets online vanaf
+  midden juni\n\n<br>18/09/26 in Wichelen\n<br>19/09/26 in GC De Lijsterbes in Kraainem\n<br>01/10/26
+  in CC De Binder Puurs - Sint Amands\n<br>08/10/26 in Grobbendonck\n<br>21/11/26
+  in CC Fabriek Sint-Lievens-Houtem\n<br>27/11/26 in De Kern in Wilrijk\n<br>05/12/26
+  in Vorselaar \n<br>12/02/27 in Cinema Walburg in Hamont-Achel\n<br>17/02/27 in Cinema
+  Plaza in Duffel\n<br>19/02/27 in Cultuurhuis Stekene\n<br>10/03/27 in GC Gasthuis
+  Wijnegem (succesoptie)\n<br>11/03/27 in GC Gasthuis Wijnegem\n<br>12/03/27 in CC
+  De Ploter Ternat\n<br>26/05/27 in CC De Borre in Bierbeek"
 speellijst_titel: Line-ups en MC
 speellijst: "<br>25/03/26 30' set in Casino Modern in Genk  //  <a href=\"https://comedy-aan-de-cite.eventsquare.store/nl/jxnege0wecv9/itzysp8kxlcg\"
   style=\"color: white;\"> Tickets</a>\n<br>26/03/26 MC voor Els Verhofstede, Ariane
