@@ -21,14 +21,15 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   De Minard in Gent  //  <a href=\"https://minard.be/voorstelling/roosje-pertz-goedgezind-flink/\"
   style=\"color: white;\">Tickets</a>\n<br>\n<br>\n<span style=\"color: black; background-color:
   white;\">Tournee 2026-2027 - tickets online vanaf midden juni</span>\n<br>\n<br>18/09/26
-  in Wichelen\n<br>19/09/26 in GC De Lijsterbes in Kraainem\n<br>01/10/26 in CC Binder
-  Puurs-Sint-Amands\n<br>08/10/26 in Grobbendonck\n<br>21/11/26 in CC Fabriek Sint-Lievens-Houtem\n<br>27/11/26
-  in De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj/\"
+  in 't Ankerpunt in Wichelen\n<br>19/09/26 in GC De Lijsterbes in Kraainem\n<br>01/10/26
+  in CC Binder in Puurs-Sint-Amands\n<br>08/10/26 in GC De Volle Vaart in Grobbendonck\n<br>21/11/26
+  in CC Fabriek in Sint-Lievens-Houtem\n<br>27/11/26 in Schouwburg De Kern in Wilrijk
+  //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj/\"
   style=\"color: white;\"> Tickets</a>\n<br>05/12/26 in Vorselaar \n<br>12/02/27 in
   Cinema Walburg in Hamont-Achel\n<br>17/02/27 in Cinema Plaza in Duffel\n<br>19/02/27
-  in Cultuurhuis Stekene\n<br>10/03/27 in GC Gasthuis Wijnegem (succesoptie)\n<br>11/03/27
-  in GC Gasthuis Wijnegem\n<br>12/03/27 in CC De Ploter Ternat\n<br>26/05/27 in CC
-  De Borre in Bierbeek"
+  in Cultuurhuis Stekene\n<br>10/03/27 in GC Gasthuis in Wijnegem (succesoptie)\n<br>11/03/27
+  in GC Gasthuis in Wijnegem\n<br>12/03/27 in CC De Ploter in Ternat\n<br>26/05/27
+  in CC De Borre in Bierbeek"
 speellijst_titel: Line-ups en MC
 speellijst: "<br>25/03/26 30' set in Casino Modern in Genk  //  <a href=\"https://comedy-aan-de-cite.eventsquare.store/nl/jxnege0wecv9/itzysp8kxlcg\"
   style=\"color: white;\"> Tickets</a>\n<br>26/03/26 MC voor Els Verhofstede, Ariane
