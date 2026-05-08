@@ -30,8 +30,9 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   Cinema Walburg in Hamont-Achel <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema Plaza in Duffel\n<br>19/02/27
   in Cultuurhuis Stekene\n<br>10/03/27 in GC Gasthuis in Wijnegem (succesoptie)\n<br>11/03/27
-  in GC Gasthuis in Wijnegem\n<br>12/03/27 in CC De Ploter in Ternat\n<br>26/05/27
-  in CC De Borre in Bierbeek // tickets online vanaf 09/06 //  <a href=\"https://tickets.deborre.be/\"
+  in GC Gasthuis in Wijnegem\n<br>12/03/27 in CC De Ploter in Ternat\n<br>22/04/27
+  in CC Den Amer in Diest\n<br>21/05 in CC Torhout \n<br>26/05/27 in CC De Borre in
+  Bierbeek // tickets online vanaf 09/06 //  <a href=\"https://tickets.deborre.be/\"
   style=\"color: white;\"> Tickets</a>"
 speellijst_titel: Line-ups en MC
 speellijst: "<br>25/03/26 30' set in Casino Modern in Genk  //  <a href=\"https://comedy-aan-de-cite.eventsquare.store/nl/jxnege0wecv9/itzysp8kxlcg\"
