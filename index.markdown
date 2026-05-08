@@ -25,7 +25,7 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   in CC Binder in Puurs-Sint-Amands  //  <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
   style=\"color: white;\"> Tickets</a>\n<br>08/10/26 in GC De Volle Vaart in Grobbendonck\n<br>21/11/26
   in CC Fabriek in Sint-Lievens-Houtem\n<br>27/11/26 in Schouwburg De Kern in Wilrijk
-  //  <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
+  //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
   style=\"color: white;\"> Tickets</a>\n<br>05/12/26 in Vorselaar \n<br>12/02/27 in
   Cinema Walburg in Hamont-Achel <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj/\"
   style=\"color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema Plaza in Duffel\n<br>19/02/27
