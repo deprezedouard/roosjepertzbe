@@ -35,25 +35,20 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   Bierbeek // tickets online vanaf 09/06 //  <a href=\"https://tickets.deborre.be/\"
   style=\"color: white;\"> Tickets</a>"
 speellijst_titel: Line-ups en MC
-speellijst: "<br>25/03/26 30' set in Casino Modern in Genk  //  <a href=\"https://comedy-aan-de-cite.eventsquare.store/nl/jxnege0wecv9/itzysp8kxlcg\"
-  style=\"color: white;\"> Tickets</a>\n<br>26/03/26 MC voor Els Verhofstede, Ariane
-  Van Hasselt en Christel Zweers in Lebbeke\n<br>03/04/26 45' set in Hof De Bist in
-  Ekeren //  <a href=\"https://hofdebist.antwerpen.be/roosjepertz\" style=\"color:
-  white;\"> Tickets</a>\n<br>15/04/26 45' set in Ververij in Kuurne\n<br>25/04/26
-  Set in line-up met MC Maarten D'haene, Els Verhofstede en Yannick Noben in Tielt-Winge
-  //  <a href=\"https://www.tielt-winge.be/activiteiten/detail/1705/comedy-line-up\"
-  style=\"color: white;\"> Tickets</a>\n<br>26/04/26 Goedgezind & Flink (zonder decor)
-  OC Berkenhof in Kortenberg //  <a href=\"https://www.kortenberg.be/activiteiten/detail/1073/cultuur-kortbij-roosje-pertz-goedgezind-en-flink\"
-  style=\"color: white;\"> Tickets</a>\n<br>30/04/26 MC in De Bammerd in Heers  //
-  \ <a href=\"https://comedy-night-heers.eventsquare.store/nl/ksh4xsxmspt7/stcfzjbw4jql?fbclid=IwdGRjcAP5KMJjbGNrA_kotGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHkBDlDwfJskC36BxmpgIaD65he92mEM6G9pebilV7ZJ9WykBQzrqVZpe2Hg6_aem_p7vpEYtRgOm6OLaNvv2J1A\"
-  style=\"color: white;\"> Tickets</a>\n<br>02/05/26 Goedgezind & Flink in El Theatro
-  Spaarndam NL//  <a href=\"https://shop.ikbenaanwezig.nl/tickets/event/roosje-pertz\"
-  style=\"color: white;\"> Tickets</a>\n<br>08/05/26 Set op Nuff Said in De Studio
-  in Antwerpen //  <a href=\"https://nuffsaid.be/\" style=\"color: white;\"> Tickets</a>
-  \n<br>09/05/26 Set op Nuff Said in C-mine in Genk //  <a href=\"https://nuffsaid.be/\"
+speellijst: "<br>09/05/26 Set op Nuff Said in C-mine in Genk //  <a href=\"https://nuffsaid.be/\"
   style=\"color: white;\"> Tickets</a>  \n<br>11/05/26 8' set op de Comedy Marathon
-  Capitole Gent\n<br>19/05/26 set op bij The Pitch in Kortrijk \n<br>12/06/26 MC voor
-  Maarten D'Haene, Yannick Noben en Piv Huvluv in Proven"
+  Capitole Gent\n<br>19/05/26 set op bij The Pitch in Kortrijk \n<br>30/05/26 set
+  op seizoenspresentatie CC Fabriek in Sint-Lievens-Houtem\n<br>12/06/26 MC voor Maarten
+  D'Haene, Yannick Noben en Piv Huvluv in Proven\n<br>15/07/26 45' set op Kiezegem
+  Kermis in Meensel-Kiezegem\n<br>18/07/26 8' set op de Dinsdagclub in Oostende\n<br>23/07/26
+  TV Oost zomervertellingen in Dendermonde\n<br>18/08/26 ROB zomervertellingen in
+  Dendermonde in Scherpenheuvel\n<br>28/08/26 30' set op Maanrock in Mechelen\n<br>09/09/26
+  TVL zomervertellingen in AS\n<br>17/10/26 Goedgezind & Flink (zonder decor) in Bouchout\n<br>24/10/26
+  45' in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule\n<br>05/10/26 support
+  Iwein Segers in Rijkevorsel\n<br>24/11/26 45' bij Vayamundo Oostende\n<br>11/12/26
+  support Iwein Segers Arenberg\n<br>14/01/26 MC Palaver comedy in Minard in Gent\n<br>26/02/26
+  20' set in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in cc Stroming
+  Berlare\n\n"
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
