@@ -35,9 +35,11 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   style=\"color: white;\"> Tickets</a>\n<br>05/12/26 in Zaal De Dreef in Vorselaar
   //  <https://roosjepertz.eventsquare.store/nl/eew3cnnh5zdv/n64xctlodkgs\" style=\"color:
   white;\"> Tickets</a>\n<br>12/02/27 in Cinema Walburg in Hamont-Achel <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
-  style=\"color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema Plaza in Duffel\n<br>19/02/27
-  in Cultuurhuis Stekene\n<br>10/03/27 in GC Gasthuis in Wijnegem (succesoptie)\n<br>11/03/27
-  in GC Gasthuis in Wijnegem //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/\"
+  style=\"color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema Plaza in Duffel //
+  \ <a href=\"https://www.cinema-plaza.be/programmal\" style=\"color: white;\"> Tickets
+  binnenkort online</a>\n<br>19/02/27 in Cultuurhuis Stekene //  <a href=\"https://www.cultuurhuisstekene.be/activiteiten/goedgezind-en-flink-roosje-pertz\"
+  style=\"color: white;\"> Tickets online vanaf 13 juni</a>\n<br>10/03/27 in GC Gasthuis
+  in Wijnegem (succesoptie)\n<br>11/03/27 in GC Gasthuis in Wijnegem //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/\"
   style=\"color: white;\"> Tickets online vanaf januari 2027</a>\n\n<br>12/03/27 in
   CC De Ploter in Ternat //  <a href=\"https://www.ccdeploter.be/roosje-pertz\" style=\"color:
   white;\"> Tickets online vanaf 13 juni</a>\n<br>22/04/27 in CC Den Amer in Diest
