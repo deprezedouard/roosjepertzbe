@@ -21,11 +21,15 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   De Minard in Gent  //  <a href=\"https://minard.be/voorstelling/roosje-pertz-goedgezind-flink/\"
   style=\"color: white;\">Tickets</a>\n<br>\n<br>\n<span style=\"color: black; background-color:
   white;\">Tournee 2026-2027 - tickets online vanaf midden juni</span>\n<br>\n<br>18/09/26
-  in 't Ankerpunt in Wichelen\n<br>19/09/26 in GC De Lijsterbes in Kraainem\n<br>01/10/26
-  in CC Binder in Puurs-Sint-Amands  //  <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
-  style=\"color: white;\"> Tickets</a>\n<br>08/10/26 in GC De Volle Vaart in Grobbendonck\n<br>21/11/26
-  in CC Fabriek in Sint-Lievens-Houtem\n<br>27/11/26 in Schouwburg De Kern in Wilrijk
-  //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
+  in 't Ankerpunt in Wichelen //  <a href=\"https://tankerpunt.be/evenementen/goedgezind-flink/\"
+  style=\"color: white;\"> Tickets binnenkort online</a> \n<br>19/09/26 in GC De Lijsterbes
+  in Kraainem //  <a href=\"https://www.delijsterbes.be/nl\" style=\"color: white;\">
+  Tickets binnenkort online</a> \n<br>01/10/26 in CC Binder in Puurs-Sint-Amands  //
+  \ <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
+  style=\"color: white;\"> Tickets</a>\n<br>08/10/26 in GC De Volle Vaart in Grobbendonk
+  //  <a href=\"https://be.ticketgang.eu/orgFrameSaleNew.php?org=10471#\" style=\"color:
+  white;\"> Tickets online vanaf 1 juli </a><br>21/11/26 in CC Fabriek in Sint-Lievens-Houtem\n<br>27/11/26
+  in Schouwburg De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
   style=\"color: white;\"> Tickets</a>\n<br>05/12/26 in Vorselaar \n<br>12/02/27 in
   Cinema Walburg in Hamont-Achel <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema Plaza in Duffel\n<br>19/02/27
