@@ -28,15 +28,19 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   \ <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
   style=\"color: white;\"> Tickets</a>\n<br>08/10/26 in GC De Volle Vaart in Grobbendonk
   //  <a href=\"https://be.ticketgang.eu/orgFrameSaleNew.php?org=10471#\" style=\"color:
-  white;\"> Tickets online vanaf 1 juli </a><br>21/11/26 in CC Fabriek in Sint-Lievens-Houtem\n<br>27/11/26
-  in Schouwburg De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
+  white;\"> Tickets online vanaf 1 juli </a><br>\n21/11/26 in CC Fabriek in Sint-Lievens-Houtem
+  //  <a href=\"https://www.sint-lievens-houtem.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
+  style=\"color: white;\"> Tickets online vanaf 6 juni</a>\n<br>27/11/26 in Schouwburg
+  De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
   style=\"color: white;\"> Tickets</a>\n<br>05/12/26 in Vorselaar \n<br>12/02/27 in
   Cinema Walburg in Hamont-Achel <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema Plaza in Duffel\n<br>19/02/27
   in Cultuurhuis Stekene\n<br>10/03/27 in GC Gasthuis in Wijnegem (succesoptie)\n<br>11/03/27
-  in GC Gasthuis in Wijnegem\n<br>12/03/27 in CC De Ploter in Ternat\n<br>22/04/27
-  in CC Den Amer in Diest\n<br>21/05 in CC Torhout \n<br>26/05/27 in CC De Borre in
-  Bierbeek // tickets online vanaf 09/06 //  <a href=\"https://tickets.deborre.be/\"
+  in GC Gasthuis in Wijnegem\n\n<br>12/03/27 in CC De Ploter in Ternat //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
+  style=\"color: white;\"> Tickets online vanaf 13 juni</a>\n\n<br>22/04/27 in CC
+  Den Amer in Diest //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n\n<br>21/05 in CC Torhout \n<br>26/05/27 in
+  CC De Borre in Bierbeek // tickets online vanaf 09/06 //  <a href=\"https://tickets.deborre.be/\"
   style=\"color: white;\"> Tickets</a>"
 speellijst_titel: Line-ups en MC
 speellijst: "<br>09/05/26 Set op Nuff Said in C-mine in Genk //  <a href=\"https://nuffsaid.be/\"
