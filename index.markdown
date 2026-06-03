@@ -32,31 +32,36 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   //  <a href=\"https://www.sint-lievens-houtem.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
   style=\"color: white;\"> Tickets online vanaf 6 juni</a>\n<br>27/11/26 in Schouwburg
   De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
-  style=\"color: white;\"> Tickets</a>\n<br>05/12/26 in Vorselaar \n<br>12/02/27 in
-  Cinema Walburg in Hamont-Achel <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n<br>05/12/26 in Zaal De Dreef in Vorselaar
+  //  <https://roosjepertz.eventsquare.store/nl/eew3cnnh5zdv/n64xctlodkgs\" style=\"color:
+  white;\"> Tickets</a>\n<br>12/02/27 in Cinema Walburg in Hamont-Achel <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
   style=\"color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema Plaza in Duffel\n<br>19/02/27
   in Cultuurhuis Stekene\n<br>10/03/27 in GC Gasthuis in Wijnegem (succesoptie)\n<br>11/03/27
-  in GC Gasthuis in Wijnegem\n\n<br>12/03/27 in CC De Ploter in Ternat //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
-  style=\"color: white;\"> Tickets online vanaf 13 juni</a>\n\n<br>22/04/27 in CC
-  Den Amer in Diest //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
-  style=\"color: white;\"> Tickets</a>\n\n<br>21/05 in CC Torhout \n<br>26/05/27 in
-  CC De Borre in Bierbeek // tickets online vanaf 09/06 //  <a href=\"https://tickets.deborre.be/\"
-  style=\"color: white;\"> Tickets</a>"
+  in GC Gasthuis in Wijnegem //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/\"
+  style=\"color: white;\"> Tickets online vanaf januari 2027</a>\n\n<br>12/03/27 in
+  CC De Ploter in Ternat //  <a href=\"https://www.ccdeploter.be/roosje-pertz\" style=\"color:
+  white;\"> Tickets online vanaf 13 juni</a>\n<br>22/04/27 in CC Den Amer in Diest
+  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
+  style=\"color: white;\"> Tickets</a>\n<br>21/05 in CC Torhout //  <a href=\"https://www.visittorhout.be/goedgezind\"
+  style=\"color: white;\"> Tickets</a>\n<br>26/05/27 in CC De Borre in Bierbeek //
+  tickets online vanaf 09/06 //  <a href=\"https://tickets.deborre.be/\" style=\"color:
+  white;\"> Tickets</a>"
 speellijst_titel: Line-ups en MC
-speellijst: "<br>09/05/26 Set op Nuff Said in C-mine in Genk //  <a href=\"https://nuffsaid.be/\"
-  style=\"color: white;\"> Tickets</a>  \n<br>11/05/26 8' set op de Comedy Marathon
-  Capitole Gent\n<br>19/05/26 set op bij The Pitch in Kortrijk \n<br>30/05/26 set
-  op seizoenspresentatie CC Fabriek in Sint-Lievens-Houtem\n<br>12/06/26 MC voor Maarten
-  D'Haene, Yannick Noben en Piv Huvluv in Proven\n<br>15/07/26 45' set op Kiezegem
-  Kermis in Meensel-Kiezegem\n<br>18/07/26 8' set op de Dinsdagclub in Oostende\n<br>23/07/26
-  TV Oost zomervertellingen in Dendermonde\n<br>18/08/26 ROB zomervertellingen in
-  Dendermonde in Scherpenheuvel\n<br>28/08/26 30' set op Maanrock in Mechelen\n<br>09/09/26
-  TVL zomervertellingen in AS\n<br>17/10/26 Goedgezind & Flink (zonder decor) in Bouchout\n<br>24/10/26
-  45' in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule\n<br>05/10/26 support
-  Iwein Segers in Rijkevorsel\n<br>24/11/26 45' bij Vayamundo Oostende\n<br>11/12/26
-  support Iwein Segers Arenberg\n<br>14/01/26 MC Palaver comedy in Minard in Gent\n<br>26/02/26
-  20' set in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in cc Stroming
-  Berlare\n\n"
+speellijst: |+
+  <br>12/06/26 MC voor Maarten D'Haene, Yannick Noben en Piv Huvluv in Proven
+  <br>15/07/26 45' set op Kiezegem Kermis in Meensel-Kiezegem
+  <br>18/07/26 8' set op de Dinsdagclub in Oostende
+  <br>23/07/26 TV Oost zomervertellingen in Dendermonde
+  <br>18/08/26 ROB zomervertellingen in Dendermonde in Scherpenheuvel
+  <br>28/08/26 30' set op Maanrock in Mechelen
+  <br>09/09/26 TVL zomervertellingen in As
+  <br>17/10/26 Goedgezind & Flink (zonder decor) in Bouchout
+  <br>24/10/26 45' in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule
+  <br>05/10/26 support Iwein Segers in Rijkevorsel
+  <br>24/11/26 45' bij Vayamundo Oostende
+  <br>14/01/26 MC Palaver comedy in Minard in Gent
+  <br>26/02/26 20' set in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in cc Stroming Berlare
+
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
