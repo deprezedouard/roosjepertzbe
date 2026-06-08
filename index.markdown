@@ -25,7 +25,7 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   //  <a href=\"https://www.sint-lievens-houtem.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
   style=\"color: white;\"> Tickets online vanaf 6 juni</a>\n<br>27/11/26 in Schouwburg
   De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
-  style=\"color: white;\"> Tickets</a>\n<br>05/12/26 in Zaal De Dreef in Vorselaar
+  style=\"color: white;\"> Laatste tickets</a>\n<br>05/12/26 in Zaal De Dreef in Vorselaar
   //  <a href=\"https://roosjepertz.eventsquare.store/nl/eew3cnnh5zdv/n64xctlodkgs\"
   style=\"color: white;\"> Tickets</a>\n<br>12/02/27 in Cinema Walburg in Hamont-Achel
   <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
@@ -34,7 +34,7 @@ goedgezind_speellijst: "<span style=\"color: black; background-color: white;\">T
   binnenkort online</a>\n<br>19/02/27 in Cultuurhuis Stekene //  <a href=\"https://www.cultuurhuisstekene.be/activiteiten/goedgezind-en-flink-roosje-pertz\"
   style=\"color: white;\"> Tickets online vanaf 13 juni</a>\n<br>10/03/27 in GC Gasthuis
   in Wijnegem (succesoptie)\n<br>11/03/27 in GC Gasthuis in Wijnegem //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/\"
-  style=\"color: white;\"> Tickets online vanaf  24 augustus</a>\n\n<br>12/03/27 in
+  style=\"color: white;\"> Tickets online vanaf  24 augustus</a>\n<br>12/03/27 in
   CC De Ploter in Ternat //  <a href=\"https://www.ccdeploter.be/roosje-pertz\" style=\"color:
   white;\"> Tickets online vanaf 13 juni</a>\n<br>22/04/27 in CC Den Amer in Diest
   //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
