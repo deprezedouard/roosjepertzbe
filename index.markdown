@@ -43,8 +43,8 @@ goedgezind_speellijst: "<spanstyle=\"color: black; background-color: white;\">To
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>21/05 in CC Torhout
   //  <a href=\"https://www.visittorhout.be/goedgezind\" style=\"color: black; background-color:
   white;\"> Tickets online vanaf 6 juni</a>\n<br>26/05/27 in CC De Borre in Bierbeek
-  // tickets online vanaf 09/06 //  <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"style=\"color:
-  black; background-color: white;\"> Tickets online vanaf 9 juni</a>"
+  // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\" style=\"color: black;
+  background-color: white;\"> Tickets online vanaf 9 juni</a>"
 speellijst_titel: Line-ups en MC
 speellijst: |+
   <br>12/06/26 MC voor Maarten D'Haene, Yannick Noben en Piv Huvluv in Proven
