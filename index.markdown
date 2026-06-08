@@ -19,29 +19,32 @@ goedgezind_speellijst: "<spanstyle=\"color: black; background-color: white;\">To
   in GC De Lijsterbes in Kraainem //  <a href=\"https://www.delijsterbes.be/nl\" style=\"color:
   black; background-color: white;\"> Tickets online vanaf 11 juni</a> \n<br>01/10/26
   in CC Binder in Puurs-Sint-Amands  //  <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
-  style=\"color: white;\"> Tickets</a>\n<br>08/10/26 in GC De Volle Vaart in Grobbendonk
-  //  <a href=\"https://be.ticketgang.eu/orgFrameSaleNew.php?org=10471#\" style=\"color:
-  white;\"> Tickets online vanaf 1 juli </a><br>\n21/11/26 in CC Fabriek in Sint-Lievens-Houtem
-  //  <a href=\"https://www.sint-lievens-houtem.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
-  style=\"color: white;\"> Tickets online vanaf 6 juni</a>\n<br>27/11/26 in Schouwburg
-  De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br>08/10/26 in GC
+  De Volle Vaart in Grobbendonk //  <a href=\"https://be.ticketgang.eu/orgFrameSaleNew.php?org=10471#\"
+  style=\"color: black; background-color: white;\"> Tickets online vanaf 1 juli </a><br>\n21/11/26
+  in CC Fabriek in Sint-Lievens-Houtem //  <a href=\"https://www.sint-lievens-houtem.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
+  style=\"color: black; background-color: white;\"> Tickets online vanaf 6 juni</a>\n<br>27/11/26
+  in Schouwburg De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>05/12/26
   in Zaal De Dreef in Vorselaar //  <a href=\"https://roosjepertz.eventsquare.store/nl/eew3cnnh5zdv/n64xctlodkgs\"
-  style=\"color: white;\"> Tickets</a>\n<br>12/02/27 in Cinema Walburg in Hamont-Achel
-  <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
-  style=\"color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema Plaza in Duffel //
-  \ <a href=\"https://www.cinema-plaza.be/programmal\" style=\"color: white;\"> Tickets
-  binnenkort online</a>\n<br>19/02/27 in Cultuurhuis Stekene //  <a href=\"https://www.cultuurhuisstekene.be/activiteiten/goedgezind-en-flink-roosje-pertz\"
-  style=\"color: white;\"> Tickets online vanaf 13 juni</a>\n<br>10/03/27 in GC Gasthuis
-  in Wijnegem (succesoptie)\n<br>11/03/27 in GC Gasthuis in Wijnegem //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/\"
-  style=\"color: white;\"> Tickets online vanaf  24 augustus</a>\n<br>12/03/27 in
-  CC De Ploter in Ternat //  <a href=\"https://www.ccdeploter.be/roosje-pertz\" style=\"color:
-  white;\"> Tickets online vanaf 13 juni</a>\n<br>22/04/27 in CC Den Amer in Diest
-  //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
-  style=\"color: white;\"> Tickets</a>\n<br>21/05 in CC Torhout //  <a href=\"https://www.visittorhout.be/goedgezind\"
-  style=\"color: white;\"> Tickets online vanaf 6 juni</a>\n<br>26/05/27 in CC De
-  Borre in Bierbeek // tickets online vanaf 09/06 //  <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"
-  style=\"color: white;\"> Tickets online vanaf 9 juni</a>"
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br>12/02/27 in Cinema
+  Walburg in Hamont-Achel <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema
+  Plaza in Duffel //  <a href=\"https://www.cinema-plaza.be/programmal\" style=\"color:
+  black; background-color: white;\"> Tickets binnenkort online</a>\n<br>19/02/27 in
+  Cultuurhuis Stekene //  <a href=\"https://www.cultuurhuisstekene.be/activiteiten/goedgezind-en-flink-roosje-pertz\"
+  style=\"color: black; background-color: white;\"> Tickets online vanaf 13 juni</a>\n<br>10/03/27
+  in GC Gasthuis in Wijnegem (succesoptie)\n<br>11/03/27 in GC Gasthuis in Wijnegem
+  //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/\" style=\"color:
+  black; background-color: white;\"> Tickets online vanaf  24 augustus</a>\n<br>12/03/27
+  in CC De Ploter in Ternat //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
+  style=\"color: black; background-color: white;\"> Tickets online vanaf 13 juni</a>\n<br>22/04/27
+  in CC Den Amer in Diest //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br>21/05 in CC Torhout
+  //  <a href=\"https://www.visittorhout.be/goedgezind\" style=\"color: black; background-color:
+  white;\"> Tickets online vanaf 6 juni</a>\n<br>26/05/27 in CC De Borre in Bierbeek
+  // tickets online vanaf 09/06 //  <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"style=\"color:
+  black; background-color: white;\"> Tickets online vanaf 9 juni</a>"
 speellijst_titel: Line-ups en MC
 speellijst: |+
   <br>12/06/26 MC voor Maarten D'Haene, Yannick Noben en Piv Huvluv in Proven
