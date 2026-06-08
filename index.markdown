@@ -40,10 +40,11 @@ goedgezind_speellijst: "<spanstyle=\"color: black; background-color: white;\">To
   in CC De Ploter in Ternat //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Tickets online vanaf 13 juni</a>\n<br>22/04/27
   in CC Den Amer in Diest //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
-  style=\"color: black; background-color: white;\"> Tickets</a>\n<br>21/05 in CC Torhout
-  //  <a href=\"https://www.visittorhout.be/goedgezind\" style=\"color: black; background-color:
-  white;\"> Tickets</a>\n<br>26/05/27 in CC De Borre in Bierbeek // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"
-  style=\"color: black; background-color: white;\"> Tickets online vanaf 9 juni</a>"
+  style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>21/05
+  in CC Torhout //  <a href=\"https://www.visittorhout.be/goedgezind\" style=\"color:
+  black; background-color: white;\"> Tickets</a>\n<br>26/05/27 in CC De Borre in Bierbeek
+  // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\" style=\"color: black;
+  background-color: white;\"> Tickets online vanaf 9 juni</a>"
 speellijst_titel: Line-ups en MC
 speellijst: |-
   <br>12/06/26 MC voor Maarten D'Haene, Yannick Noben en Piv Huvluv in Proven
