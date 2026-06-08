@@ -46,7 +46,7 @@ goedgezind_speellijst: "<spanstyle=\"color: black; background-color: white;\">To
   // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\" style=\"color: black;
   background-color: white;\"> Tickets online vanaf 9 juni</a>"
 speellijst_titel: Line-ups en MC
-speellijst: |+
+speellijst: |-
   <br>12/06/26 MC voor Maarten D'Haene, Yannick Noben en Piv Huvluv in Proven
   <br>15/07/26 45' set op Kiezegem Kermis in Meensel-Kiezegem
   <br>18/07/26 8' set op de Dinsdagclub in Oostende
@@ -60,7 +60,6 @@ speellijst: |+
   <br>24/11/26 45' bij Vayamundo Oostende
   <br>14/01/26 MC Palaver comedy in Minard in Gent
   <br>26/02/26 20' set in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in cc Stroming Berlare
-
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
