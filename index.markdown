@@ -12,7 +12,7 @@ socials_previous: Vorige
 socials_next: Volgende
 socials_youtube_title: Roosje op Youtube
 goedgezind_title: Zaalshow Goedgezind en flink
-goedgezind_speellijst: "<br><spanstyle=\"color: black; background-color: white;\">Tournee
+goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;\">Tournee
   2026-2027 - tickets online </span>\n<br>\n<br>18/09/26 in 't Ankerpunt in Wichelen
   //  <a href=\"https://tankerpunt.be/evenementen/goedgezind-flink/\" style=\"color:
   black; background-color: white;\">Tickets online vanaf 15 juni</a> \n<br>19/09/26
