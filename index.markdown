@@ -16,9 +16,9 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   2026-2027 - tickets online </span>\n<br>\n<br>18/09/26 in 't Ankerpunt in Wichelen
   //  <a href=\"https://tankerpunt.be/evenementen/goedgezind-flink/\" style=\"color:
   black; background-color: white;\">Tickets online vanaf 15 juni</a> \n<br>19/09/26
-  in GC De Lijsterbes in Kraainem //  <a href=\"https://www.delijsterbes.be/nl\" style=\"color:
-  black; background-color: white;\"> Tickets online vanaf 11 juni</a> \n<br>01/10/26
-  in CC Binder in Puurs-Sint-Amands  //  <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
+  in GC De Lijsterbes in Kraainem //  <a href=\"https://www.delijsterbes.be/nl/programma/roosje-pertz\"
+  style=\"color: black; background-color: white;\"> Tickets</a> \n<br>01/10/26 in
+  CC Binder in Puurs-Sint-Amands  //  <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>08/10/26 in GC
   De Volle Vaart in Grobbendonk //  <a href=\"https://be.ticketgang.eu/orgFrameSaleNew.php?org=10471#\"
   style=\"color: black; background-color: white;\"> Tickets online vanaf 1 juli </a><br>\n21/11/26
@@ -40,11 +40,10 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   in CC De Ploter in Ternat //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Tickets online vanaf 13 juni</a>\n<br>22/04/27
   in CC Den Amer in Diest //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
-  style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>21/05
-  in CC Torhout //  <a href=\"https://www.visittorhout.be/goedgezind\" style=\"color:
-  black; background-color: white;\"> Tickets</a>\n<br>26/05/27 in CC De Borre in Bierbeek
-  // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\" style=\"color: black;
-  background-color: white;\"> Tickets online vanaf 9 juni</a>"
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br>21/05 in CC Torhout
+  //  <a href=\"https://www.visittorhout.be/goedgezind\" style=\"color: black; background-color:
+  white;\"> Tickets</a>\n<br>26/05/27 in CC De Borre in Bierbeek // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"
+  style=\"color: black; background-color: white;\"> Tickets online vanaf 9 juni</a>"
 speellijst_titel: Line-ups en MC
 speellijst: |-
   <br>12/06/26 MC voor Maarten D'Haene, Yannick Noben en Piv Huvluv in Proven
