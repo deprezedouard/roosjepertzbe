@@ -30,7 +30,7 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>12/02/27 in Cinema
   Walburg in Hamont-Achel <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>17/02/27 in Cinema
-  Plaza in Duffel //  <a href=\"https://www.cinema-plaza.be/programmal\" style=\"color:
+  Plaza in Duffel //  <a href=\"https://www.cinema-plaza.be/programma\" style=\"color:
   black; background-color: white;\"> Tickets binnenkort online</a>\n<br>19/02/27 in
   Cultuurhuis Stekene //  <a href=\"https://www.cultuurhuisstekene.be/activiteiten/goedgezind-en-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\"> Uitverkocht - wachtlijst </a>\n<br>10/03/27
