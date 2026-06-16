@@ -45,19 +45,21 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   white;\"> Tickets</a>\n<br>26/05/27 in CC De Borre in Bierbeek // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>"
 speellijst_titel: Line-ups en MC
-speellijst: |-
-  <br>15/07/26 45' set op Kiezegem Kermis in Meensel-Kiezegem
-  <br>18/07/26 8' set op de Dinsdagclub in Oostende
-  <br>23/07/26 TV Oost zomervertellingen in Dendermonde
-  <br>18/08/26 ROB zomervertellingen in Dendermonde in Scherpenheuvel
-  <br>28/08/26 30' set op Maanrock in Mechelen
-  <br>09/09/26 TVL zomervertellingen in As
-  <br>17/10/26 Goedgezind & Flink (zonder decor) in Bouchout
-  <br>24/10/26 45' in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule
-  <br>05/10/26 support Iwein Segers in Rijkevorsel
-  <br>24/11/26 45' bij Vayamundo Oostende
-  <br>14/01/26 MC Palaver comedy in Minard in Gent
-  <br>26/02/26 20' set in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in cc Stroming Berlare
+speellijst: "<br>15/07/26 45' set op Kiezegem Kermis in Meensel-Kiezegem\n<br>18/07/26
+  8' set op de Dinsdagclub in Oostende\n<br>23/07/26 TV Oost zomervertellingen in
+  Dendermonde\n<br>18/08/26 ROB zomervertellingen in Dendermonde in Scherpenheuvel\n<br>28/08/26
+  30' set op Maanrock in Mechelen\n<br>31/08/26 35' set in line-up met MC Jan Linsen
+  en Yannick Noben in Waanrode \n<br>09/09/26 TVL zomervertellingen in As\n<br>11/09/26
+  25'set in line-up met MC Koen Dewulf, Jan LInssen en Thomas Smith\n<br>12/09/26
+  45'set in line-up met MC Lev Vanorbeek en Joost Van Hyfte op de Vlierbeekse feesten
+  in Kessel-Lo\n<br>25/09/26  Cera Leuven\n<br>26/09/26  2 x line-up met Kelia Kaniki
+  Masengo, Els Verhofstede en Ariane Van Hasselt in CC Maaseik\n<br>17/10/26 Goedgezind
+  & Flink (zonder decor) in Bouchout\n<br>24/10/26 45' in line-up met Koen Dewulf,
+  Jelle Beeckman en Gery La Boule in Zaventem\n<br>05/10/26 support Iwein Segers in
+  Rijkevorsel\n<br>24/11/26 45' bij Vayamundo Oostende\n<br>14/01/26 MC Palaver comedy
+  in Minard in Gent\n<br>26/02/26 20' set in line-up met Koen Dewulf, Thomas Smith
+  en Ygor uit Poperinge in cc Stroming Berlare\n<br>15/04/2027 45' set bij Brouwcompagnie
+  Antwerpen\n <br>17/04/2027 15' set bij Comedy fest Waardamme"
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
