@@ -21,8 +21,8 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   CC Binder in Puurs-Sint-Amands  //  <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>08/10/26 in GC
   De Volle Vaart in Grobbendonk //  <a href=\"https://be.ticketgang.eu/orgFrameSaleNew.php?org=10471#\"
-  style=\"color: black; background-color: white;\"> Tickets online vanaf 1 juli </a><br>\n21/11/26
-  in CC Fabriek in Sint-Lievens-Houtem //  <a href=\"https://www.sint-lievens-houtem.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
+  style=\"color: black; background-color: white;\"> Tickets </a><br>\n21/11/26 in
+  CC Fabriek in Sint-Lievens-Houtem //  <a href=\"https://www.sint-lievens-houtem.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>27/11/26
   in Schouwburg De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>05/12/26
