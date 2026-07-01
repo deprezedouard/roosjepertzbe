@@ -23,9 +23,9 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   De Volle Vaart in Grobbendonk //  <a href=\"https://be.ticketgang.eu/orgFrameSaleNew.php?org=10471#\"
   style=\"color: black; background-color: white;\"> Tickets </a><br>\n21/11/26 in
   CC Fabriek in Sint-Lievens-Houtem //  <a href=\"https://www.sint-lievens-houtem.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
-  style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>27/11/26
-  in Schouwburg De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
-  style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>05/12/26
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br>27/11/26 in Schouwburg
+  De Kern in Wilrijk //  <a href=\"https://www.schouwburgdekern.be/voorstellingen/roosje-pertz-qrpj\"
+  style=\"color: black; background-color: white;\"> Uitverkocht</a>\n<br>05/12/26
   in Zaal De Dreef in Vorselaar //  <a href=\"https://roosjepertz.eventsquare.store/nl/eew3cnnh5zdv/n64xctlodkgs\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>12/02/27 in Cinema
   Walburg in Hamont-Achel <a href=\"https://apps.ticketmatic.com/widgets/hamontachel/flow/verkoop?event=264486120822&l=nl#!/addtickets\"
