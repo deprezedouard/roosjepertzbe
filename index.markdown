@@ -45,11 +45,9 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   De Borre in <strong>Bierbeek</strong>   // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>"
 speellijst_titel: Line-ups en MC
-speellijst: "<br>15/07/26 45' set op Kiezegem Kermis in Meensel-Kiezegem\n<br>18/07/26
-  8' set op de Dinsdagclub in Oostende\n<br>23/07/26 TV Oost zomervertellingen in
-  Dendermonde\n<br>18/08/26 ROB zomervertellingen in Dendermonde in Scherpenheuvel\n<br>28/08/26
-  30' set op Maanrock in Mechelen\n<br>31/08/26 35' set in line-up met MC Jan Linsen
-  en Yannick Noben in Waanrode \n<br>09/09/26 TVL zomervertellingen in As\n<br>11/09/26
+speellijst: "<br>18/08/26 ROB zomervertellingen in Scherpenheuvel\n<br>28/08/26 30'
+  set op Maanrock in Mechelen\n<br>31/08/26 35' set in line-up met MC Jan Linsen en
+  Yannick Noben in Waanrode \n<br>09/09/26 TVL zomervertellingen in As\n<br>11/09/26
   25'set in line-up met MC Koen Dewulf, Jan LInssen en Thomas Smith in Mol\n<br>12/09/26
   45'set in line-up met MC Lev Vanorbeek en Joost Van Hyfte op de Vlierbeekse feesten
   in Kessel-Lo\n<br>25/09/26 set bij Cera Leuven\n<br>26/09/26  2 x line-up met Kelia
