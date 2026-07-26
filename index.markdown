@@ -54,10 +54,11 @@ speellijst: "<br>18/08/26 ROB zomervertellingen in Scherpenheuvel\n<br>28/08/26 
   Kaniki Masengo, Els Verhofstede en Ariane Van Hasselt in CC Maaseik\n<br>17/10/26
   Goedgezind & Flink (zonder decor) in Bouchout\n<br>24/10/26 45' in line-up met Koen
   Dewulf, Jelle Beeckman en Gery La Boule in Zaventem\n<br>05/10/26 support Iwein
-  Segers in Rijkevorsel\n<br>24/11/26 45' bij Vayamundo Oostende\n<br>14/01/26 MC
-  Palaver comedy in Minard in Gent\n<br>26/02/26 20' set in line-up met Koen Dewulf,
-  Thomas Smith en Ygor uit Poperinge in cc Stroming Berlare\n<br>15/04/2027 45' set
-  bij Brouwcompagnie Antwerpen\n <br>17/04/2027 15' set bij Comedy fest Waardamme"
+  Segers in Rijkevorsel\n<br>24/11/26 45' bij Vayamundo Oostende\n<br>14/01/27 MC
+  Palaver comedy in Minard in Gent\n<br>26/02/27 20' set in line-up met Koen Dewulf,
+  Thomas Smith en Ygor uit Poperinge in cc Stroming Berlare\n<br>27/03/27 45' set
+  bij Kleurstof Atelier Aalter\n<br>15/04/2027 45' set bij Brouwcompagnie Antwerpen\n
+  <br>17/04/2027 15' set bij Comedy fest Waardamme"
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
