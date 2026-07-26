@@ -45,24 +45,32 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   De Borre in <strong>Bierbeek</strong>   // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>"
 speellijst_titel: Line-ups en MC
-speellijst: "<br>18/08/26 ROB zomervertellingen in Scherpenheuvel\n<br>28/08/26 30'
-  set op Maanrock in Mechelen\n<br>31/08/26 35' set in line-up met MC Jan Linsen en
-  Yannick Noben in Waanrode \n<br>03/09/26 45' set bij Lunatic Comedy Club Antwerpen\n<br>09/09/26
-  TVL zomervertellingen in As\n<br>11/09/26 25'set in line-up met MC Koen Dewulf,
-  Jan LInssen en Thomas Smith in Mol\n<br>12/09/26 45'set in line-up met MC Lev Vanorbeek
-  en Joost Van Hyfte op de Vlierbeekse feesten in Kessel-Lo\n<br>14/09/26 MC voor
-  Jens Deferm, Jan Linssen en Lev van Orbeek in spiegeltent Berbroek (Herk-de-stad)\n<br>25/09/26
-  set bij Cera Leuven\n<br>26/09/26  2 x line-up met Kelia Kaniki Masengo, Els Verhofstede
-  en Ariane Van Hasselt in CC Maaseik\n<br>17/10/26 Goedgezind & Flink (zonder decor)
-  in Bouchout\n<br>24/10/26 45' in line-up met Koen Dewulf, Jelle Beeckman en Gery
-  La Boule in Zaventem\n<br>05/10/26 support Iwein Segers in Rijkevorsel\n<br>24/11/26
-  45' bij Vayamundo Oostende\n<br>25/11/26 45' bij Korfbal Leuven\n<br>14/01/27 MC
-  Palaver comedy in Minard in Gent\n<br>26/02/27 20' set in line-up met Koen Dewulf,
-  Thomas Smith en Ygor uit Poperinge in cc Stroming Berlare\n<br>27/02/27 Goedgezind
-  & Flink zonder decor in Theatergarage Borgerhout\n<br>27/03/27 45' set bij Kleurstof
-  Atelier Aalter\n<br>15/04/2027 45' set bij Brouwcompagnie Antwerpen\n<br>17/04/2027
-  15' op Comedy fest Waardamme \n <br>17/04/2027 15' set bij Comedy fest Waardamme\n<br>16/10/2027
-  MC voor Tim Loobuyck en Yannick Noben in Zandhoven"
+speellijst: "<br><strong>18/08/26</strong> ROB zomervertellingen in <strong>Scherpenheuvel</strong>
+  \n<br><strong>28/08/26</strong>  30' set op Maanrock in <strong>Mechelen</strong>
+  \n<br><strong>31/08/26</strong>  35' set in line-up met MC Jan Linsen en Yannick
+  Noben in <strong>Waanrode</strong> \n<br><strong>03/09/26</strong>  45' set bij
+  <strong>Lunatic Comedy Club Antwerpen</strong> \n<br><strong>09/09/26</strong>  TVL
+  zomervertellingen in<strong> As</strong> \n<br><strong>11/09/26</strong>  25'set
+  in line-up met MC Koen Dewulf, Jan LInssen en Thomas Smith in <strong>Mol</strong>
+  \n<br><strong>12/09/26</strong>  45'set in line-up met MC Lev Vanorbeek en Joost
+  Van Hyfte op de Vlierbeekse feesten in <strong>Kessel-Lo</strong> \n<br><strong>14/09/26</strong>
+  \ MC voor Jens Deferm, Jan Linssen en Lev van Orbeek in spiegeltent <strong>Berbroek
+  (Herk-de-stad)</strong> \n<br><strong>25/09/26</strong>  set bij <strong>Cera Leuven</strong>
+  \n<br><strong>26/09/26</strong>   2 x line-up met Kelia Kaniki Masengo, Els Verhofstede
+  en Ariane Van Hasselt in <strong>CC Maaseik</strong> \n<br><strong>17/10/26</strong>
+  \ Goedgezind & Flink (zonder decor) in <strong>Bouchout</strong> \n<br><strong>24/10/26</strong>
+  \ 45' in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule in <strong>Zaventem</strong>
+  \n<br><strong>05/10/26</strong>  support Iwein Segers in <strong>Rijkevorsel</strong>
+  \n<br><strong>24/11/26</strong>  45' bij <strong>Vayamundo Oostende</strong> \n<br><strong>25/11/26</strong>
+  \ 45' bij <strong>Korfbal Leuven</strong> \n<br><strong>14/01/27</strong>  MC Palaver
+  comedy in <strong>Minard in Gent</strong> \n<br><strong>26/02/27</strong>  20' set
+  in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in <strong>cc Stroming
+  Berlare</strong> \n<br><strong>27/02/27</strong>  Goedgezind & Flink zonder decor
+  in <strong>Theatergarage Borgerhout</strong> \n<br><strong>27/03/27</strong>  45'
+  set bij <strong>Kleurstof Atelier Aalter</strong> \n<br><strong>15/04/2027</strong>
+  \ 45' set bij <strong>Brouwcompagnie Antwerpen</strong> \n<br><strong>17/04/2027</strong>
+  \ 15' op Comedy fest <strong>Waardamme</strong>  \n<br><strong>16/10/2027</strong>
+  \ MC voor Tim Loobuyck en Yannick Noben in <strong>Zandhoven</strong> "
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
 getuigenissen_title: Getuigenissen van collega's
