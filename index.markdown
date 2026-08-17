@@ -15,7 +15,7 @@ goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;\">Tournee
   2026-2027 - tickets online </span>\n<br>\n<br>18/09/26 in 't Ankerpunt in <strong>Wichelen</strong>
   \  //  <a href=\"https://tankerpunt.be/evenementen/goedgezind-flink/\" style=\"color:
-  black; background-color: white;\">Tickets</a> \n<br>19/09/26 in GC De Lijsterbes
+  black; background-color: white;\">Laatste tickets</a> \n<br>19/09/26 in GC De Lijsterbes
   in <strong>Kraainem</strong>  //  <a href=\"https://www.delijsterbes.be/nl/programma/roosje-pertz\"
   style=\"color: black; background-color: white;\">Uitverkocht</a> \n<br>01/10/26
   in CC Binder in <strong>Puurs-Sint-Amands</strong>  //  <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
@@ -60,7 +60,7 @@ speellijst: "<br><strong>18/08/26</strong> ROB zomervertellingen in <strong>Sche
   en Ariane Van Hasselt in <strong>CC Maaseik</strong> \n<br><strong>17/10/26</strong>
   \ Goedgezind & Flink (zonder decor) in <strong>Bouchout</strong> \n<br><strong>24/10/26</strong>
   \ 45' in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule in <strong>Zaventem</strong>
-  \n<br><strong>05/10/26</strong>  support Iwein Segers in <strong>Rijkevorsel</strong>
+  \n<br><strong>05/11/26</strong>  support Iwein Segers in <strong>Rijkevorsel</strong>
   \n<br><strong>24/11/26</strong>  45' bij <strong>Vayamundo Oostende</strong> \n<br><strong>25/11/26</strong>
   \ 45' bij <strong>Korfbal Leuven</strong> \n<br><strong>14/01/27</strong>  MC Palaver
   comedy in <strong>Minard in Gent</strong> \n<br><strong>26/02/27</strong>  20' set
