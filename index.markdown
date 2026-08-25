@@ -15,7 +15,7 @@ goedgezind_title: Zaalshow Goedgezind en flink
 goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;\">Tournee
   2026-2027 - tickets online </span>\n<br>\n<br>18/09/26 in 't Ankerpunt in <strong>Wichelen</strong>
   \  //  <a href=\"https://tankerpunt.be/evenementen/goedgezind-flink/\" style=\"color:
-  black; background-color: white;\">Laatste tickets</a> \n<br>19/09/26 in GC De Lijsterbes
+  black; background-color: white;\">Uitverkocht</a> \n<br>19/09/26 in GC De Lijsterbes
   in <strong>Kraainem</strong>  //  <a href=\"https://www.delijsterbes.be/nl/programma/roosje-pertz\"
   style=\"color: black; background-color: white;\">Uitverkocht</a> \n<br>01/10/26
   in CC Binder in <strong>Puurs-Sint-Amands</strong>  //  <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
