@@ -35,7 +35,7 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   in Cultuurhuis <strong>Stekene</strong>  //  <a href=\"https://www.cultuurhuisstekene.be/activiteiten/goedgezind-en-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\"> Uitverkocht - wachtlijst </a>\n<br>11/03/27
   in GC Gasthuis in <strong>Wijnegem</strong>   //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/\"
-  style=\"color: black; background-color: white;\"> Tickets online vanaf  24 augustus</a>\n<br>12/03/27
+  style=\"color: black; background-color: white;\"> Tickets online vanaf  27 augustus</a>\n<br>12/03/27
   in CC De Ploter in <strong>Ternat</strong>   //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>22/04/27 in CC
   Den Amer in <strong>Diest</strong>   //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
