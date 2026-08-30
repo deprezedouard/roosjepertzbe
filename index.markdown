@@ -35,8 +35,8 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   in Cultuurhuis <strong>Stekene</strong>  //  <a href=\"https://www.cultuurhuisstekene.be/activiteiten/goedgezind-en-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\"> Uitverkocht - wachtlijst </a>\n<br>11/03/27
   in GC Gasthuis in <strong>Wijnegem</strong>   //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink/?lid=887\"
-  style=\"color: black; background-color: white;\"> Tickets</a>\n<br>12/03/27 in CC
-  De Ploter in <strong>Ternat</strong>   //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
+  style=\"color: black; background-color: white;\"> Uitverkocht</a>\n<br>12/03/27
+  in CC De Ploter in <strong>Ternat</strong>   //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>22/04/27 in CC
   Den Amer in <strong>Diest</strong>   //  <a href=\"https://apps.ticketmatic.com/widgets/cc_diest/addtickets?accesskey=4b1010ceb643ecc95f3d72b8&event=13597&flow=returnorcheckout&l=nl&returnurl=https%3A%2F%2Fticketshop.ticketmatic.com%2Fcc_diest%2Fshop%2Freturn%3Fl%3Dnl&saleschannelid=10002&signature=9f79cc188be393ca21037c7ab9595a6d57bd51ab520ce30e6f00646b5adcd3d1&skinid=10000#!/addtickets\"
   style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>21/05/27
@@ -100,8 +100,8 @@ copywriting_text: |-
   Roosje schreef copy en artikels voor verschillende CRM magazines en nieuwsbrieven en kan dat ook voor die van jou. <br><br><a href="https://radio1.be/bijeenkomsten-zijn-verboden-en-dus-heb-ik-als-stand-upcomedian-geen-publiek-en-geen-podium-meer" target="_blank">Lees hier haar column voor Radio 1 over de lockdown van maart 2020.</a><br><br><a href="https://drive.google.com/drive/folders/1QblVu2t12DSh8cbH6q0eNgwRI1rO7KkW?usp=sharing" target="_blank">Download hier de waanzinnige quizvragen die ze maakte voor de podcast Palaver.</a>
 copywriting_button: Contacteer mij
 contact_titel: Contacteer mij!
-contact_text: 'Voor boekingen en al de rest mail naar <a href="mailto:booking@tram4.be"
-  style=''color: white''>booking@tram4.be</a>'
+contact_text: 'Voor boekingen en al de rest mail naar <a href="mailto:management@tram4.be"
+  style=''color: white''>management@tram4.be</a>'
 layout: default
 ---
 
