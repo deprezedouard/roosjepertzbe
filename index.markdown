@@ -34,10 +34,10 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   style=\"color: black; background-color: white;\"> Tickets binnenkort online</a>\n<br>19/02/27
   in Cultuurhuis <strong>Stekene</strong>  //  <a href=\"https://www.cultuurhuisstekene.be/activiteiten/goedgezind-en-flink-roosje-pertz\"
   style=\"color: black; background-color: white;\"> Uitverkocht - wachtlijst </a>\n<br>10/03/27
-  <strong>  EXTRA SHOW </strong> in GC Gasthuis in <strong>Wijnegem</strong>   //
-  \ <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink-1706/?lid=887\"
-  style=\"color: black; background-color: white;\">Tickets</a><br>11/03/27 in GC Gasthuis
-  in <strong >Wijnegem</strong>   //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink/?lid=887\"
+  <strong style=\"color: black; background-color: white;\">EXTRA SHOW</strong> \nin
+  GC Gasthuis in <strong>Wijnegem</strong> //  \n<a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink-1706/?lid=887\"
+  style=\"color: black; background-color: white;\">Tickets</a>\n<br>11/03/27 in GC
+  Gasthuis in <strong >Wijnegem</strong>   // <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink/?lid=887\"
   style=\"color: black; background-color: white;\"> Uitverkocht</a>\n<br>12/03/27
   in CC De Ploter in <strong>Ternat</strong>   //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>22/04/27 in CC
