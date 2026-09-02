@@ -37,8 +37,7 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   <strong>  EXTRA SHOW </strong> in GC Gasthuis in <strong>Wijnegem</strong>   //
   \ <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink-1706/?lid=887\"
   style=\"color: black; background-color: white;\">Tickets</a><br>11/03/27 in GC Gasthuis
-  in <strong style=\"color: black; background-color: white;\">Wijnegem</strong>   //
-  \ <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink/?lid=887\"
+  in <strong >Wijnegem</strong>   //  <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink/?lid=887\"
   style=\"color: black; background-color: white;\"> Uitverkocht</a>\n<br>12/03/27
   in CC De Ploter in <strong>Ternat</strong>   //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>22/04/27 in CC
