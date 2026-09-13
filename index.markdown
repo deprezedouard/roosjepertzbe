@@ -60,7 +60,7 @@ speellijst: "<br><strong>14/09/26</strong>  MC voor Jens Deferm, Jan Linssen en 
   \n<br><strong>05/11/26</strong>  support Iwein Segers in <strong>Rijkevorsel</strong>
   //  <a href=\"https://www.desinger.be/nl/programma/5-11-2026/iwein-segers\" style=\"color:
   black; background-color: white;\"> Tickets</a>\n<br><strong>08/11/26</strong>  45'
-  set in Wolinski comedy club in  <strong>Brugge</strong> //  <a href=\"https://apps.ticketmatic.com/widgets/brugge_plus/flow/web?event=391799101480#!/addtickets\"
+  set in Wolinski comedy club in  <strong>Brugge</strong> //  <a href=\"https://www.ticketsbrugge.be/nl/events/pieter-verelst-en-roosje-pertz-live-in-wolinski?show=15886859\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>24/11/26</strong>
   \ 45' bij <strong>Vayamundo Oostende</strong> //  <a href=\"https://comedy-oostende.weticket.io/november\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>25/11/26</strong>
