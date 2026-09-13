@@ -61,11 +61,12 @@ speellijst: "<br><strong>14/09/26</strong>  MC voor Jens Deferm, Jan Linssen en 
   \ 45' bij <strong>Vayamundo Oostende</strong> //  <a href=\"https://comedy-oostende.weticket.io/november\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>25/11/26</strong>
   \ 45' bij <strong>Korfbal Leuven</strong> \n<br><strong>14/01/27</strong>  MC Palaver
-  comedy in <strong>Minard in Gent</strong> \n<br><strong>26/02/27</strong>  20' set
-  in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in <strong>cc Stroming
-  Berlare</strong> \n<br><strong>27/02/27</strong>  Goedgezind & Flink zonder decor
-  in <strong>Theatergarage Borgerhout</strong> \n<br><strong>27/03/27</strong>  45'
-  set bij <strong>Kleurstof Atelier Aalter</strong> \n<br><strong>15/04/2027</strong>
+  comedy in <strong>Minard in Gent</strong> //  <a href=\"https://minard.be/voorstelling/edouard-de-prez-9-jaar-palaver-live/\"
+  style=\"color: black; background-color: white;\"> Tickets</a><br><strong>26/02/27</strong>
+  \ 20' set in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in <strong>cc
+  Stroming Berlare</strong> \n<br><strong>27/02/27</strong>  Goedgezind & Flink zonder
+  decor in <strong>Theatergarage Borgerhout</strong> \n<br><strong>27/03/27</strong>
+  \ 45' set bij <strong>Kleurstof Atelier Aalter</strong> \n<br><strong>15/04/2027</strong>
   \ 45' set bij <strong>Brouwcompagnie Antwerpen</strong> \n<br><strong>17/04/2027</strong>
   \ 15' op Comedy fest <strong>Waardamme</strong>  \n<br><strong>16/10/2027</strong>
   \ MC voor Tim Loobuyck en Yannick Noben in <strong>Zandhoven</strong> "
