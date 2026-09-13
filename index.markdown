@@ -53,13 +53,14 @@ speellijst: "<br><strong>14/09/26</strong>  MC voor Jens Deferm, Jan Linssen en 
   \ set bij <strong>Cera Leuven</strong> \n<br><strong>26/09/26</strong>   2 x line-up
   met Kelia Kaniki Masengo, Els Verhofstede en Ariane Van Hasselt in <strong>CC Maaseik</strong>
   //  <a href=\"https://www.achterolmen.be/nl/programma/wij-vieren-feest\" style=\"color:
-  black; background-color: white;\"> Tickets</a><br>\n<br><strong>17/10/26</strong>
-  \ Goedgezind & Flink (zonder decor) in <strong>Boechout</strong> //  <a href=“https://www.boechout.be/agenda/e/goedgezind-en-flink/4eba1b5b-8145-47cd-98da-e3083802e363”
+  black; background-color: white;\"> Tickets</a>\n<br><strong>17/10/26</strong>  Goedgezind
+  & Flink (zonder decor) in <strong>Boechout</strong> //  <a href=“https://www.boechout.be/agenda/e/goedgezind-en-flink/4eba1b5b-8145-47cd-98da-e3083802e363”
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>24/10/26</strong>
   \ 45' in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule in <strong>Zaventem</strong>
   \n<br><strong>05/11/26</strong>  support Iwein Segers in <strong>Rijkevorsel</strong>
-  \n<br><strong>08/11/26</strong>  45' set in Wolinski comedy club in  <strong>Brugge</strong>
-  //  <a href=\"https://apps.ticketmatic.com/widgets/brugge_plus/flow/web?event=391799101480#!/addtickets\"
+  //  <a href=“https://www.desinger.be/nl/programma/5-11-2026/iwein-segers” style=\"color:
+  black; background-color: white;\"> Tickets</a>\n<br><strong>08/11/26</strong>  45'
+  set in Wolinski comedy club in  <strong>Brugge</strong> //  <a href=\"https://apps.ticketmatic.com/widgets/brugge_plus/flow/web?event=391799101480#!/addtickets\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>24/11/26</strong>
   \ 45' bij <strong>Vayamundo Oostende</strong> //  <a href=\"https://comedy-oostende.weticket.io/november\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>25/11/26</strong>
@@ -70,9 +71,11 @@ speellijst: "<br><strong>14/09/26</strong>  MC voor Jens Deferm, Jan Linssen en 
   Stroming Berlare</strong> \n<br><strong>27/02/27</strong>  Goedgezind & Flink zonder
   decor in <strong>Theatergarage Borgerhout</strong> //  <a href=\"https://www.theatergarage.be/het-programma/roosje-pertz-goedgezind-flink\"
   style=\"color: black; background-color: white;\"> Tickets</a><\n<br><strong>27/03/27</strong>
-  \ 45' set bij <strong>Kleurstof Atelier Aalter</strong> \n<br><strong>15/04/2027</strong>
+  \ 45' set bij <strong>Kleurstof Atelier Aalter</strong> //  <a href=“https://www.kleurstof.be/event-details/comedy-kleurstof-met-roosje-pertz”
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>15/04/2027</strong>
   \ 45' set bij <strong>Brouwcompagnie Antwerpen</strong> \n<br><strong>17/04/2027</strong>
-  \ 15' op Comedy fest <strong>Waardamme</strong>  \n<br><strong>16/10/2027</strong>
+  \ 15' op Comedy fest <strong>Waardamme</strong>  //  <a href=“https://www.oostkamp.be/activiteiten/detail/6894/rigoleus-stand-up-comedy-festival”
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>16/10/2027</strong>
   \ MC voor Tim Loobuyck en Yannick Noben in <strong>Zandhoven</strong> "
 speellijst_button: Boek Roosje
 podcast_title: Het laatste taboe
