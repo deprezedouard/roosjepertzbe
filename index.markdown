@@ -48,19 +48,18 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   De Borre in <strong>Bierbeek</strong>   // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"
   style=\"color: black; background-color: white;\">Uitverkocht</a>"
 speellijst_titel: Line-ups en MC
-speellijst: "<br><strong>09/09/26</strong>  TVL zomervertellingen in<strong> As</strong>
-  \n<br><strong>11/09/26</strong>  25'set in line-up met MC Koen Dewulf, Jan LInssen
-  en Thomas Smith in <strong>Mol</strong> \n<br><strong>12/09/26</strong>  45'set
-  in line-up met MC Lev Vanorbeek en Joost Van Hyfte op de Vlierbeekse feesten in
-  <strong>Kessel-Lo</strong> \n<br><strong>14/09/26</strong>  MC voor Jens Deferm,
-  Jan Linssen en Lev van Orbeek in spiegeltent <strong>Berbroek (Herk-de-stad)</strong>
-  \n<br><strong>25/09/26</strong>  set bij <strong>Cera Leuven</strong> \n<br><strong>26/09/26</strong>
-  \  2 x line-up met Kelia Kaniki Masengo, Els Verhofstede en Ariane Van Hasselt in
-  <strong>CC Maaseik</strong> \n<br><strong>17/10/26</strong>  Goedgezind & Flink
-  (zonder decor) in <strong>Bouchout</strong> \n<br><strong>24/10/26</strong>  45'
-  in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule in <strong>Zaventem</strong>
-  \n<br><strong>05/11/26</strong>  support Iwein Segers in <strong>Rijkevorsel</strong>
-  \n<br><strong>24/11/26</strong>  45' bij <strong>Vayamundo Oostende</strong> \n<br><strong>25/11/26</strong>
+speellijst: "<br><strong>14/09/26</strong>  MC voor Jens Deferm, Jan Linssen en Lev
+  van Orbeek in spiegeltent <strong>Berbroek (Herk-de-stad)</strong> \n<br><strong>25/09/26</strong>
+  \ set bij <strong>Cera Leuven</strong> \n<br><strong>26/09/26</strong>   2 x line-up
+  met Kelia Kaniki Masengo, Els Verhofstede en Ariane Van Hasselt in <strong>CC Maaseik</strong>
+  \n<br><strong>17/10/26</strong>  Goedgezind & Flink (zonder decor) in <strong>Bouchout</strong>
+  \n<br><strong>24/10/26</strong>  45' in line-up met Koen Dewulf, Jelle Beeckman
+  en Gery La Boule in <strong>Zaventem</strong> \n<br><strong>05/11/26</strong>  support
+  Iwein Segers in <strong>Rijkevorsel</strong> \n<br><strong>08/11/26</strong>  45'
+  set in Wolinski comedy club in  <strong>Brugge</strong> //  <a href=\"https://apps.ticketmatic.com/widgets/brugge_plus/flow/web?event=391799101480#!/addtickets\"
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>24/11/26</strong>
+  \ 45' bij <strong>Vayamundo Oostende</strong> //  <a href=\"https://comedy-oostende.weticket.io/november\"
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>25/11/26</strong>
   \ 45' bij <strong>Korfbal Leuven</strong> \n<br><strong>14/01/27</strong>  MC Palaver
   comedy in <strong>Minard in Gent</strong> \n<br><strong>26/02/27</strong>  20' set
   in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in <strong>cc Stroming
