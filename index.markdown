@@ -54,7 +54,7 @@ speellijst: "<br><strong>14/09/26</strong>  MC voor Jens Deferm, Jan Linssen en 
   met Kelia Kaniki Masengo, Els Verhofstede en Ariane Van Hasselt in <strong>CC Maaseik</strong>
   //  <a href=\"https://www.achterolmen.be/nl/programma/wij-vieren-feest\" style=\"color:
   black; background-color: white;\"> Tickets</a>\n<br><strong>17/10/26</strong>  Goedgezind
-  & Flink (zonder decor) in <strong>Boechout</strong> //  <a href=“https://www.boechout.be/agenda/e/goedgezind-en-flink/4eba1b5b-8145-47cd-98da-e3083802e363”
+  & Flink (zonder decor) in <strong>Boechout</strong> //  <a href=\"https://www.boechout.be/agenda/e/goedgezind-en-flink/4eba1b5b-8145-47cd-98da-e3083802e363\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>24/10/26</strong>
   \ 45' in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule in <strong>Zaventem</strong>
   \n<br><strong>05/11/26</strong>  support Iwein Segers in <strong>Rijkevorsel</strong>
