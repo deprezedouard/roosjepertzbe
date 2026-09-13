@@ -71,7 +71,7 @@ speellijst: "<br><strong>14/09/26</strong>  MC voor Jens Deferm, Jan Linssen en 
   Stroming Berlare</strong> \n<br><strong>27/02/27</strong>  Goedgezind & Flink zonder
   decor in <strong>Theatergarage Borgerhout</strong> //  <a href=\"https://www.theatergarage.be/het-programma/roosje-pertz-goedgezind-flink\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>27/03/27</strong>
-  \ 45' set bij <strong>Kleurstof Atelier Aalter</strong> //  <a href=“https://www.kleurstof.be/event-details/comedy-kleurstof-met-roosje-pertz”
+  \ 45' set bij <strong>Kleurstof Atelier Aalter</strong> //  <a href=\"https://www.kleurstof.be/event-details/comedy-kleurstof-met-roosje-pertz\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>15/04/2027</strong>
   \ 45' set bij <strong>Brouwcompagnie Antwerpen</strong> \n<br><strong>17/04/2027</strong>
   \ 15' op Comedy fest <strong>Waardamme</strong>  //  <a href=\"https://www.oostkamp.be/activiteiten/detail/6894/rigoleus-stand-up-comedy-festival\"
