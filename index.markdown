@@ -19,7 +19,7 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   GC De Lijsterbes in <strong>Kraainem</strong>  //  <a href=\"https://www.delijsterbes.be/nl/programma/roosje-pertz\"
   style=\"color: black; background-color: white;\">Uitverkocht - wachtlijst </a> \n<br>01/10/26
   in CC Binder in <strong>Puurs-Sint-Amands</strong>  //  <a href=\"https://webshop.puurs-sint-amands.be/Tickets/Detail?shop=301E5B74-59D7-4A9C-AA60-7F733BFC376A&id=f36b156a-3a28-f111-9597-dc371dff5d9d\"
-  style=\"color: black; background-color: white;\"> Laatste tickets</a>\n<br>08/10/26
+  style=\"color: black; background-color: white;\"> Uitverkocht</a>\n<br>08/10/26
   in GC De Volle Vaart in <strong>Grobbendonk</strong> //  <a href=\"https://be.ticketgang.eu/orgFrameSaleNew.php?org=10471#\"
   style=\"color: black; background-color: white;\"> Uitverkocht </a><br>\n21/11/26
   in CC Fabriek in <strong>Sint-Lievens-Houtem</strong> //  <a href=\"https://www.sint-lievens-houtem.be/activiteiten/roosje-pertz-goedgezind-en-flink\"
