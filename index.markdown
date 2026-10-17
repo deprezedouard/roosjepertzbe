@@ -36,8 +36,8 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   style=\"color: black; background-color: white;\"> Uitverkocht - wachtlijst </a>\n<br>10/03/27
   <strong style=\"color: black; background-color: white;\">EXTRA SHOW</strong> \nin
   GC Gasthuis in <strong>Wijnegem</strong> //  \n<a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink-1706/?lid=887\"
-  style=\"color: black; background-color: white;\">Tickets</a>\n<br>11/03/27 in GC
-  Gasthuis in <strong >Wijnegem</strong>   // <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink/?lid=887\"
+  style=\"color: black; background-color: white;\">Uitverkocht</a>\n<br>11/03/27 in
+  GC Gasthuis in <strong >Wijnegem</strong>   // <a href=\"https://gasthuis.wijnegem.be/programma/voorstellingen/goedgezind-en-flink/?lid=887\"
   style=\"color: black; background-color: white;\"> Uitverkocht</a>\n<br>12/03/27
   in CC De Ploter in <strong>Ternat</strong>   //  <a href=\"https://www.ccdeploter.be/roosje-pertz\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br>18/03/27 <strong
@@ -51,13 +51,8 @@ goedgezind_speellijst: "<br><span style=\"color: black; background-color: white;
   De Borre in <strong>Bierbeek</strong>   // <a href=\"https://www.deborre.be/cultuur/roosje-pertz\"
   style=\"color: black; background-color: white;\">Uitverkocht</a>"
 speellijst_titel: Line-ups en MC
-speellijst: "<br><strong>14/09/26</strong>  MC voor Jens Deferm, Jan Linssen en Lev
-  van Orbeek in spiegeltent <strong>Berbroek (Herk-de-stad)</strong> \n<br><strong>25/09/26</strong>
-  \ set bij <strong>Cera Leuven</strong> \n<br><strong>26/09/26</strong>   2 x line-up
-  met Kelia Kaniki Masengo, Els Verhofstede en Ariane Van Hasselt in <strong>CC Maaseik</strong>
-  //  <a href=\"https://www.achterolmen.be/nl/programma/wij-vieren-feest\" style=\"color:
-  black; background-color: white;\"> Tickets</a>\n<br><strong>17/10/26</strong>  Goedgezind
-  & Flink (zonder decor) in <strong>Boechout</strong> //  <a href=\"https://www.boechout.be/agenda/e/goedgezind-en-flink/4eba1b5b-8145-47cd-98da-e3083802e363\"
+speellijst: "<br><strong>17/10/26</strong>  Goedgezind & Flink (zonder decor) in <strong>Boechout</strong>
+  //  <a href=\"https://www.boechout.be/agenda/e/goedgezind-en-flink/4eba1b5b-8145-47cd-98da-e3083802e363\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>24/10/26</strong>
   \ 45' in line-up met Koen Dewulf, Jelle Beeckman en Gery La Boule in <strong>Zaventem</strong>
   \n<br><strong>05/11/26</strong>  support Iwein Segers in <strong>Rijkevorsel</strong>
