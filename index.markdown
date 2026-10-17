@@ -62,9 +62,12 @@ speellijst: "<br><strong>17/10/26</strong>  Goedgezind & Flink (zonder decor) in
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>24/11/26</strong>
   \ 45' bij <strong>Vayamundo Oostende</strong> //  <a href=\"https://comedy-oostende.weticket.io/november\"
   style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>25/11/26</strong>
-  \ 45' bij <strong>Korfbal Leuven</strong> \n<br><strong>14/01/27</strong>  MC Palaver
-  comedy in <strong>Minard in Gent</strong> //  <a href=\"https://minard.be/voorstelling/edouard-de-prez-9-jaar-palaver-live/\"
-  style=\"color: black; background-color: white;\"> Tickets</a><br><strong>26/02/27</strong>
+  \ 45' bij <strong>Korfbal Leuven</strong> \n<strong>02/12/26</strong> 30' set in
+  line-up met Linda Laat Los en Nele Goossens in <strong>Velm</strong> //  Uitverkocht\n<br><strong>17/12/26</strong>
+  \ 25' in line-up met Ygor uit Popering, Joost Van Hyfte  en MC Jelle Beeckman in
+  <strong>Deinze</strong> <br>\n<strong>14/01/27</strong>  MC Palaver comedy in <strong>Minard
+  in Gent</strong> //  <a href=\"https://minard.be/voorstelling/edouard-de-prez-9-jaar-palaver-live/\"
+  style=\"color: black; background-color: white;\"> Tickets</a>\n<br><strong>26/02/27</strong>
   \ 20' set in line-up met Koen Dewulf, Thomas Smith en Ygor uit Poperinge in <strong>cc
   Stroming Berlare</strong> \n<br><strong>27/02/27</strong>  Goedgezind & Flink zonder
   decor in <strong>Theatergarage Borgerhout</strong> //  <a href=\"https://www.theatergarage.be/het-programma/roosje-pertz-goedgezind-flink\"
